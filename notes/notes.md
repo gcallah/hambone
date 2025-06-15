@@ -1,4 +1,4 @@
-# Hambone, Prince of Denmark
+# Hampton, Prince of Denmark
 
 
 Denmark, South Carolina, is a sleepy hamlet part way between Columbia and Savannah. Only four square miles in area, it
@@ -12,7 +12,7 @@ town was a white businessman,
 Characters
 
 
-Hambone
+Hampton
 
 
 Uncle Claude
@@ -31,10 +31,9 @@ Agnes Day
 Donna Nobis
 
 
- set in Denmark, South Carolina, where Hamlet's father owns a car dealership.
+ set in Denmark, South Carolina, where Hampton's father owns a car dealership.
 
 
-Hambone owns Elsie's Bar.
 
 Beetles
 
