@@ -1,6 +1,8 @@
 # Up on the Roof
 
 
+1.
+
 Denmark, South Carolina, is a sleepy hamlet part way between Columbia and Savannah. Only four square miles in area, it
 is inhabited by a few thousand souls. The vast majority of them are black folk, but until recently, the king of the
 town was a white businessman, Will Shepherd. He owned the town's only real estate agency, as well as its used car
@@ -51,10 +53,55 @@ Hiram makes a puzzled face, and tells the others, "Yo, imma go get Hampton. He g
 lost relative or something."
 
 
-Hiram goes downstairs to the bar where Will's brother, Claude, is having a party celebrating his engagement to Will's widow,
-Gertie. Will's son Hampton sits at the table, looking decidely unfestive.
+2.
 
-[Scene in the bar TBW.]
+Meanwhile, downstairs in the bar, Will's brother, Claude, is having a party celebrating his engagement to Will's widow,
+Gertie. Among the dozen people seated at the long table is Will's son Hampton, looking decidely unfestive.
+
+Claude is addressing the whole table:
+
+"It looks like Forrest might be planning a takeover of some new turf. And he ain't sure, but he suspects that it was Will
+that killed his pappy. So we gotta be ready for some action from them.
+
+"In the meantime, I'm a send Corny and Clarence up to Norway to see if they can talk some sense into Forrest."
+
+Claude looks over at a young, dreadlock bearing black man at the other end of the table.
+
+"So Ambrose, I hear you plan on headin' back down Louisiana?"
+
+"Yes sir. Plenty work on them shrimp boats."
+
+"And what yo daddy say about this?"
+
+Ambrose's father, Winthrop, seated next to his boy, speaks up: "Yeah, I don't like it, but he talk me into it. So I
+guess it's fine."
+
+Claude next turns to the white youth sitting directly across from him.
+
+"Hampton, you know you like a son to me. And we gonna need you if Forrest is making a move against us. I know you're
+still mourning your pappy, but you gotta snap out of it.
+
+Gertie, from her chair next to Claude, joins in. "Yes son, why you seem so down?"
+
+Hampton rises from his chair, offended. "Whachoo mean 'seem'? You think I'm just putting on some show?"
+
+Claude waves his hands back and forth as though blessing the host at a church service.
+
+"Now listen, it only right you mourning your pappy. But boy, enough is enough. You're not the only one who lost his
+daddy. You see my daddy anywhere round here? Everyone here gonna lose their daddy sooner or later, if they ain't done so
+already. That just the way of things. You upset about that, you gotta take the issue up with our Lord.
+And given our situation, we gotta ask you to drop your intent to go back to Georgia, and stick around here for the present."
+
+Hampton, while giving a mock bow, answers, "Your wish is my command."
+
+Claude ignores the sarcasm, and with a big grin, tells Hampton, "Now that makes me real pleased."
+
+Just thenm, Hiram enters the bar from the back room, and calls Hampton over.
+
+Hampton excuses himself from the table, saying "My boy needs me."
+
+
+3.
 
 Hiram brings Hampton out of the bar, and points up the street.
 
