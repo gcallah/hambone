@@ -1,7 +1,7 @@
 # Up on the Roof
 
 
-1.
+## 1.
 
 Denmark, South Carolina, is a sleepy hamlet part way between Columbia and Savannah. Only four square miles in area, it
 is inhabited by a few thousand souls. The vast majority of them are black folk, but until recently, the king of the
@@ -30,6 +30,14 @@ in between the two lies Sweden, South Carolina.)
 
 "Man, it don't make no sense to underestimate them. That Forrest, he mean."
 
+Bernie, staring up at the low-hanging clouds, asks, "Now wait a second: didn't Will kill Forrest's daddy?
+
+"Yeah, that's what they say... and a whole bunch of Polacks too!"
+
+"What the Polacks doing in Norway?"
+
+"I dunno. Some Polish Mafia shit."
+
 Hearing a noise behind them, they spin around to find Marcus and Hiram opening the door onto the roof.
 
 Marcus shakes his head. "Man, you boys don't ever wanna share, do you?"
@@ -53,7 +61,7 @@ Hiram makes a puzzled face, and tells the others, "Yo, imma go get Hampton. He g
 lost relative or something."
 
 
-2.
+## 2.
 
 Meanwhile, downstairs in the bar, Will's brother, Claude, is having a party celebrating his engagement to Will's widow,
 Gertie. Among the dozen people seated at the long table is Will's son Hampton, looking decidely unfestive.
@@ -101,7 +109,7 @@ Just then, Hiram enters the bar from the back room, and calls Hampton over.
 Hampton excuses himself from the table, saying "My boy needs me."
 
 
-3.
+## 3.
 
 Hiram brings Hampton out of the bar, and points up the street.
 
