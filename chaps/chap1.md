@@ -96,7 +96,7 @@ Hampton, while giving a mock bow, answers, "Your wish is my command."
 
 Claude ignores the sarcasm, and with a big grin, tells Hampton, "Now that makes me real pleased."
 
-Just thenm, Hiram enters the bar from the back room, and calls Hampton over.
+Just then, Hiram enters the bar from the back room, and calls Hampton over.
 
 Hampton excuses himself from the table, saying "My boy needs me."
 
