@@ -77,7 +77,7 @@ Claude looks over at a young, dreadlock bearing black man at the other end of th
 
 "So Ambrose, I hear you plan on headin' back down Louisiana?"
 
-"Yes sir. Plenty work on them shrimp boats."
+"Yes sir. Plenty work on them oil rigs."
 
 "And what yo daddy say about this?"
 
@@ -108,8 +108,65 @@ Just then, Hiram enters the bar from the back room, and calls Hampton over.
 
 Hampton excuses himself from the table, saying "My boy needs me."
 
-
 ## 3.
+
+Ambrose has left the party table and joined his sister Camellia at a table in the back of the bar.
+
+"So I'm going back to Louisiana. You gonna keep texting me while I gone?"
+
+"You know I gonna."
+
+"And you might not wanna hear this, but I gotta talk to you about Hampton."
+
+"Oh here we go."
+
+"No you listen: you know he just messing with you, right? Ain't no white boy from the Shepherd family gonna get serious
+with a black girl from the hired help. Even if he sincere, his family ain't gonna let him follow through."
+
+"So you giving me this advice, but I know you messing around with that white girl who work at the golf club... you think
+she serious about you?"
+
+"Aw we just having some fun."
+
+"Yeah, so don't be giving me no advice you ain't gonna follow yourself."
+
+Winthrop has left the main party table and now joins them in the back of the bar. He addresses Ambrose.
+
+"Listen my boy, you gonna be making big money down on them oil rigs. Don't you go losing your head cause you got a few
+dollars to spend. I know them Louisiana folks all into their fancy French ways, but you gotta remember where you from."
+
+"Daddy, you ain't got nothing to worry about."
+
+Ambrose gets up from the table. "I gotta go get some rest before I leave. And Camillia, don't you forget what I told you."
+
+Ambrose gets up from the table and walks out of the bar.
+
+Winthrop asks Camellia, "What was it he told you?"
+
+"He told me I oughta back off from Hampton."
+
+"What going on between you and Hampton?"
+
+"Daddy, he tell me he really wanna be with me, and not, you know, just get some." 
+
+"And you believe him?"
+
+
+
+
+## 4.
+
+As Hiram and Hampton walk away from the party table, Hiram asks, "Ain't it kind of weird, your uncle gettin' engaged to
+your mom so soon after your daddy died?"
+
+Hampton shrugs. "Hey, it's just a cost savin' measure."
+
+"Whachoo mean?"
+
+"There's still a bunch of liquor and blow left over from daddy's funeral, so they can save money by usin' it for the
+engagement party."
+
+"Man, tThat cold."
 
 Hiram brings Hampton out of the bar, and points up the street.
 
