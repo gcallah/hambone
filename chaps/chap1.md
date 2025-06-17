@@ -147,7 +147,7 @@ Winthrop asks Camellia, "What was it he told you?"
 
 "What going on between you and Hampton?"
 
-"Daddy, he tell me he really wanna be with me, and not, you know, just get some." 
+"Daddy, he tell me he really wanna be with me, and not, you know..." 
 
 "And you believe him?"
 
