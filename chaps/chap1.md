@@ -202,6 +202,10 @@ all sit in silence as they smoke.
 Finally Hampton gets up and turns to look at the others. He tells them, 
 "Listen, my brothers, don't nobody say nothin' about this shit. I gotta check this out for myself."
 
+But just then an ominous rumble of thunder turned everyone's attention upwards.  With great rapidity, the sky to the
+west grew a deeper shade of black, punctuated by brilliant zigzags of lightning. The
+crew on the roof scrambled down the fire escape, and made it into their cars just before a torrential rain engulfed
+Denmark.
 
 
 
