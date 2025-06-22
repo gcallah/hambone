@@ -1,6 +1,6 @@
 # The Tears of a Clown
 
-1.
+## 1.
 
 Winthrop is sitting in the rocking chair on his front porch on Butler Street. His daughter Camillia comes walking up to
 the porch, looking agitated.
@@ -22,7 +22,7 @@ him mad. And maybe I was just jealous. You know, ole folk like me, we done too e
 Look, what we gotta do is go see Claude, and let him know his nephew in a bad place."
 
 
-2.
+## 2.
 
 Claude and Gertie meet with Thaddeus and Alastair in the Shepherd Real Estate office.
 
@@ -99,8 +99,11 @@ Gertie: "Is there more like that?"
 "Yeah, he wrote her some rap lyrics or something:
 
 "My love burns like a flaming star
+
 Brighter even than the sun at noon
+
 I ain't lying about what you are
+
 You're the notes that make my tune"
 
 Claude asks him, "So what she doing about all this?"
