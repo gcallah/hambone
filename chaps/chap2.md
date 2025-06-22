@@ -85,15 +85,110 @@ Hampton's mental condition be my daughter."
 
 Claude gives Winthrop a puzzled look. "How she the problem?"
 
-"Well, sir, it seem your boy Hampton done fall hard for her. And I told her to pay him no mind. Cause, you know, the
-whole thing don't make no sense. But he apparently taking her rejection pretty hard, and I do believe that why he acting
-so strange. She sent me this text that Hampton sent her... So let me read it to y'all."
+"Well, sir, it seem your boy Hampton done fall hard for her. She sent me this text that Hampton sent her... So let me
+read it to y'all."
 
 Winthrop takes his smartphone out of his pocket and lifts it with a flourish before his face. He clears his throat, and
 begins reading:
 
 "You know you like heaven to me, the most beautiful woman I ever seen, and I just wanna lay my head on your ebony
-bosom..." There's more, but y'all get the idea.
+breasts..." 
+
+Gertie: "Is there more like that?"
+
+"Yeah, he wrote her some rap lyrics or something:
+
+"My love burns like a flaming star
+Brighter even than the sun at noon
+I ain't lying about what you are
+You're the notes that make my tune"
+
+Claude asks him, "So what she doing about all this?"
+
+"You know I'm loyal to y'all, right?"
+
+"I never doubted it."
+
+"Well then you know I didn't treat this as no game of craps or gin rummy. I ain't playing bunco here!"
+
+Gertie makes a face like she just bit into a lemon. "What the hell you talking about Winnie?"
+
+"What I trying to say is course I went and talk to her. And I told her to pay him no mind. Cause, you know, the whole
+thing don't make no sense. But he apparently taking her rejection pretty hard, and I do believe that why he acting so
+strange."
+
+Claude looks at Gertie. "You think this possible?"
+
+"Yeah, the boy always got his damn head in the clouds."
+
+"So how we gonna find out for sure?"
+
+Winthrop strokes his grizzled chin for a moment, and then sticks his index finger up in the air. "What about this? You
+know Hampton like to go in the bar and get a beer in the afternoon?"
+
+"Yeah, he does."
+
+"Well, I have my daughter go in to meet him there, and we can hang out in the back room and see what happen."
+
+Claude nods. "Yeah, that a plan."
+
+Gertie gestures at the office window. "And speak of the devil."
+
+Hampton is meandering down the sidewalk on the opposite side of the street, earbuds on, singing something to himself.
+
+Winthrop tells Claude and Gertie, "Go into the back office, and I'll call Hampton in."
+
+Claude says, "Yeah, why not? Come on, Gertie."
+
+Once they're out of the main room, Winthrop gets up, opens the door of the office, and calls across the street to Hampton.
+
+"Yo Hampton, what up? Come on in and relax for a bit."
+
+Hampton looks quizzical, but walks nevertheless across the street and into the office.
+
+Winthrop tells him, "Take a seat, my brother," and sits back down himself.
+
+He looks at Hampton with the most concern he can muster, and asks, "Now you know, I always got your best interest at
+heart?"
+
+"Yeah, as a pimp, you alright!"
+
+"A pimp? I ain't no pimp."
+
+"Then I only wish she was honest as a pimp."
+
+"Honest?"
+
+"In this old rotten world, ain't one man in ten thousand be honest."
+
+"True dat."
+
+"Ain't you got a daughter?"
+
+Winthrop's eyes widen, and he shakes his head.
+
+"Yeah, I think you know I got a daughter."
+
+"You gotta keep her close at home. Otherwise some gangster come along and knock her up."
+
+[Insert madness with method here.]
+
+The office door opens, and Thaddeus and Alastair re-enter.
+
+Thaddeus says, "Yo, Hampton, we been looking all over town for you."
+
+Alastair looks at Winthrop and says, "Hey Winthrop, we gotta have a word with our boy here. You alright leaving us alone
+for a bit?"
+
+"Sure thing."
+
+Winthrop gets up and leaves the office.
+
+Thaddeus and Alastair remain standing in front of Hampton. He asks them, "What up my brothers?"
+
+Thaddeus answers, "Yeah, we doing OK. Not too up and not too down."
+
+Alastair adds, "We ain't on the top of the world, but we ain't on the bottom neither."
 
 
 
