@@ -190,6 +190,30 @@ Thaddeus answers, "Yeah, we doing OK. Not too up and not too down."
 
 Alastair adds, "We ain't on the top of the world, but we ain't on the bottom neither."
 
+Hampton asks them, "So when it comes to lady luck, y'all all kind of right in the middle?"
+
+Thaddeus and Alastair both laugh, and Alastair answers, "Yeah, that us, stuck right in her privates!"
+
+"So what brings y'all here?"
+
+Thaddeus answers, "We just come to see you, see how you doing."
+
+"Yo, don't give me no bullshit: you was sent for, wasn't you?"
+
+Thaddeus and Alastair both look sheepish. Thaddeus asks, "What you want us to say?"
+
+"I guess you could go on and say anything you want, just so long as it avoids the truth."
+
+Hampton's friends squirm about uneasily.
+
+"Y'all terrible liars. I know Claude done called you here."
+
+Alastair admits, "Yeah, he did."
+
+Hampton stands up. "And I'm gonna tell you why. That way, you ain't gotta be betray no pledge you give Claude to not
+tell me why y'all here. You here because I ain't been myself of late. 
+
+
 
 
 
