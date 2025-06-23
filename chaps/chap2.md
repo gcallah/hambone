@@ -24,9 +24,10 @@ Look, what we gotta do is go see Claude, and let him know his nephew in a bad pl
 
 ## 2.
 
-Claude and Gertie meet with Thaddeus and Alastair in the Shepherd Real Estate office.
+Claude and Gertie are meeting with Thaddeus Stevens and Alastair McIntyre in the Shepherd Real Estate office.
 
-Claude: "Look, y'all been friends with Hampton for a long time. And he actin' all crazy now. So we gotta figure out what wrong with him."
+Claude: "First of all, I want to thank you for taking the trip down from Clemson to help us out.
+Y'all been friends with Hampton for a long time. And he actin' all crazy now. So we gotta figure out what wrong with him."
 
 Gertie: "He talk about y'all all the time, and we know he listen to you. So maybe you can help us out here, and figure
 out what going on with him?"
@@ -216,6 +217,56 @@ Alastair admits, "Yeah, he did."
 Hampton stands up. "And I'm gonna tell you why. That way, you ain't gotta be betray no pledge you give Claude to not
 tell me why y'all here. You here because I ain't been myself of late. 
 
+
+[what a piece of work is man]
+
+
+Thaddeus shakes his head. "Maybe those Spiritual Gospel Singers your uncle hired could cheer you up."
+
+"He hired some gospel singers? My uncle?"
+
+Alastair answers, "Yeah, he hired some big group from up Columbia way, and is having them put on a free program tonight,
+over at Rome Baptist Church. I think he's trying to get in good with the locals since he took over for your daddy. In
+fact, their tour bus got into town just before we got here, and I think their manager is due by the office any minute
+now."
+
+As though on command, the door to the office swung open right at that moment, and Norbert Doubleton, the manager of the group, entered the room.
+
+"How y'all doing? My group is here to perform tonight, and I'm looking for Mr. Claude Joyce. He around?"
+
+Hampton stands up. "Pleased to meet you. I'm Hampton Joyce. My uncle ain't here at the moment, but I'd like a word. Oh,
+and these here are my old friends Thad and Al, down from all the way up at Clemson to see how I'm doing."
+
+Everyone shakes hands with Norbert, and Hampton motions for him to have a seat.
+
+"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of in private. So whachoo say we meet up a
+little later at Elsie's and grab a beer?"
+
+Thaddeus and Alastair rise from their seats. Thaddeus says, "Sure thing, brother, what time you be there?"
+
+"Probably around 3 o'clock."
+
+"OK, we'll see you then."
+
+They walk out of the office, leaving Hampton and Norbert alone. Hampton leans forward towards Norbert and, sotto voce,
+says "My man, I need you to do me a real big favor. And whatever my uncle is paying you, I'll add that much again if you
+can do this for me."
+
+"Now wait just a second, I don't wanna be doing nothing untoward!"
+
+"No, nothing like that at all. All Imma ask you is to add one song to your program, one that I'll write up for you. I
+can rehearse it with you right before the program."
+
+"You know, we don't perform no secular music, OK?"
+
+"This is gonna be a Bible-based song. It gonna be about Cain and Abel."
+
+"Well that sounds just fine then. The program start at 7 PM tonight, and we gonna be setting up by around six. So you
+come back between six and seven, and teach us your song, and we be happy to add it."
+
+"All right Mr. Doubleton, we got us a deal."
+
+Hampton and Norbert both rise from their seats, and shake hands. Norbert says, "Tell your uncle Claude we over at the church by six."
 
 
 
