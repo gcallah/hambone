@@ -119,8 +119,12 @@ already setting up their equipment inside the church. He greeted Norbert, who in
 
 [song about Cain and Abel inserted here: under development...
 
-He killed his brother dead
-The Lord called out his crime
+Cain was jealous of his closest kin
+
+And so he killed his brother dead
+
+The Lord called out his heinous sin
+
 And placed a curse upon his head
 
 ]
