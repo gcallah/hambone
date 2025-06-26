@@ -1,6 +1,6 @@
 # I Heard It Through the Grapevine
 
-1.
+## 1.
 
 Claude, Gertie, Winthrop, Camellia, Thaddeus, and Alastair are gathered at Elsie's Bar to discuss Hampton's mental
 state. They all pulled up chairs around a large table in the main room.
@@ -108,6 +108,112 @@ Claude and her father came out of the back room and sat down on either side of h
 Camellia said to them, "I can barely stand to see that boy in such a state. He was the best of Denmark, and now he just like a brokedown palace."
 
 Claude responded, "I don't think it all about you. There something else be troubling that boy. And whatever it is, I suspect it kind of dangerous."
+
+
+## 2.
+
+Hampton, after leaving Elsie's Bar, walked the mile over to Rome Baptist Church. The Spiritual Gospel Singers were
+already setting up their equipment inside the church. He greeted Norbert, who introduced him to the rest of the group.
+
+"I brought the song I like you to add to your program tonight. Let's go over it."
+
+[song about Cain and Abel inserted here: under development...
+
+He killed his brother dead
+The Lord called out his crime
+And placed a curse upon his head
+
+]
+
+"Now, when y'all get to the line about 'And he killed his brother dead,' the music gotta stop, so that line could be
+heard real clear throughout the church, OK?"
+
+The group rehearsed the song for a few minutes with Hampton listening. happy with what he heard, he told them "you boys
+sound great! And I do appreciate y'all doing this for me. I know you already getting paid something but here's a little
+something extra to thank y'all."
+
+He handed Norbert a $100 bill.
+
+"That's mighty kind of you, brother."
+
+They shook hands, then Hampton went to the back of the church and sat in the last pew, while the group resumed setting
+up their equipment. Hearing the church door open behind him, Hampton turned in his seat and saw that Winthrop had
+entered the church. He rose to greet him.
+
+"Yo Winthrop, how you doing? Claude coming tonight?"
+
+"Yeah, and Gertie too. Imma go get me a seat up front."
+
+"Alright, I be up there myself soon enough."
+
+The church door opened again, and in walked Hiram.
+
+Hampton waved to him, and said, "Brother, I gotta have a word with you. Come have a seat."
+
+Hiram sat down beside Hampton and asked him, "What up, my brother?"
+
+"You know how that old drunk said it was Claude that done in my daddy?"
+
+"You think there was something to that?"
+
+"Well, I was already wondering about it myself. It was all a bit too convenient for ole Claude, weren't it?"
+
+"True dat."
+
+(As they spoke, the church was gradually filling with people coming to hear the evening's performance.)
+
+"But I ain't sure yet, so I devised a little test for tonight."
+
+"A test?"
+
+"Yeah, I added a song to the program for tonight, about Cain and Abel. You know, with someone killing his own brother.
+And I wanna see how Claude react to hearing that song."
+
+"So how I gonna help you?"
+
+"I want you to watch him too. Then after, we gonna compare notes, and join our judgments about whether he done it or
+not."
+
+"Well, I down with that."
+
+The door to the church opened again, and Claude and Gertie walked in together, followed immediately by Winthrop and
+Camellia.
+
+Hampton whispered to Hiram, "Go get a seat up front. I'm gonna sit on the opposite side of the church from you."
+
+Hiram got up and moved to the front of the church, and Hampton himself rose to greet the new arrivals.
+
+Claude spoke first. "How you doing, Hampton?"
+
+[clever answer]
+
+Claude responded, "Hampton, I can't figure out what the hell you saying!"
+
+Hampton turned to Winthrop. "Didn't you used to sing gospel?"
+
+"Yeah, and people used to love my voice."
+
+"And just what did you voice?"
+
+Winthrop looked confused, and hesitantly replied, "Well, I was a baritone."
+
+"So you added the barest of tones?"
+
+Winthrop was totally nonplussed, and could not even formulate an answer. But he was saved from having to do so by the
+commencement of the evening's musical program. The musicians were creating background color as the church's minister
+began to give the welcome.
+
+Claude said, "We better go get our seats," and they all made their way to the front of the church.
+
+Gertie, already seated, said to Hampton, "Come sit next to me," and patted the chair to her left.
+
+Hampton responded, pointing to the chair next to Camellia, "Thank you mama, but that metal chair got a more magnetic
+attraction for me."
+
+He took a seat in the chair next to Camellia, leaning toward her.
+
+"Now this here is the country where I belong."
+
 
 
 
