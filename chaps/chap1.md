@@ -12,7 +12,8 @@ But there were rumors, rumors that his real money came from controlling the town
 oxy. So when he died from snorting what was apparently some tainted coke, there were more rumors: maybe he had been
 taken out.
 
-Up on the roof of Elsie's Bar on South Magnolia Avenue, seated on folding chairs, Bernie and Frankie smoked a joint.
+Up on the roof of Elsie's Bar on South Magnolia Avenue, seated on folding chairs, Bernie and Frankie contemplated these
+rumors, while smoking a joint.
 
 Bernie asked, "So you think someone took out ole Will?"
 
@@ -50,7 +51,7 @@ Everyone leaned forward. Below them, a middle-aged white man walked drunkenly pa
 
 "Yo, dat looks like ole Will!"
 
-"Man, you fool, you know we buried Will last month. You was there!"
+"Man, you fool, you know we done buried Will two months ago. You was there!"
 
 Hiram shouted down, "Hey old man, where you comin' from? You from around here?"
 
@@ -110,7 +111,7 @@ Hampton excused himself from the table, saying "My boy needs me."
 
 ## 3.
 
-Ambrose left the party table and joined his sister Camellia at a table in the back of the bar.
+Ambrose left the party table just after Will did, and joined his sister Camellia in the back of the bar.
 
 "So I'm going back to Louisiana. You gonna keep texting me while I gone?"
 
@@ -166,11 +167,11 @@ Hampton shrugged. "Hey, it's just a cost savin' measure."
 "There's still a bunch of liquor and blow left over from daddy's funeral, so they can save money by usin' it for the
 engagement party."
 
-"Man, that cold."
+"Man, you cold."
 
 Hiram brought Hampton out of the bar, and pointed up the street.
 
-"Man, that dude look like yo daddy. Why you don't go find out who he is?"
+"Brother, that dude look like yo daddy. Why you don't go find out who he is?"
 
 Hampton called the drunk, who only waved him to come. When Hampton finally caught up to the man, he put his arm over
 Hampton's shoulder, and, with gin-soaked breath, said "What he did to yo daddy weren't right."
@@ -197,12 +198,13 @@ know about some damned plot to kill yo daddy?"
 get up to the roof."
 
 They passed through the bar to the back stairs leading up to the roof. Hampton asked them to roll another joint, and they
-all sit in silence as they smoked.
+all sat in silence as they smoked.
 
-Finally Hampton got up and turns to look at the others. He told them, 
+Finally Hampton got up and turned to look at the others. He told them, 
 "Listen, my brothers, don't nobody say nothin' about this shit. I gotta check this out for myself."
 
-But just then an ominous rumble of thunder turned everyone's attention upwards.  With great rapidity, the sky to the
+Hiram looked like he was about to respond,
+but just then an ominous rumble of thunder turned everyone's attention upwards.  With great rapidity, the sky to the
 west grew a deeper shade of black, punctuated by brilliant zigzags of lightning. The
 crew on the roof scrambled down the fire escape, and made it into their cars just before a torrential rain engulfed
 Denmark.
