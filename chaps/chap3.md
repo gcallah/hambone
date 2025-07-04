@@ -214,9 +214,143 @@ Gertie, already seated, said to Hampton, "Come sit next to me," and patted the c
 Hampton responded, pointing to the chair next to Camellia, "Thank you mama, but that metal chair got a more magnetic
 attraction for me."
 
-He took a seat in the chair next to Camellia, leaning toward her.
+He took a seat on the floor next to Camellia, put his head in her lap.
 
 "Now this here is the country where I belong."
+
+Camellia pushed his head away, and Gertie, scowling, told him "Son, you get yourself up off the floor and sit in a chair
+like a normal person."
+
+Hampton pulled himself up into his seat, and, leaning over, quietly asked Camellia, "You think I too rude?"
+
+Camellia, turning up her nose, answered, "I ain't thinking nothing."
+
+"Now ain't that the normal state of a woman's mind."
+
+"Whachoo mean?"
+
+"Nothing." Hampton guffawed at his own wit.
+
+Camellia pulled back, giving Hampton a quizzical look. "You in a jolly mood tonight."
+
+"Why shouldn't I be jolly? My daddy ain't been dead but a couple of hours, and look how jolly my mama is."
+
+"A couple of hours? He been dead a couple of months."
+
+"Well, if it been a couple months, then no wonder she done forgot all about him. Who knows, maybe when he been gone half
+a year, ain't nobody in the whole town still remember him."
+
+Before Camellia could respond, the reverend Hemingway, from the microphone at his pulpit, said, "Good evenings, folks,
+and praise the Lord!"
+
+"Praise the Lord!" the congregation called back.
+
+[Hemingway's welcome]
+
+The Spiritual Gospel Singers took up their instruments and microphones, and began their program with "God is Still in
+Charge," followed by "Mississippi Poor Boy." Then Norbert addressed the crowd. "Now we gonna introduce a brand new song
+wrote especially for this occasion."
+
+As they sang Hampton's composition, he carefully watched his uncle. The third time the group paused the instrumental
+music and sang the line "He killed his brother dead," Claude Rose from his seat, turned to Gertie, and said, "Sorry, I
+think I got me some food poisoning or something." He then moved swiftly down the center aisle of the church and out
+through its double doors.
+
+When the program had ended, Hampton lingered in the pew as the congregation filed out. When almost everyone had left, he
+spotted Hiram on the other side of the church. He motioned him to come over and sit beside him.
+
+Hampton stared at Hiram. "So whachoo think?"
+
+"My man guilty as hell, that's what I think."
+
+"Yeah, that what I think too."
+
+"So whachoo gonna do?"
+
+"I don't know. I gotta think on this for a bit."
+
+Then the pair heard the door of the church opening behind them, and turned to find Thaddeus and Alastair walking up the
+central aisle toward them.
+
+
+Once the two pairs of friends were within a few feet of each other, Alastair said, while pointing to Hampton, "Brother,
+we gotta have a word with you."
+
+"Yeah, what up?"
+
+"Your mama, she's real upset."
+
+"What about?"
+
+"Well, it seems Claude is real sick, and somehow, she feel you got something to do with it."
+
+Thaddeus chimed, "She said she's been amazed at how you been acting."
+
+"It's something when after all these years, a boy can still amaze his mama."
+
+Alastair said, "She wants you to go round her place tonight before she goes off to sleep."
+
+"Far be it from me disobey my mama."
+
+Alastair looked askance at Hampton. "We were brothers once."
+
+"So you saying we ain't brothers no more?"
+
+"I'm saying a brother oughta let another brother know if something troubling him."
+
+"I just ain't got no future ahead of me."
+
+"Why you say that? You know Claude considers you like his own son."
+
+"Yeah, and maybe he ain't looking forward to the son rise."
+
+
+[playing upon the flute?]
+
+
+The door of the church opens again, and Winthrop rushes up the central aisle to address Hampton.
+
+"Hampton, your mama really anxious that you come see her."
+
+Hampton squints one eye and gives Winthrop a quizzical look. "Winthrop, ain't this church shaped kinda like a pregnant sow?"
+
+Winthrop, nonplussed, glances nervously around the church. "Yeah, I see what you saying: it is kinda like a pregnant sow."
+
+Hampton looks around the church and shakes his head. "I stand corrected: it really look more like an angry gator, half submerged in the Congaree."
+
+"Yeah, you right: it do look more like an angry gator."
+
+"Well then, seeing we agree on that, you go tell my mama I be coming along soon enough."
+
+[the witching hour]
+
+
+3.
+
+Claude, Thaddeus, and Alastair were gathered around a table in the back of Elsie's Bar, speaking in hushed tones, so
+that their voices would certainly not be heard above the music of the jukebox.
+
+Claude said, "The boy be mad. It ain't safe for him to be around Denmark in this state. I want y'all to convince him to go back up to Clemson with you."
+
+Alastair nodded: "Yeah, the first thing we gotta worry about is keepin' things on an even keel here in Denmark. And now
+that you the one running things, so many people be depending upon you, so we behind whatever you need from us."
+
+Thaddeus added, "Mister Claude, we know that you the wheel round which life in this town turns. And if that wheel stop
+turnin', ten thousand things liable to go wrong. So we happy to bring Hampton up north with us."
+
+Claude thanked the pair for their assistance, and they got up and walked out of the bar. On their way out, they passed
+Winthrop on his way in.
+
+Winthrop seated himself at Claude's table. Sotto voce, he told Claude, "I think Hampton goin' over to Gertie's place
+now."
+
+Claude responded, "OK, and what that got to do with me?"
+
+Winthrop answered, "Well, ain't nobody better than a mother to draw the truth outta her son."
+
+
+
+
 
 
 
