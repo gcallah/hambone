@@ -1,8 +1,8 @@
-# The Tears of a Clown
+# II. The Tears of a Clown
 
 ## 1.
 
-Winthrop is sitting in the rocking chair on his front porch on Butler Street. His daughter Camillia comes walking up to
+As Winthrop was sitting in the rocking chair on his front porch on Butler Street, his daughter Camellia came walking up to
 the porch, looking agitated.
 
 "Daddy, I gotta tell you about what just happened."
@@ -24,21 +24,21 @@ Look, what we gotta do is go see Claude, and let him know his nephew in a bad pl
 
 ## 2.
 
-Claude and Gertie are meeting with Thaddeus Stevens and Alastair McIntyre in the Shepherd Real Estate office.
+Claude and Gertie were meeting with Thaddeus Stevens and Alastair McIntyre in the Shepherd Real Estate office.
 
-Claude: "First of all, I want to thank you for taking the trip down from Clemson to help us out.
+Claude said, "First of all, I want to thank you for taking the trip down from Clemson to help us out.
 Y'all been friends with Hampton for a long time. And he actin' all crazy now. So we gotta figure out what wrong with him."
 
-Gertie: "He talk about y'all all the time, and we know he listen to you. So maybe you can help us out here, and figure
+Gertie added, "He talk about y'all all the time, and we know he listen to you. So maybe you can help us out here, and figure
 out what going on with him?"
 
-Thaddeus: "Hey, we ready to help you out, however we can."
+Thaddeus held his arms open wide. "Hey, we ready to help you out, however we can."
 
-Alastair: "Yeah, I'm with Thaddeus here!"
+Alastair said, "Yeah, I'm with Thaddeus here!"
 
 Gertie: "We do appreciate you, so please go see him as soon as you can. We gotta know what gone wrong with my boy."
 
-Thaddeus and Alastair left the office. They meet Winthrop at the door as he entered.
+Thaddeus and Alastair left the office. They met Winthrop at the door as he entered.
 
 Claude looked up from his desk with surprise. "Winnie, what bring you here?"
 
@@ -48,8 +48,8 @@ Claude raised his eyebrows. "And?"
 
 "I done figured out what wrong with the boy."
 
-Winthrop paused for dramatic effect, but at that moment, Corny and Clarence, returning from their trip to Norway, enter
-the office.
+Winthrop paused for dramatic effect, but at that moment, Corny and Clarence, returning from their trip to Norway,
+entered the office.
 
 Claude gave Winthrop the stop sign with his hand. "Winnie, you gonna have to wait a minute. These boys bringing me
 important news.
@@ -58,10 +58,10 @@ important news.
 
 Clarence stepped forward towards the desk. "We ain't got nothing to worry about. Forrest swear he ain't got no intention
 toward Denmark. He *is* looking to expand a bit, but he got his eye turned toward Swansea. He say the Boucher family up
-there looking weak, and stupid shit like car jackings and what not getting out of hand. He thinking time to bring some
+there looking weak, with stupid shit like car jackings and what not getting out of hand. He thinking time to bring some
 order to that mess."
 
-Claude told them "Boys, you done a good job. You all come by Elsie's Bar tonight, and the drinks is on me."
+Claude told them "Boys, you done a good job. You all come by Elsie's tonight, and the drinks is on me."
 
 Corny and Claude both mumbled their thanks and left.
 
@@ -82,7 +82,7 @@ Claude put his head in his hand for a moment, then looked up at Winthrop and sai
 gonna just keep telling us that you about to tell us what up?"
 
 Winthrop wrung his hands a little, but continued: "Now, I ain't pleased to bring you this news, but the problem with
-Hampton's mental condition be my daughter."
+Hampton's mind be my daughter."
 
 Claude gave Winthrop a puzzled look. "How she the problem?"
 
@@ -130,9 +130,9 @@ Claude looked at Gertie. "You think this possible?"
 Winthrop stroked his grizzled chin for a moment, and then stuck his index finger up in the air. "What about this? You
 know Hampton like to go in the bar and get a beer in the afternoon?"
 
-"Yeah, he does."
+"Yeah, he do."
 
-"Well, I have my daughter go in to meet him there, and we can hang out in the back room and see what happen."
+"Well, I have my daughter go in and meet him there, and we can hang out in the back room and see what happen."
 
 Claude nodded. "Yeah, that a plan."
 
@@ -140,7 +140,7 @@ Gertie gestured at the office window. "And speak of the devil."
 
 Hampton was meandering down the sidewalk on the opposite side of the street, earbuds on, singing something to himself.
 
-Winthrop told Claude and Gertie, "Go into the back office, and I'll call Hampton in."
+Winthrop told Claude and Gertie, "Get yoselves in the back office, and I call Hampton in."
 
 Claude said, "Yeah, why not? Come on, Gertie."
 
@@ -155,7 +155,7 @@ Winthrop told him, "Take a seat, my brother," and sat back down himself.
 He looked at Hampton with the most concern he could muster, and asked, "Now you know, I always got your best interest at
 heart?"
 
-"Yeah, as a pimp, you alright!"
+"Yeah, for a pimp, you alright!"
 
 "A pimp? I ain't no pimp."
 
@@ -169,9 +169,9 @@ heart?"
 
 "Ain't you got a daughter?"
 
-Winthrop's eyes widen, and he shook his head.
+Winthrop's eyes widen, and he nodded.
 
-"Yeah, I think you know I got a daughter."
+"Yeah, you know I got a daughter."
 
 "You gotta keep her close at home. Otherwise some gangster come along and knock her up."
 
@@ -206,7 +206,7 @@ Thaddeus answered, "We just come to see you, see how you doing."
 
 Thaddeus and Alastair both look sheepish. Thaddeus asked, "What you want us to say?"
 
-"I guess you could go on and say anything you want, just so long as it avoids the truth."
+"I guess you could go on and say anything you want, just so long as it ain't the truth."
 
 Hampton's friends squirmed about uneasily.
 
@@ -232,9 +232,9 @@ now."
 
 As though on command, the door to the office swung open right at that moment, and Norbert Doubleton, the manager of the group, entered the room.
 
-"How y'all doing? My group is here to perform tonight, and I'm looking for Mr. Claude Joyce. He around?"
+"How y'all doing? My group is here to perform tonight, and I'm looking for Mr. Claude Shepherd. He around?"
 
-Hampton stood up. "Pleased to meet you. I'm Hampton Joyce. My uncle ain't here at the moment, but I'd like a word. Oh,
+Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't here at the moment, but I'd like a word. Oh,
 and these here are my old friends Thad and Al, down from all the way up at Clemson to see how I'm doing."
 
 Everyone shook hands with Norbert, and Hampton motions for him to have a seat.
@@ -248,13 +248,13 @@ Thaddeus and Alastair rose from their seats. Thaddeus said, "Sure thing, brother
 
 "OK, we'll see you then."
 
-They walk out of the office, leaving Hampton and Norbert alone. Hampton leans forward towards Norbert and, sotto voce,
+They walked out of the office, leaving Hampton and Norbert alone. Hampton leaned forward towards Norbert and, sotto voce,
 said "My man, I need you to do me a real big favor. And whatever my uncle is paying you, I'll add that much again if you
 can do this for me."
 
 "Now wait just a second, I don't wanna be doing nothing untoward!"
 
-"No, nothing like that at all. All Imma ask you is to add one song to your program, one that I'll write up for you. I
+"No, nothing like that at all. All Imma ask you is to add one song tonight, one that I'll write up for you. I
 can rehearse it with you right before the program."
 
 "You know, we don't perform no secular music, OK?"
@@ -266,6 +266,7 @@ come back between six and seven, and teach us your song, and we be happy to add 
 
 "All right Mr. Doubleton, we got us a deal."
 
-Hampton and Norbert both rose from their seats, and shook hands. Norbert said, "Tell your uncle Claude we over at the church by six."
+Hampton and Norbert both rose from their seats, and shook hands. As they walked out of the office and onto the sunlit sidewalk,
+Norbert said, "Tell your uncle Claude we over at the church by six."
 
 
