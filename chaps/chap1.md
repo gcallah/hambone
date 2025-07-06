@@ -3,8 +3,17 @@
 
 ## 1.
 
-Denmark, South Carolina, is a sleepy hamlet part way between Columbia and Savannah. Only four square miles in area, it
-is inhabited by a few thousand souls. The vast majority of them are black folk, but until recently, the king of the
+Denmark, South Carolina, is a drowsy hamlet almost halfway on the trip from Columbia down
+to Savannah. Carolina Highway runs through the
+town center. At its north end the road boast a number of elegant southern mansions with covered porches and balconies,
+but by and large the town is in a state of advanced decay. The old downtown's brick building are more often empty than
+not, and some of them are collapsing. Denmark Furniture, once one of the town's largest businesses, is now a ghost store,
+with sheets of tattered brown paper covering its windows.
+
+Only four square miles in area, the town
+is inhabited by a few thousand souls. The vast majority of them, almost 90%,
+are black folk, and most residents are poor: the average family income being less than $20,000.
+Until recently, the king of the
 town was a white businessman, Will Shepherd. He owned the town's only real estate agency, as well as its used car
 dealership.
 
@@ -27,7 +36,7 @@ for a long time now."
 "Those lame-ass mother-fuckers from up in Norway?"
 
 (Yes, it is true: a few miles north of Denmark, South Carolina, there is, in fact, another small town named Norway. And
-in between the two lies Sweden, South Carolina.)
+in between the two lies Sweden.)
 
 "Man, it don't make no sense to underestimate them. That Forrest, he mean."
 
@@ -56,9 +65,23 @@ Everyone leaned forward. Below them, a middle-aged white man walked drunkenly pa
 Hiram shouted down, "Hey old man, where you comin' from? You from around here?"
 
 The man looked up at the four occupants of the roof, but said nothing, then turned away and continued slowly north on the
-street.
+street, towards the Amtrak station at the end of the road.
 
-Hiram made a puzzled face, and told the others, "Yo, imma go get Hampton. He gotta check this guy: maybe he a long
+(The station hosts one train per day, at 2:57 AM, and, per Amtrak, features the following inconveniences:
+
+- Unstaffed station
+- ATM not available
+- No elevator
+- Payphones
+- No Amtrak ticketing kiosks
+- No restrooms
+- Unaccompanied child travel not allowed
+- No vending machines
+- No WiFi
+
+)
+
+Hiram made a puzzled face, and told the others, "Yo, imma go get Hampton. He gotta check this guy out: maybe he a long
 lost relative or something."
 
 
@@ -183,7 +206,7 @@ Hampton's shoulder, and, with gin-soaked breath, said "What he did to yo daddy w
 "Watchoo sayin'?"
 
 But at that very moment, the man was overwhelmed by the urge to vomit up the night's drinking onto the sidewalk. Hampton
-backed away in disgust. The man slumped down with his back against an electric pole, and passed out.
+backed away in disgust. The man slumped down with his back against the door of B's Social Club, and passed out.
 
 Hampton walked back to where Hiram is standing outside the entrance to the bar. He asked, "They smokin' some weed up top?"
 

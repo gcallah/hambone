@@ -112,7 +112,12 @@ Claude responded, "I don't think it all about you. There something else be troub
 
 ## 2.
 
-Hampton, after leaving Elsie's Bar, walked the mile over to Rome Baptist Church. The Spiritual Gospel Singers were
+Hampton, after leaving Elsie's Bar, walked the mile over to Rome Baptist Church. Along the way, he passed some of the
+worst housing in Denmark: shacks with rusted out metal roofs, and the dilapidated trailers under the live oaks at the 
+Hands on Home mobile park.
+
+After passing such decay, coming to the clean, brick facade of the church was a relief.
+Hampton passed through the white double entrance doors and found that The Spiritual Gospel Singers were
 already setting up their equipment inside the church. He greeted Norbert, who introduced him to the rest of the group.
 
 "I brought the song I like you to add to your program tonight. Let's go over it."
