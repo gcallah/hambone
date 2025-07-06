@@ -330,12 +330,13 @@ Hampton looks around the church and shakes his head. "I stand corrected: it real
 [the witching hour]
 
 
-3.
+## 3.
 
 Claude, Thaddeus, and Alastair were gathered around a table in the back of Elsie's Bar, speaking in hushed tones, so
 that their voices would certainly not be heard above the music of the jukebox.
 
-Claude said, "The boy be mad. It ain't safe for him to be around Denmark in this state. I want y'all to convince him to go back up to Clemson with you."
+Claude said, "The boy be mad. It ain't safe for him to be around Denmark in this state. I want y'all to convince him to
+go back up to Clemson with you."
 
 Alastair nodded: "Yeah, the first thing we gotta worry about is keepin' things on an even keel here in Denmark. And now
 that you the one running things, so many people be depending upon you, so we behind whatever you need from us."
@@ -352,6 +353,70 @@ now."
 Claude responded, "OK, and what that got to do with me?"
 
 Winthrop answered, "Well, ain't nobody better than a mother to draw the truth outta her son."
+
+"True dat."
+
+"I think what I'm gonna do is make my way over there and see if I can hear what he telling her. Then I report back to you."
+
+"Winnie, I do appreciate you doing that for me, and I won't forget yo' loyalty."
+
+Winthrop got up and walked down to the bar. Left by himself, Claude ordered a double scotch, and sat back down at this
+table, drinking while staring vacantly at the neon moon of the bar's window lights.
+
+
+4.
+
+Gertie lived in one of the elegant homes at the north end of town, which she had shared with her husband until his
+recent demise. She was sitting on the couch in her living room, watching a romance movie on Netflix while sipping a gin
+and tonic, when Hampton walked up onto the wraparound porch and knocked on the front door.
+
+Gertie, flustered at receiving such a late visitor, rose from the couch and peered out through the intricate let it
+glass window of the front door to see who was there. When she recognized her son, she opened the door, and said
+"Hampton! What you doing here at this hour?"
+
+"Mama, we gotta talk."
+
+"Well then come in. Take a seat."
+
+She motioned Hampton to take a seat in a leather recliner next to the couch, and sat back down on the couch herself.
+
+"So what up son?"
+
+"I wanna know what's wrong with you."
+
+"Well, you givin' offense to your daddy's memory, for one."
+
+"Me? Mama, you the one hooking up with his brother just two months after he gone."
+
+"Boy, I thought I taught you some manners when you was growin' up. You don't never talk to your mama that way!"
+
+As they had been talking, Winthrop had crept up onto the porch, and tried to listen at a living room window. Finding he
+could not hear what was being said, he walked across the porch to the dining room, slid open one of the windows, and
+hoisted himself through it.
+
+Unfortunately for him, as he did so, his foot collided with a side table placed next to the window, and knocked the
+silver tea service it had hosted onto the floor, producing a great clatter.
+
+Hampton jumped up out of his chair, and pulled a handgun out of his waistband, crying, "Mama, we got an intruder!"
+
+He raced across the entrance hall and, seeing a figure silhouetted in the window of the darkened dining room, fired two shots.
+
+Winthrop cried out, "Hampton, you done shot me," and collapsed onto the floor.
+
+Gertie had followed close behind Hampton into the dining room.
+
+Seeing the body on the floor, she asked, "Hampton, what the hell you done?"
+
+She turned on the chandelier over the dining room table, and now they could both see who lay on the floor.
+
+"Hampton, you done shot Winthrop!"
+
+Hampton said, "What that interferin' old fool doing crawlin' in through yo window?"
+
+"I don't know, but it don't mean you get to shoot him dead!"
+
+
+
 
 
 
