@@ -81,6 +81,8 @@ street, towards the Amtrak station at the end of the road.
 
 )
 
+The man might have been heading to the train, but if so, he was several hours early. But if not to the station, where
+else was he heading on this deserted road?
 Hiram made a puzzled face, and told the others, "Yo, imma go get Hampton. He gotta check this guy out: maybe he a long
 lost relative or something."
 
