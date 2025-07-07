@@ -415,9 +415,79 @@ Hampton said, "What that interferin' old fool doing crawlin' in through yo windo
 
 "I don't know, but it don't mean you get to shoot him dead!"
 
+Gertie thought frantically. "We gotta get Claude over here." She took out her cell phone and called Hampton's uncle.
 
+"Claude, you better get over here right away. We got big trouble."
 
+She listened for a moment, and then repeated "Just get over here."
 
+"Mama, why don't we just say we thought we had us an intruder, and so I shot him."
+
+"Son, people know you've been acting all crazy lately. They know you done fell for his daughter, and he was standing in
+your way. You gonna have a hard time convincing the police you didn't know it was him."
+
+The two of them stared at the body on the floor for a moment, and then Hampton said, "Let's get outta this room." He
+turned the chandelier off, and they moved back into the living room and sat in silence, awaiting Claude's arrival.
+
+A few minutes later, they heard a key in the front door. Claude entered and stared at his lover and his nephew, sitting
+like penitents in the living room. "What's goin' on here?"
+
+"Hampton done killed Winthrop dead."
+
+Claude looked at them in disbelief. "How the hell that happen?"
+
+Hampton replied, "The old idiot was climbin' in through the dining room window. I thought he was some burglar."
+
+Claude kicked a footstool halfway across the room. "Dammit boy, ain't there no end to the trouble you aim to cause this
+family?" he stared up at the ceiling for several seconds, and then said, "Show me the body."
+
+The trio proceeded into the dining room, and Gertie flipped the chandelier back on. Claude studied the body lying on the
+floor. He asked, "Y'all sure he's dead?"
+
+Hampton, "Yeah, he dead all right."
+
+Claude gave him a disdainful look. "So you some sort of medical examiner now or somethin'?"
+
+"You don't believe me, you go check him out for yourself."
+
+Claude walked over to the body, crouched down, and put his fingers on Winthrop's neck. "Yeah, he dead all right."
+
+He rose back up, and, looking at Gertie, said, "Get me a whiskey. I gotta think for a minute." He walked back into the
+living room and sat on the couch.
+
+Gertie went down the central hallway to the kitchen in the back, and came back a minute later with a glass of whiskey on
+the rocks. Claude gulped it down, and, raising the glass towards Gertie, said, "Get me another."
+
+He drank his second whiskey more slowly, and when he was done, he stood up from the couch, and announced, "OK, here what
+we gonna do. Hampton, gimme that gun you done shot him with."
+
+Hampton handed the gun over to Claude, who took it back into the dining room, and fired a shot into the wall.
+
+He looked back at Gertie and Hampton, who had followed him into the room. " Hampton, you gonna get back to your
+apartment, stay put until morning. Thad and Al was head back up to Clemson anyway, so we gonna have them pick you up
+first thing tomorrow, but they gonna say they left with you right after the gospel program. Now git."
+
+"But..."
+
+"No you don't say nothin', you just do what I tell you."
+
+Reluctantly, Hampton turned and walked out the front door.
+
+Gertie looked hesitantly at Claude. "I gotta tell you somethin'."
+
+"Go on, woman, spit it out."
+
+"Just before Hampton fired...
+
+"Yes?"
+
+"I heard him say yo name."
+
+"Did he now?"
+Claude took his phone out of his pocket, and called a name from his contact list. "Sheriff Joyce, it Claude Shepherd
+here. There's been a terrible accident up at Gertie's place. Can you come over right now?"
+
+He put his phone back in his pocket, and said to Gertie, "Everything gonna be all right."
 
 
 
