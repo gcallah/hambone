@@ -364,7 +364,7 @@ Winthrop got up and walked down to the bar. Left by himself, Claude ordered a do
 table, drinking while staring vacantly at the neon moon of the bar's window lights.
 
 
-4.
+## 4.
 
 Gertie lived in one of the elegant homes at the north end of town, which she had shared with her husband until his
 recent demise. She was sitting on the couch in her living room, watching a romance movie on Netflix while sipping a gin
@@ -397,7 +397,7 @@ hoisted himself through it.
 Unfortunately for him, as he did so, his foot collided with a side table placed next to the window, and knocked the
 silver tea service it had hosted onto the floor, producing a great clatter.
 
-Hampton jumped up out of his chair, and pulled a handgun out of his waistband, crying, "Mama, we got an intruder!"
+Hampton jumped up out of his chair, and grabbing the handgun he knew Gertie kept in her sidetable, cried, "Mama, we got an intruder!"
 
 He raced across the entrance hall and, seeing a figure silhouetted in the window of the darkened dining room, fired two shots.
 
@@ -488,10 +488,6 @@ Claude took his phone out of his pocket, and called a name from his contact list
 here. There's been a terrible accident up at Gertie's place. Can you come over right now?"
 
 He put his phone back in his pocket, and said to Gertie, "Everything gonna be all right."
-
-
-
-
 
 
 
