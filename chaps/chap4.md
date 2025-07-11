@@ -120,7 +120,7 @@ Thaddeus and Alastair both nodded.
 
 "Thank you boys. Believe me, I ain't gonna forget your service. Now let's go on in the back, and I get you what you need."
 
-3.
+## 3.
 
 At around seven o'clock the next morning, Thaddeus and Alastair pulled up to the curb below Hampton's apartment, which
 was on the second floor of the brick building housing the Neeley Appliance Company. Thaddeus, who was driving, put his
