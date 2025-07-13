@@ -40,7 +40,8 @@ The two of them shook hands at the door. Claude added, "Don't forget to stop by 
 
 With that Sheriff Joyce walked across the porch and out into the cool and breezy February night.
 
-Claude close the door behind him, took out his cell phone, and called Thaddeus. "You and Alastair meet me at Elsie's. Vite vite."
+Claude close the door behind him, took out his cell phone, and called Thaddeus. "You and Alastair meet me at Elsie's.
+Vite vite." (Claude, a Clemson man, liked to show off what little he remembered of his four semesters of French.)
 
 He walked over to Gertie and gave her a hug. "Don't you worry none now baby, I'm taking care of everything." Then he
 followed Joyce out into the darkness.
@@ -238,9 +239,144 @@ backpack and put them on.
 He pulled his backpack up onto his shoulders, and, through the dappled light dancing through the loblollies and
 sweetgums and hickories and maples, he walked out of the park and back to the main highway.
 
+## 4.
+
+Claude was sitting at his desk in the real estate office on Sunday afternoon. He had grown increasingly agitated, since
+his attempts to contact Thaddeus and Alastair had been in vain. He punched Thaddeus's number on his phone one more
+time, only to hear it go immediately to voicemail once again.
+
+He got up and began to pace the floor. As he did so the door to the office was flung violently open, and he found
+Ambrose staring at him, wild-eyed.
+
+When Ambrose finally spoke, he said, "You killed my daddy?"
+
+"Son, sit down."
+
+"Why I wanna sit down? Instead, why I don't just shoot you?" Ambrose pulled a pistol out of his waistband, and pointed
+it at Claude.
+
+"Son, sit down," Claude repeated, more firmly this time. "What happened ain't what you think happened." He held out his
+hand to indicate where Ambrose might sit, if he should choose not to shoot him.
+
+Reluctantly, Ambrose sat down, but still kept his pistol pointed at Claude. "So tell me what really happened."
+
+Claude himself had sat back down behind his desk, and reclined his chair back. His hands were folded together over his
+rotund stomach, and he rhythmically tapped his index fingers together. He sat like this for some dozen seconds before
+speaking.
+
+"It weren't me son. Hampton done it."
+
+"So why am I hearing it was you?"
+
+"We didn't want no family scandal. The police was likely to conclude that, given how your daddy was objecting to Hampton
+being with your sister, he done killed him on purpose."
+
+"And you just gonna let him get away with it?"
+
+"No son, pas du tout."
+
+"Paw do too? What the hell that supposed to mean?"
+
+"Not at all. Hampton was becoming a danger to all of us. The boy was completely out of control. But I thought it best we
+jes kept it within the family, and took care of things private like. I had a couple of my boys take him for a ride this
+morning. Lemme just say he won't be troubling us no more."
+
+Ambrose had ceased to point his pistol at Claude, and had let it drop onto his lap. "Aright then, so long as you done
+taken care of it, I guess we straight. Otherwise idda hadda go after him myself."
+
+Claude rose from his seat, and held out his hand to Ambrose. Ambrose got up as well, and took Claude's hand and shook
+it, saying "I do appreciate you settin' things right."
+
+Claude said, "I always try to do right by my people. I think you better go see to your sister, 'cause she probably need
+you right about now."
+
+Ambrose nodded, released Claude's hand, and turned and left the office.
 
 
+## 5.
 
+Once Hampton had walked out of the forest, he had begun hitchhiking, making his way towards Columbia. His final ride
+dropped him off on Meeting Street in West Columbia, and walked from there across the Gervais Street bridge into Columbia
+itself.
 
+After he crossed the bridge, he took out his cell phone and called Hiram. After a couple of rings, he picked up, and
+said, "Hampton, what up?"
 
+"I really need your help. I'm in some deep shit. Where you at?"
+
+"I'm at my apartment. Where are you?"
+
+"I'm on Gervais Street. At the corner with Huger."
+
+"You in Columbia?"
+
+"Yeah, I jes got here."
+
+"I'm in Five Points, pretty close to where you at. You walk away from the river up Gervais until you get to Harden. I'll
+meet you at the corner there."
+
+Hampton did as he was instructed, and found Hiram waiting for him at the corner. They hugged in greeting, Hiram asked
+him, "What's going on?"
+
+"Well, I killed a few people of late."
+
+"You done what?"
+
+"The first one was kinda an accident. I thought I was killing Claude, which woulda been fine, but instead, it were
+Winthrop."
+
+"So how you mistake a skinny ole black man for a fat white man?"
+
+"It was dark, and he was creeping through the window at Gertie's house, and I thought it was Claude coming to spy on me
+and I figure this is my chance: I could revenge my daddy and say I believed I was just killing an intruder."
+
+"Let's walk down to my place, and you can tell me who else you done killed on the way."
+
+They turned south on Harden and headed towards Five Points.
+
+Hampton continued his tale: "Claude came over, and told me he would take the blame for the shootin', and I had to get
+out of town. And this all out of the kindness of his heart, cause he afraid the cops would think I shot Winthrop on
+purpose."
+
+Hiram shook his head. "Claude don't do nothin' out of the kindness of his heart, cause his heart ain't got no kindness."
+
+"My thinkin' exactly."
+
+"So why he do it then?"
+
+"He tells me he's gonna have Thad and Al bring me up to Clemson. To be on the safe side, before they pick me up in the
+morning, I made sure to stash a pistol in my backpack. Well, when they come to get me, they's all shifty and what not.
+Can't look their brother in the eye. So it obvious to me Claude asked them to get rid of me."
+
+"Didn't Claude or Thad or Al think you might figure out their plan?"
+
+"I been acting all crazy, so they probably thought I's too out of it to guess what they was up to."
+
+"My friend, you do realize you killed three people in the last two days? A lot of folk would regard that as a bit
+crazy."
+
+"Well, one was kinda an accident, and two was self-defense."
+
+"Look, I ain't putting you on trial. Jes pointin' out some inconvenient facts."
+
+They had reached the corner of Harden and College Street. Hiram pointed ahead, and said, "See that wall with the giant
+painting of Bob Marley on it? My apartment is just past that."
+
+They walked for a moment in silence, and then Hiram asked, "So what you gonna do?"
+
+"Can I lay low at your place for a couple of days?"
+
+"Sure: then what?"
+
+"Maybe Wednesday afternoon, you can bring me back down to Denmark?"
+
+"And then what? You kill a few more folks?"
+
+"No, I just wanna confront Claude at the fellowship dinner, in front of the whole congregation, and get him to admit he
+killed my daddy. At least I can save my mama from marryin' him. Then, I don't care what gonna happen to me."
+
+Hiram felt silent until they reached the door to his building. He unlocked it, and then turn to Hampton and said, "I
+gonna do what I can to help you, but I wonder if you really thought this through?"
+
+Hampton replied, "Yeah, I wonder the exact same thing."
 
