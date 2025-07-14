@@ -380,3 +380,99 @@ gonna do what I can to help you, but I wonder if you really thought this through
 
 Hampton replied, "Yeah, I wonder the exact same thing."
 
+## 6.
+
+Ambrose was in Elsie's, drinking with his friends Homer and Walker. His anger and his desire to revenge his father's
+death had dissipated when Claude assured him that Hampton was already dead. So now he drank to stop feeling the sorrow
+of his loss.
+
+And the drinking was working, until Camellia entered the bar. He had never seen his sister out in public looking
+anything but her best, made up, her braided hair all in place, her clothes, if not expensive, because she could never
+have afforded expensive clothes, nevertheless attractive and stylish.
+
+But she now looked like the sibling he knew had been through a decade of dissipation. Her hair was a mess, her eyes
+glassy, and she wore an unevenly buttoned jacket, covering a stained T-shirt, and a mismatched skirt. As she entered the
+bar she carried with her an herbal penumbra of skunk weed.
+
+There were only a dozen or so patrons in the bar, but every one of them stopped what they were doing and stared at her.
+Agnes came out from behind the bar and put her hands on Camellia's shoulders. "Honey, you don't look so good. Why you
+don't come sit down in the corner?"
+
+Camilla pushed her away and staggered up to the bar. "I think I need a whiskey."
+
+Ambrose got up from his table and walked over to where his sister stood. "Hey sis, what up?"
+
+Camellia, realizing for the first time that Ambrose was in the bar, said "Bro... What you doin' here? Ain't you supposed
+to be in Louisiana?"
+
+"I flew home as soon as I heard what happened to daddy."
+
+"Daddy! Daddy!" she said, throwing her hands up over her head. She began singing while performing a half-hearted dance.
+
+"Papa was a rollin' stone  
+He got shot not far from home  
+And when he died  
+All I needed was a bone"  
+
+"Camellia, I all broke up that daddy gone too. But you ain't right. You oughta go home and sleep it off."
+
+Camellia again launched into song.
+
+"I'm comin' home  
+I'm comin' home  
+Tell the world I'm comin' home  
+Let the rain wash away  
+All the pains of yesterday"  
+
+Ambrose put his arm around her shoulder. "Sis, don't home sound like a great idea? I get someone to give you a ride, and
+you can go get some rest."
+
+"Hey Ambrose, now that daddy gone, you like Patches, ain't you?"
+
+She pulled away from her brother, and, pretending she had a microphone, sang, with exaggerated pathos:
+
+"Patches I'm depending on you son  
+To pull the family through  
+I'm sorry son  
+It's left up to you"  
+
+"Yeah, you puttin' on a great show, sis. What would daddy say if he could see you now?"
+
+"He can't see me now, can he? You know why? Cause he dead, and he can't see nothin'."
+
+Now Camellia began rapping:
+
+"Every step I take  
+Every move I make  
+Every single day, every time I pray  
+I'll be missing you  
+Thinkin' of the day  
+When you went away  
+What a life to take, what a bond to break  
+I'll be missing you"  
+
+When she finished, she turned and ran out of the bar. Ambrose began to follow her, but Homer got up from his seat and
+cut him off. "Ambrose, just let her go. She grievin' in her own way. She get over it soon enough."
+
+So Ambrose stayed at the bar with his friends for another couple of hours, and then he walked back to his father's house
+on Cypress Avenue and went to sleep. When he awoke, the sun was already high in the sky. He washed his face in the
+bathroom, and changed into fresh clothes. He decided to he had better go check up on his sister, and so he left the
+house and walked the four blocks to her apartment.
+
+He climbed the stairs to the second floor of the building where she lived, and knocked on her apartment door, and
+knocked again. Then he tried the door handle, and found it was unlocked.
+
+Upon entering, he immediately felt sick from the foul smell of the air, which reeked of weed, and tobacco, and vomit,
+and decay. He passed through the living room and into the bedroom. There he found his sister's body stretched out on her
+bed. Without even checking for a pulse, he knew that she was gone. He fell to his knees, sobbing.
+
+After a few minutes, he got up, and looked around the room. On the floor was a half-empty bottle of whiskey. The
+nightstand beside her bed held several lines of white powder, and an ashtray containing half a dozen cigarette butts and
+a couple of roaches.
+
+On autopilot, he took his phone out of his pocket, dialled 911, and said, "I gotta report a death."
+
+Then he slumped back down to the floor, and buried his head in his arms, and resumed sobbing.
+
+
+
