@@ -310,7 +310,7 @@ Alastair looked askance at Hampton. "We were brothers once."
 "Yeah, and maybe he ain't looking forward to the son rise."
 
 
-[playing upon the flute?]
+[flute?]
 
 
 The door of the church opens again, and Winthrop rushes up the central aisle to address Hampton.

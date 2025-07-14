@@ -175,7 +175,7 @@ Winthrop's eyes widen, and he nodded.
 
 "You gotta keep her close at home. Otherwise some gangster come along and knock her up."
 
-[Insert madness with method here.]
+[Insert m with m here.]
 
 The office door opens, and Thaddeus and Alastair re-enter.
 
@@ -218,7 +218,7 @@ Hampton stood up. "And I'm gonna tell you why. That way, you ain't gotta be betr
 tell me why y'all here. You here because I ain't been myself of late. 
 
 
-[what a piece of work is man]
+[what a piece!]
 
 
 Thaddeus shook his head. "Maybe those Spiritual Gospel Singers your uncle hired could cheer you up."
