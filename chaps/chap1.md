@@ -250,7 +250,7 @@ Hiram shook his head: "Man, you can't believe what some drunk staggering down th
 know about some damned plot to kill yo daddy?"
 
 "Hiram, there's more shit that goes down in the street than your prof Tollefsen at USC could ever dream up! Come on, let's
-get up to the roof."
+get up on the roof."
 
 They passed through the bar to the back stairs leading up to the roof. Hampton asked Frankie to roll another joint. As
 he did so, Hampton told them about his encounter. Then they all sat in silence as they smoked.
