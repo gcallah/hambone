@@ -58,7 +58,7 @@ opening the door onto the roof.
 
 Marcus shook his head. "Man, you boys don't ever wanna share, do you?"
 
-Bernie laughed, and after taking a hit, passed the joint to Marcus, who passed it to Hiram after having his share.
+Bernie laughed, and after taking a hit, passed the joint to Marcus, who passed it to Hiram after having his allotment.
 
 Hearing a noise in the street below, Frankie looked over the parapet. "Who dat down there?"
 
