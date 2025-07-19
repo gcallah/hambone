@@ -95,7 +95,7 @@ lost relative or something."
 
 Meanwhile, downstairs in the bar, Will's brother, Claude, was having a party celebrating his engagement to Will's widow,
 Gertie. His fifteen guests were seated at a "table" that was assembled by pushing together five of the card tables that
-the bar used for patrons' dining, and covering them with a glossy, red-checked table cloth.
+the bar used for patrons' dining, and covering them with a glossy, red-checked table cloths.
 
 Claude addressed the gathering:
 
