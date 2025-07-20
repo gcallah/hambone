@@ -146,13 +146,19 @@ Hampton excused himself from the table, saying "My boy needs me."
 ## 3.
 
 Ambrose got up from the party table just after Will did, beckoning his sister Camellia to join him at a table
-in the back of the bar.
+in the back of the bar. She was a tall, slim young woman. Her hair was worn in a short afro, and colorful tatoos adorned
+her arms.
 
 "So I'm going back to Louisiana. You gonna keep texting me while I gone?"
 
-"You know I gonna."
+"You know I gonna. But I can't believe you gonna miss my exhibit next week."
 
-"And you might not wanna hear this, but I gotta talk to you about Hampton."
+"Exhibit?"
+
+"I told you: I'm showing some of my paintings at the library."
+
+"Ah, yeah, I forgot. But I gotta head back. Work calls." Ambrose shrugged, then paused, looking up to the ceiling. He
+continued: "And you might not wanna hear this, but I gotta talk to you about Hampton."
 
 "Oh, here we go."
 

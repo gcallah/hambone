@@ -2,8 +2,10 @@
 
 ## 1.
 
-As Winthrop was sitting in the rocking chair on his front porch on Butler Street, his daughter Camellia came walking up to
-the porch, looking agitated.
+Winthrop Branch was sitting in his rocking chair on the front porch of his house. It was a small bungalow on Butler
+Street. The front yard contained a very large live oak, and the shade it cast made the lawn beneath it scruffy, and in
+places the sandy soil was visible. As he rocked he saw Camellia walking up the street. When she stepped up onto the
+porch, Winhtrop could see she was agitated.
 
 "Daddy, I gotta tell you about what just happened."
 
@@ -15,7 +17,7 @@ up all wrong, his shoes weren't tied, and he didn't even have no jacket on, desp
 "Say what?"
 
 "And he was all shakin', like maybe he been doin' blow all night. And he just took hold my hand, kneeling down before
-me, and he start moaning, sounding like he a dyin' hound. And then after a bit, he get up and run out the door."
+me, and he start moanin', sounding like he a dyin' hound. And then after a bit, he get up and run out the door."
 
 "My baby, maybe I got him all wrong. It sound like he all crazy about you, and when I told you ignore him, it done drive
 him mad. And maybe I was just jealous. You know, ole folk like me, we done too easily forget about the passion of youth.
