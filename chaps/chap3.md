@@ -2,8 +2,8 @@
 
 ## 1.
 
-Claude, Gertie, Winthrop, Camellia, Thaddeus, and Alastair are gathered at Elsie's Bar to discuss Hampton's mental
-state. They all pulled up chairs around a large table in the main room.
+Claude, Gertie, Winthrop, Camellia, Thaddeus, and Alastair were gathered at Elsie's Bar to discuss Hampton's mental
+state. They had all pulled up chairs around a table in the public room.
 
 Claude launched the discussion by asking, "OK, we know what wrong with the boy?"
 
@@ -30,30 +30,32 @@ don't you fret about your girl and Hampton. It'll be just fine."
 
 When she had left the bar, Claude said to Winthrop, "Let's get ourselves to the back room. Hampton be here soon."
 
-Winthrop asked Camellia, "Did you bring a book like I told you?"
+Winthrop asked Camellia, "Did you bring something to read like I told you?"
 
-Camellia reached into her purse and pulled out a small romance novel. "Yes, daddy."
+Camellia reached into her pocketbook and pulled out an art magazine. "Yes, daddy."
 
 "OK, sit yourself here reading, or even just pretending to read, for all it matters, and Hampton should be along soon."
 
-Camellia nodded, and opened her book.
+Camellia nodded, and opened her magazine.
 
-Claude and Winthrop went into the back, and pulled up two chairs near a small service window, which would allow them to
-hear what was going on in the main room. And giving it was only mid-afternoon, and the bar was mostly empty, they
-thought that they ought to be able to hear whatever was said between Hampton and Camellia.
+Claude and Winthrop went into the back room, which served as both kitchen and office,
+and pulled up two chairs near a small service window.
+Given it was only mid-afternoon, and the bar was mostly empty, they
+ought to be able to hear whatever was said between Hampton and Camellia.
 
-Winthrop began two months into a story, but Claude hushed him, saying, "Hampton coming in the front door now. You gotta keep quiet."
+Winthrop began to launch into a story about a gator he had run into while fishing at Sykes Swamp,
+but Claude hushed him, saying, "Hampton comin' in the front door now. You gotta keep quiet."
 
-Hampton entered singing Blue Oyster Cult's song "Don't Fear the Reaper" in a loud voice. He stops singing when he
-notices Camellia sitting at her table.
+Hampton entered singing "Don't Fear the Reaper" in a loud voice. He stopped singing when he
+noticed Camellia sitting at her table.
 
-"Hampton, how you been?"
+Once she had his attention, she asked, "Hampton, how you been?"
 
 "Yeah, I been fine."
 
 "You been sending me a whole lotta texts, and I been meaning to respond..."
 
-Hampton cuts her off. "I ain't sent you nothing."
+Hampton cut her off. "I ain't sent you nothing."
 
 "Whachoo talking bout? You know damn well you been sending me texts. And they was kinda sweet. But now you being mean,
 and that sweetness turning kind of sour."
@@ -64,35 +66,35 @@ and that sweetness turning kind of sour."
 
 "You fair?"
 
-"I have no idea what you getting at."
+"I have no idea what you playin' at."
 
-"I'm just saying, if you honest and fair, then just stop being so beautiful."
+"I'm just sayin', if you honest and fair, then just stop being so beautiful."
 
 "That don't make no sense. Why someone beautiful can't be honest and fair?"
 
-"Cause beauty like you got turns men into liars. I once said I loved you."
+"Cause beauty like you got turns men into liars. One time I told you I loved you."
 
 "Yeah, that what you made me believe."
 
-"You never should've believed me. Cause I never loved you."
+"You never shoulda believed me. 'Cause I never loved you."
 
-"I sure was fooled."
+"Sure had me fooled."
 
-"Listen, you ought to give up on men, and become one of them church ladies who shakes around and cries on Sundays when
+"Just stay away from men. Be one of them church ladies who shakes around and cries on Sundays when
 the Holy Spirit grabs ahold of her. Cause otherwise you just gonna be breeding sinners like me."
 
-"Where your daddy at?"
+Hampton seemed to catch a scent on the air, and looked around the room suspiciously. "Where your daddy at?"
 
 "He home."
 
 "Good. Let that fool stay there." He turned to head toward the exit door, but then paused and looked back to Camellia.
 
-Camellia shoots a worried look back at the service window behind which Claude and her father are ensconced. Her father
-lifts up his hand so she can see it and gestures that she should keep pretending they are not there.
+Camellia shot a worried look back at the service window. Her father
+lifted up his hand so she could see it and gestured that she should continue.
 
 "Just don't be with no man. Or if you're gonna have a man pick a really dumb one. Cause the smart ones know you're gonna
-be out whoring around with their friends and making fools of them. But better you just become one of them church ladies.
-So you take care."
+be out whoring around with their friends and making fools of them. So, better you just become one of them Holy Spirit
+ladies."
 
 Hampton again began to leave, but again turned back.
 
@@ -113,7 +115,7 @@ Claude responded, "I don't think it all about you. There something else be troub
 ## 2.
 
 Hampton, after leaving Elsie's Bar, walked the mile over to Rome Baptist Church. Along the way, he passed some of the
-worst housing in Denmark: shacks with rusted out metal roofs, and the dilapidated trailers under the live oaks at the 
+worst housing in Denmark: a series of shacks with rusted metal roofs, and the dilapidated trailers under the live oaks at the 
 Hands on Home mobile park.
 
 After passing such decay, coming to the clean, brick facade of the church was a relief.
@@ -124,12 +126,9 @@ already setting up their equipment inside the church. He greeted Norbert, who in
 
 [song about Cain and Abel inserted here: under development...
 
-Cain was jealous of his closest kin
-
-And so he killed his brother dead
-
-The Lord called out his heinous sin
-
+Cain was jealous of his closest kin  
+And so he killed his brother dead  
+The Lord called out his heinous sin  
 And placed a curse upon his head
 
 ]
@@ -139,7 +138,7 @@ heard real clear throughout the church, OK?"
 
 The group rehearsed the song for a few minutes with Hampton listening. happy with what he heard, he told them "you boys
 sound great! And I do appreciate y'all doing this for me. I know you already getting paid something but here's a little
-something extra to thank y'all."
+extra to thank y'all."
 
 He handed Norbert a $100 bill.
 
@@ -169,21 +168,24 @@ Hiram sat down beside Hampton and asked him, "What up, my brother?"
 
 "True dat."
 
-(As they spoke, the church was gradually filling with people coming to hear the evening's performance.)
+As they spoke, the church was gradually filling with people coming to hear the evening's program.
+Most of the men were dressed in colorful suits, or at least jackets and dress shirts, while the woman had on their
+Sunday dresses, and many of them sported fancy hats. One woman looked like she had dressed as Haile Selassie for a
+costume party, with the addition of a multitude of imitation gems applied to the jacket and hat.
 
-"But I ain't sure yet, so I devised a little test for tonight."
+Hampton continued: "But I ain't sure yet, so I devised a little test for tonight."
 
 "A test?"
 
 "Yeah, I added a song to the program for tonight, about Cain and Abel. You know, with someone killing his own brother.
 And I wanna see how Claude react to hearing that song."
 
-"So how I gonna help you?"
+"So how I gonna help?"
 
 "I want you to watch him too. Then after, we gonna compare notes, and join our judgments about whether he done it or
 not."
 
-"Well, I down with that."
+"I can do."
 
 The door to the church opened again, and Claude and Gertie walked in together, followed immediately by Winthrop and
 Camellia.
@@ -194,9 +196,9 @@ Hiram got up and moved to the front of the church, and Hampton himself rose to g
 
 Claude spoke first. "How you doing, Hampton?"
 
-[clever answer]
+"I'm about as fine as a three-legged pig can be, given it almost Easter."
 
-Claude responded, "Hampton, I can't figure out what the hell you saying!"
+Claude responded, "Hampton, I can't never figure out what you on about!"
 
 Hampton turned to Winthrop. "Didn't you used to sing gospel?"
 
@@ -210,14 +212,14 @@ Winthrop looked confused, and hesitantly replied, "Well, I was a baritone."
 
 Winthrop was totally nonplussed, and could not even formulate an answer. But he was saved from having to do so by the
 commencement of the evening's musical program. The musicians were creating background color as the church's minister
-began to give the welcome.
+began to give the devotion.
 
 Claude said, "We better go get our seats," and they all made their way to the front of the church.
 
-Gertie, already seated, said to Hampton, "Come sit next to me," and patted the chair to her left.
+Gertie, once seated, said to Hampton, "Come sit next to me," and patted the chair to her left.
 
 Hampton responded, pointing to the chair next to Camellia, "Thank you mama, but that metal chair got a more magnetic
-attraction for me."
+kinda attraction for me."
 
 He took a seat on the floor next to Camellia, put his head in her lap.
 
@@ -250,7 +252,9 @@ and praise the Lord!"
 
 "Praise the Lord!" the congregation called back.
 
-[Hemingway's welcome]
+"We're gathered here for a very special evening with some musical guests down here all the way from Columbia. And I hope
+everyone here tonight is moved by the Holy Spirit. And if any of you is sufferin' any afflictions, you give them up for
+the Lord. And I pray Jesus can cure your sufferin'. Now, let us hear some songs praisin' our savior"
 
 The Spiritual Gospel Singers took up their instruments and microphones, and began their program with "God is Still in
 Charge," followed by "Mississippi Poor Boy." Then Norbert addressed the crowd. "Now we gonna introduce a brand new song
@@ -272,11 +276,10 @@ Hampton stared at Hiram. "So whachoo think?"
 
 "So whachoo gonna do?"
 
-"I don't know. I gotta think on this for a bit."
+"I don't know. I gotta contemplate this for a bit."
 
 Then the pair heard the door of the church opening behind them, and turned to find Thaddeus and Alastair walking up the
 central aisle toward them.
-
 
 Once the two pairs of friends were within a few feet of each other, Alastair said, while pointing to Hampton, "Brother,
 we gotta have a word with you."
@@ -291,7 +294,7 @@ we gotta have a word with you."
 
 Thaddeus chimed, "She said she's been amazed at how you been acting."
 
-"It's something when after all these years, a boy can still amaze his mama."
+Hampton said, "It's something when after all these years, a boy can still amaze his mama."
 
 Alastair said, "She wants you to go round her place tonight before she goes off to sleep."
 
@@ -301,7 +304,7 @@ Alastair looked askance at Hampton. "We were brothers once."
 
 "So you saying we ain't brothers no more?"
 
-"I'm saying a brother oughta let another brother know if something troubling him."
+"I'm saying a brother oughta let another brother know if something troublin' him."
 
 "I just ain't got no future ahead of me."
 
@@ -309,11 +312,9 @@ Alastair looked askance at Hampton. "We were brothers once."
 
 "Yeah, and maybe he ain't looking forward to the son rise."
 
-
 [flute?]
 
-
-The door of the church opens again, and Winthrop rushes up the central aisle to address Hampton.
+The door of the church opened again, and Winthrop rushed up the central aisle to address Hampton.
 
 "Hampton, your mama really anxious that you come see her."
 
@@ -332,7 +333,8 @@ Hampton looks around the church and shakes his head. "I stand corrected: it real
 
 ## 3.
 
-Claude, Thaddeus, and Alastair were gathered around a table in the back of Elsie's Bar, speaking in hushed tones, so
+An hour later, Claude having recovered from his episode, he
+Thaddeus, and Alastair were gathered around a table in the back of Elsie's Bar, speaking in hushed tones, so
 that their voices would certainly not be heard above the music of the jukebox.
 
 Claude said, "The boy be mad. It ain't safe for him to be around Denmark in this state. I want y'all to convince him to
@@ -360,29 +362,29 @@ Winthrop answered, "Well, ain't nobody better than a mother to draw the truth ou
 
 "Winnie, I do appreciate you doing that for me, and I won't forget yo' loyalty."
 
-Winthrop got up and walked down to the bar. Left by himself, Claude ordered a double scotch, and sat back down at this
-table, drinking while staring vacantly at the neon moon of the bar's window lights.
+Winthrop got up and walked out of the bar. Left by himself, Claude ordered a double scotch, and
+drank it while staring vacantly at the neon moon of the bar's window lights.
 
 
 ## 4.
 
-Gertie lived in one of the elegant homes at the north end of town, which she had shared with her husband until his
+Gertie lived in one of the elegant antebellum homes at the north end of town, which she had shared with her husband until his
 recent demise. She was sitting on the couch in her living room, watching a romance movie on Netflix while sipping a gin
 and tonic, when Hampton walked up onto the wraparound porch and knocked on the front door.
 
-Gertie, flustered at receiving such a late visitor, rose from the couch and peered out through the intricate let it
-glass window of the front door to see who was there. When she recognized her son, she opened the door, and said
+Gertie, flustered at receiving such a late visitor, rose from the couch and peered out through the intricate
+leaded-glass window of the front door to see who was there. When she recognized her son, she opened the door, and said
 "Hampton! What you doing here at this hour?"
 
 "Mama, we gotta talk."
 
 "Well then come in. Take a seat."
 
-She motioned Hampton to take a seat in a leather recliner next to the couch, and sat back down on the couch herself.
+She motioned him to sit in the leather recliner next to the couch, and sat back down herself.
 
-"So what up son?"
+"So what up, son?"
 
-"I wanna know what's wrong with you."
+"I wanna know what wrong with you."
 
 "Well, you givin' offense to your daddy's memory, for one."
 
@@ -390,22 +392,22 @@ She motioned Hampton to take a seat in a leather recliner next to the couch, and
 
 "Boy, I thought I taught you some manners when you was growin' up. You don't never talk to your mama that way!"
 
-As they had been talking, Winthrop had crept up onto the porch, and tried to listen at a living room window. Finding he
+Meanwhile, Winthrop had crept up onto the porch as quietly as he could, and tried to listen at a living room window. Finding he
 could not hear what was being said, he walked across the porch to the dining room, slid open one of the windows, and
 hoisted himself through it.
 
 Unfortunately for him, as he did so, his foot collided with a side table placed next to the window, and knocked the
 silver tea service it had hosted onto the floor, producing a great clatter.
 
-Hampton jumped up out of his chair, and grabbing the handgun he knew Gertie kept in her sidetable, cried, "Mama, we got an intruder!"
+Hampton jumped up out of his chair, and grabbing the handgun he knew Gertie kept in the drawer of her sidetable, cried,
+"Mama, we got an intruder!"
 
 He raced across the entrance hall and, seeing a figure silhouetted in the window of the darkened dining room, fired two shots.
 
 Winthrop cried out, "Hampton, you done shot me," and collapsed onto the floor.
 
-Gertie had followed close behind Hampton into the dining room.
-
-Seeing the body on the floor, she asked, "Hampton, what the hell you done?"
+Gertie had followed close behind Hampton into the dining room, and, seeing the body on the floor, she asked, "Hampton,
+what the hell you done?"
 
 She turned on the chandelier over the dining room table, and now they could both see who lay on the floor.
 
@@ -415,16 +417,17 @@ Hampton said, "What that interferin' old fool doing crawlin' in through yo windo
 
 "I don't know, but it don't mean you get to shoot him dead!"
 
-Gertie thought frantically. "We gotta get Claude over here." She took out her cell phone and called Hampton's uncle.
+Gertie thought frantically. "We gotta get Claude over here." She took out her cell phone and called him.
 
 "Claude, you better get over here right away. We got big trouble."
 
 She listened for a moment, and then repeated "Just get over here."
 
+When she had put her phone back in her dress pocket, Hampton asked,
 "Mama, why don't we just say we thought we had us an intruder, and so I shot him."
 
-"Son, people know you've been acting all crazy lately. They know you done fell for his daughter, and he was standing in
-your way. You gonna have a hard time convincing the police you didn't know it was him."
+"Son, people know you've been acting all crazy lately. They know you done fell for his daughter, and he was standin' in
+your way. You gonna have a hard time convincin' the police you didn't know it was him."
 
 The two of them stared at the body on the floor for a moment, and then Hampton said, "Let's get outta this room." He
 turned the chandelier off, and they moved back into the living room and sat in silence, awaiting Claude's arrival.
@@ -448,24 +451,25 @@ Hampton, "Yeah, he dead all right."
 
 Claude gave him a disdainful look. "So you some sort of medical examiner now or somethin'?"
 
-"You don't believe me, you go check him out for yourself."
+"You don't believe me, you go check him out for yo'self."
 
 Claude walked over to the body, crouched down, and put his fingers on Winthrop's neck. "Yeah, he dead all right."
 
 He rose back up, and, looking at Gertie, said, "Get me a whiskey. I gotta think for a minute." He walked back into the
 living room and sat on the couch.
 
-Gertie went down the central hallway to the kitchen in the back, and came back a minute later with a glass of whiskey on
-the rocks. Claude gulped it down, and, raising the glass towards Gertie, said, "Get me another."
+Gertie went down the central hallway to the kitchen in the back, and came back a minute later with a glass of whiskey in
+one hand, and a bottle of Johnny Walker Black in the other. Claude gulped down his drink, and, raising the glass towards
+Gertie, said, "Pour me another."
 
 He drank his second whiskey more slowly, and when he was done, he stood up from the couch, and announced, "OK, here what
 we gonna do. Hampton, gimme that gun you done shot him with."
 
 Hampton handed the gun over to Claude, who took it back into the dining room, and fired a shot into the wall.
 
-He looked back at Gertie and Hampton, who had followed him into the room. " Hampton, you gonna get back to your
-apartment, stay put until morning. Thad and Al was head back up to Clemson anyway, so we gonna have them pick you up
-first thing tomorrow, but they gonna say they left with you right after the gospel program. Now git."
+He looked back at Gertie and Hampton, who had followed him into the room. "Hampton, you gonna get back to your
+apartment, and stay put until mornin'. Thad and Al was bringin' you back up to Clemson anyway, so we gonna have them
+pick you up first thing tomorrow, but they gonna say they left with you right after the gospel program. Now git."
 
 "But..."
 
