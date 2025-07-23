@@ -33,9 +33,9 @@ now."
 back before I do?"
 
 Hampton did as Hiram recommended. He drifted into the head shop on the corner, the business with the Bob Marley portrait
-on its wall. He wandered the store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and bongs. After a
-few minutes, our young white girl with dreadlocks, who had been sitting behind the cash register fiddling with her smart
-phone, stood up and asked him "Is there something you're looking for?"
+on its wall. He wandered the store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and bongs.
+A young white girl with dreadlocks and multiple piercings sat behind the cash register fiddling with her smart
+phone. After a few minutes, she stood up and asked him "Is there something you're looking for?"
 
 Hampton had hardly noticed that she was there, and was startled that she had spoken to him. "Yes, I'm looking for
 someone I could never find."
@@ -52,7 +52,7 @@ Hampton left the shop and went across the street and into a small bookstore.
 [what books does he see?]
 
 After a few minutes he left the store and walked up Devine Street. When he reached Queen Street he turned left, and
-wandered aimlessly through blocks of Victorian houses until he was exhausted enough to dull the edge of his grief.
+wandered aimlessly through blocks of antebellum houses until he was exhausted enough to dull the edge of his grief.
 
 When he arrived back in Five Points, the neighborhood had come alive with some strange sort of happening: by a large
 fountain, a five-piece band was playing what he thought of as hippie music. A crowd was gathered around the musicians,
@@ -133,7 +133,7 @@ head. "Hampton, unless you want to see your mama die before your eyes, you best 
 
 While the drama unfolding at the front of the bar had captured everyone's attention, Ambrose had quietly moved up close
 to Hampton, and now pulled out a gun of his own, and pointed it at Hampton. "Boy, you done killed my daddy, and you
-pretty much the one who killed my sis. So I think it pretty much about time for you to die yo'self."
+pretty much the one who killed my sis. So I think it about time for you to die yo'self."
 
 Just then, the door of the bar shattered inwards, and a dozen armed FBI agents rushed into the room. Their chief called
 out, "Everybody, drop your weapons right now!"
@@ -156,12 +156,12 @@ The four prisoners were led away into four separate cars and driven off. The res
 gradually recovered from their shock, and wandered out of the bar a few at a time.
 
 Soon, the only people left were a couple of serious drinkers seated in a corner, Agnes and Donna, who were cleaning up,
-and Hiram, who sat at the bar sipping a scotch. The door open, and a tall, slim black man, elegantly dressed and gray
+and Hiram, who sat at the bar sipping a scotch. The door open, and a tall, slim black man, elegantly dressed in gray
 trousers, a gray button-down shirt, and a black leather jacket, and wearing dark, mirrored glasses, stepped into the
 bar. He took off the glasses and blinked his eyes a couple of times, adjusting to the darkness within the building. When
 he could see again, he spotted Hiram at the bar, and said, "Hiram, what up?"
 
-"Forrest, my man, how you doing?"
+"Forrest, my man, how was the trip from Norway?"
 
 Forest had walked across the room, and the two men fist bumped. For sat down in a stool next to Hiram, and said to
 Agnes, "Get me one of whatever he's having." Then he asked Hiram, "Everything go according to plan?"
