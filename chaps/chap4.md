@@ -21,7 +21,7 @@ Joyce nodded.
 
 "So I was in no mood to take a chance that the same thing gonna happen to me or my Gertie here. I grabbed the gun I knew
 Gertie kept in that there side table, and crept across the way to the dining room. It was dark, and the moon was comin'
-in the window, so all I could see was a dark shape. And I figured I better shoot before he does. And that's about all
+in the window, so all I could see was a dark shape. And I figured I better shoot before he him. And that's about all
 there is to it."
 
 "Claude, that all seems straightforward enough. I know Winthrop was your boy, and you wouldn't have no reason to kill
@@ -32,13 +32,13 @@ him. But what the hell was he doin' climbing in the window here at night?"
 "Well, we gonna have to have an investigation, like with any shooting death. But I imagine in this case it just gonna be
 a formality."
 
-Claude said, "I know you'll take good care of this, Jim."
+Claude said, "I know you'll take care of this, Jim."
 
 The two of them shook hands at the door. Claude added, "Don't forget to stop by the farm and pick up some collards and mustard greens."
 
-"Thank you. You know I do appreciate how kindly you and your family always done treated me."
+"Thank you. You know I do appreciate how kindly you and your family always treated me."
 
-With that Sheriff Joyce walked across the porch and out into the cool and breezy February night.
+With that Sheriff Joyce walked across the porch and out into the cool and breezy March night.
 
 Claude close the door behind him, took out his cell phone, and called Thaddeus. "You and Alastair meet me at Elsie's.
 Vite vite." (Claude, a Clemson man, liked to show off what little he remembered of his four semesters of French.)
@@ -65,9 +65,9 @@ Once the drinks arrived, and Thaddeus and Alastair had time to take a couple of 
 
 Thaddeus and Alastair stared at him in disbelief.
 
-After a moment of silence, Thaddeus asked, "Why he do that?"
+After a moment of silence, Thaddeus asked, "Why'd he do that?"
 
-"Boys, this can't leave this room, but I think he was gunnin' for me."
+"Boys, this can't leave this room, but I'm thinkin' he was gunnin' for me."
 
 Alastair shook his head like he was trying to shake off a horse fly. "OK, but why would he do *that*?"
 
@@ -86,10 +86,10 @@ Thaddeus and Alastair nodded to indicate their appreciation of what Claude was s
 
 Thadeus asked, "So what you want us to do?"
 
-"Imma take the rap for shooting Winthrop. I already told sheriff Joyce it was me who done it, cause I thought he was
+"Imma take the rap for shooting Winthrop. I already told the sheriff it was me who done it, cause I thought he was
 that burglar who been operating round here of late. But I told Hampton since he's known to have been disputing with
-Winthrop, he better get out of town. I told him you two would put him up at Clemson for a couple of weeks, until the
-investigation was finished."
+Winthrop, he better get out of town. I told him you two would put him up at Clemson for a spell, until the
+investigation finished."
 
 Alastair said, "Yeah, we could do that."
 
@@ -103,19 +103,20 @@ the whole. And this here one of those times. Now, is you boys part of this team,
 Both of his interlocutors mumbled that of course they were part of the team.
 
 So here's what you gonna do. You gonna pick up Hampton from his apartment first thing in the morning. He already
-expectin' you to be drivin' him up to Clemson. But along the way, you'll be passin' Sumter National Forest. One a you
+expectin' you to be drivin' him up to Clemson. But along the way, you'll be passin' Sumter Forest. One a you
 gonna tell him that you got a school biology project or some such nonsense, and you gotta take some quick samples for
 your class project. And it's just gonna be a quick detour."
 
 "Once y'all in the park, head over to Lick Fork Lake. They have a park map at the entrance, so it be easy to find out
-where it is. You tell Hampton you gotta take some water samples from there. I got a gun for each of you. You do
-what you gotta do, and once it done, you lose both the guns and Hampton into that water. If you weigh him down properly,
+where it is. You tell Hampton you gotta take the samples from there. I got a gun for each of you. You do
+what you gotta do, and once it done, you lose both the guns and Hampton into that lake. If you weigh him down properly,
 ain't likely nobody ever gonna find a body in there unless they decide to drain the whole thing. And then y'all go on up
 to Clemson, and go about your studies."
 
 Alastair asked, "And you sure there ain't no alternative?"
 
-"Boys, he already done killed one man. How many more dead you wanna see? Better one more dead than a whole bunch of us goin' to our graves."
+"Boys, he already done killed one man. How many more dead you wanna see? Better one more dead than a whole bunch of us
+goin' to our graves."
 
 Thaddeus and Alastair both nodded.
 
@@ -130,7 +131,7 @@ hand on the horn as if he were about to honk.
 Alastair said, "Whachoo doin'? It's seven Sunday mornin'; you can't be honkin' your horn. Jes lemme call him."
 
 Hampton sounded sleepy when he answered, and said he would be down in a few minutes. When he arrived at the car, he was
-pouring a backpack stuffed to the bursting point.
+bearing a backpack stuffed to the bursting point.
 
 Thaddeus asked him, "Brother, what you got there?"
 
@@ -144,11 +145,11 @@ to think y'all cared about me."
 
 Hampton laughed heartily, to indicate he was just joking around. Thaddeus and Alistair also laughed, but less heartily.
 
-He drove two blocks north on Carolina Highway, and then turned left on the Heritage Highway. They passed the Amtrak
+Thaddeus drove two blocks north on Carolina Highway, and then turned left on Heritage Highway. They passed the Amtrak
 station and were soon out in open countryside. The fields that would host corn and soybeans in the summer were now lying
-fallow, but occasionally they would pass a green field full of collards or some other winter green. Other fields held
-grazing cows, and every once in a while, behind a high white fence, they saw horses wandering before a stately southern
-mansion.
+fallow, but occasionally they would pass a green field full of collards or some other winter crop. Other fields held
+grazing cows, and every once in a while, behind a high white fence, they saw horses wandering in a stately southern
+estate.
 
 Hampton had been drowsy, staring out the window, but he suddenly became animated. "I ever tell you two about the
 three-legged pig I saw?"
@@ -164,7 +165,7 @@ field next to this pig that only got three legs. Y'all remember my Mustang?"
 
 Alistair said, "Yeah, a real sweet car, until you wrecked it."
 
-Hampton left. "Let's not mention that. Anyway, back to the pig. Naturally, I wanna find out what up with it. So I pull
+Hampton laughed. "Let's not mention that. Anyway, back to the pig. Naturally, I wanna find out what up with it. So I pull
 my car over to the side of the road, and get out. I asked the farmer how he doin', and he tells me he havin' a blessed
 day."
 
@@ -215,21 +216,21 @@ Hampton yawned and stretched in the back. Thaddeus found an isolated spot on the
 hung with Spanish moss, where he could pull the car off the road and park it at the top of a small rise overlooking the
 lake.
 
-Thaddeus turned off the ignition, and said, "If y'all help me get these samples, we can be out of here a lot quicker."
+Thaddeus turned off the ignition, and said, "If y'all help me get these samples, we can be out of here real quick."
 
 Hampton spoke quietly from the back, saying "OK, but first I gotta say goodbye, my brothers," as he rummaged through his
 backpack.
 
 Alastair asked, "Why you sayin' goodbye now?"
 
-"Cause I sendin' you two on a trip to visit Winthrop." With that he lifted his handgun out of the backpack, and shot
+"Cause I sendin' you two on a trip to visit Winthrop." With that he lifted his pistol out of his backpack, and shot
 both of his friends in the head, sending their brains splattering over the windshield.
 
 He rested for a moment in the backseat, wiping away a couple of tears. He then got out of the car, bringing his backpack
-with him, and placed it on the ground against the trunk of one of the live oaks. He then moved around to the driver side
+with him, and placed it on the ground against the trunk of one of the live oaks. He moved around to the driver's side
 and opened the front door. Gingerly avoiding as much gore as he could, he shifted the car into neutral.
 
-He then walked around to the back, and pushed the car towards the lake. It took off down the slope, and sank away with a
+He walked around to the back of the car, and pushed it towards the lake. It took off down the slope, and sank away with a
 satisfying gulp into the lake's dark waters.
 
 He stripped off his blood-splattered clothes and tied them into a bundle, which he weighed down with some rocks, and
@@ -277,8 +278,8 @@ being with your sister, he done killed him on purpose."
 
 "Paw do too? What the hell that supposed to mean?"
 
-"Not at all. Hampton was becoming a danger to all of us. The boy was completely out of control. But I thought it best we
-jes kept it within the family, and took care of things private like. I had a couple of my boys take him for a ride this
+"It means 'Not at all.' Hampton was a growin' danger to us all. The boy was completely out of control. But I thought it best we
+jes kept it within the family, and take care of things private like. I had a couple of my boys take him for a ride this
 morning. Lemme just say he won't be troubling us no more."
 
 Ambrose had ceased to point his pistol at Claude, and had let it drop onto his lap. "Aright then, so long as you done
@@ -296,8 +297,8 @@ Ambrose nodded, released Claude's hand, and turned and left the office.
 ## 5.
 
 Once Hampton had walked out of the forest, he had begun hitchhiking, making his way towards Columbia. His final ride
-dropped him off on Meeting Street in West Columbia, and walked from there across the Gervais Street bridge into Columbia
-itself.
+was from a fellow delivering a fiddle to Bill's Pickin' Parlor in West Columbia, and since he was only a few blocks from
+his destination, he walked from there across the Gervais Street bridge into Columbia itself.
 
 After he crossed the bridge, he took out his cell phone and called Hiram. After a couple of rings, he picked up, and
 said, "Hampton, what up?"
@@ -352,12 +353,12 @@ Can't look their brother in the eye. So it obvious to me Claude asked them to ge
 
 "I been acting all crazy, so they probably thought I's too out of it to guess what they was up to."
 
-"My friend, you do realize you killed three people in the last two days? A lot of folk would regard that as a bit
+"My friend, you do realize you killed three people in the last two days? A lot of folk would regard that as a little bit
 crazy."
 
-"Well, one was kinda an accident, and two was self-defense."
+"Well, as I mentioned, one was kinda an accident, and two was self-defense."
 
-"Look, I ain't putting you on trial. Jes pointin' out some inconvenient facts."
+"Look, I ain't putting you on trial. Jes pointin' out some inconvenient facts, should somebody else put you on trial."
 
 They had reached the corner of Harden and College Street. Hiram pointed ahead, and said, "See that wall with the giant
 painting of Bob Marley on it? My apartment is just past that."
@@ -370,7 +371,7 @@ They walked for a moment in silence, and then Hiram asked, "So what you gonna do
 
 "Maybe Wednesday afternoon, you can bring me back down to Denmark?"
 
-"And then what? You kill a few more folks?"
+"And then you kill a few more folk?"
 
 "No, I just wanna confront Claude at the fellowship dinner, in front of the whole congregation, and get him to admit he
 killed my daddy. At least I can save my mama from marryin' him. Then, I don't care what gonna happen to me."
@@ -387,12 +388,12 @@ death had dissipated when Claude assured him that Hampton was already dead. So n
 of his loss.
 
 And the drinking was working, until Camellia entered the bar. He had never seen his sister out in public looking
-anything but her best, made up, her braided hair all in place, her clothes, if not expensive, because she could never
-have afforded expensive clothes, nevertheless attractive and stylish.
+anything but her best, made up, and her braided hair all in place. Her clothes, if not always expensive, because she could
+only afford expensive clothes if they were earned from one of her modelling jobs, were nevertheless attractive and stylish.
 
 But she now looked like the sibling he knew had been through a decade of dissipation. Her hair was a mess, her eyes
-glassy, and she wore an unevenly buttoned jacket, covering a stained T-shirt, and a mismatched skirt. As she entered the
-bar she carried with her an herbal penumbra of skunk weed.
+glassy, and she wore an unevenly buttoned jacket, covering a stained T-shirt, and some slovenly sweatpants. As she
+entered the bar she carried with her an herbal penumbra of skunk weed.
 
 There were only a dozen or so patrons in the bar, but every one of them stopped what they were doing and stared at her.
 Agnes came out from behind the bar and put her hands on Camellia's shoulders. "Honey, you don't look so good. Why you
