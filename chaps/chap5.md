@@ -180,7 +180,14 @@ Forrest asked, "Hey, where'd you find that guy who looked so much like Hampton's
 gave him a couple hundred dollars to wander around in the street on a night I knew Hampton would be around, and plant
 the idea in his head that Claude had killed his daddy."
 
-"And did Claude kill Will?"
+"But why you didn't just turn the evidence you had against the Shepherds over to the FBI? Why this whole plot with
+Hampton?"
+
+"We had to get him out of the way, and there wasn't enough evidence of his involvement to be sure the FBI would arrest
+him. So I figured if I stirred things up a bit, he would do somethin' stupid, 'cause that's his way. I didn't know he
+would go off killin' folks, but I knew it would be somethin' dumb assed."
+
+"And *did* Claude kill Will?"
 
 "He mighta done. I really got no clue. But it worked out OK, didn't it?"
 

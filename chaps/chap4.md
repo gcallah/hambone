@@ -361,7 +361,7 @@ crazy."
 "Look, I ain't putting you on trial. Jes pointin' out some inconvenient facts, should somebody else put you on trial."
 
 They had reached the corner of Harden and College Street. Hiram pointed ahead, and said, "See that wall with the giant
-painting of Bob Marley on it? My apartment is just past that."
+painting of Bob Marley having a starin' contest with a lion on it? My apartment is just past that."
 
 They walked for a moment in silence, and then Hiram asked, "So what you gonna do?"
 
