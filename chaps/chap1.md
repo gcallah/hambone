@@ -46,9 +46,9 @@ stops in this hot, humid, and, at that time, malaria-infested country after cold
 
 "Man, it don't make no sense to underestimate them. That Forrest, he mean."
 
-Bernie, staring up at the low-hanging clouds, asked, "Now wait a second: didn't Will kill Forrest's daddy?
+Bernie, staring up at the low-hanging clouds, asked, "Hold on: didn't Will kill Forrest's daddy?
 
-"Yeah, that's what some folk say... and they say he killed a whole bunch of Polacks too!"
+"Well, that's what some folk say... and they say he killed a whole bunch of Polacks too!"
 
 "What the Polacks doing in Norway?"
 
@@ -59,7 +59,7 @@ opening the door onto the roof.
 
 Marcus shook his head. "Man, you boys don't ever wanna share, do you?"
 
-Bernie laughed, and after taking a hit, passed the joint to Marcus, who passed it to Hiram after having his allotment.
+Bernie laughed, and after taking a hit, passed the joint to Marcus, who passed it to Hiram after having his turn.
 
 Hearing a noise in the street below, Frankie looked over the parapet. "Who dat down there?"
 
@@ -69,12 +69,12 @@ Marcus said, "Yo, dat looks like ole Will!"
 
 Bernie replied, "Man, you fool, you know we done buried Will two months ago. You was there!"
 
-Hiram shouted down, "Hey old man, where you comin' from? You from around here?"
+Hiram shouted down, "Hey ole man, where you comin' from? You from around here?"
 
 The man looked up at the four occupants of the roof, but said nothing, then turned away and continued slowly north on the
 street, towards the Amtrak station at the end of the road.
 
-(The station hosts one train per day, at 2:57 AM, and, per Amtrak, features the following inconveniences:  
+(The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of conveniences, features the following inconveniences:  
 - Unstaffed station
 - ATM not available
 - No elevator
