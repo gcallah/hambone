@@ -2,9 +2,9 @@
 
 ## 1.
 
-Denmark, South Carolina, is a drowsy hamlet almost at the halfway point on the trip from Columbia down
-to Savannah. Carolina Highway is the main street through the
-town center. At its north end the street boasts a number of elegant, antebellum southern houses,
+If you're taking the drive from Columbia, South Carolina, down to Savannah, Georgia, about halfway along your trip,
+you'll find yourself on Carolina Highway, the main street of Denmark, South Carolina. 
+At its north end the street boasts a number of elegant, antebellum houses,
 with covered porches, balconies, wisteria climbing trellises and shading the porch, and crepe myrtles and pindo palms in
 the yard.
 But by and large the town is in a state of advanced decay. The old downtown's brick buildings are more often empty than
@@ -20,12 +20,13 @@ are black folk, but until recently, the leading citizen of the
 town was a white businessman, Will Shepherd. He owned the town's only real estate agency, as well as its used car
 dealership, and its most popular bar, Elsie's.
 
-But there were rumors, rumors that his real money came from controlling the town's drug supply: mainly weed, coke, and
+But there were rumors, rumors that his real money came from controlling the area's drug supply: mainly weed, coke, and
 oxy. So when he died from snorting what was apparently some tainted coke, there were more rumors: maybe he had been
-taken out.
+poisoned.
 
-Up on the roof of Elsie's on South Magnolia Avenue, seated on metal folding chairs, two young black men,
-Bernie and Frankie, contemplated these rumors, while smoking a joint.
+And on a cool February night, up on the roof of Elsie's on South Magnolia Avenue, these rumors were being 
+discussed by two young black men, Bernie and Frankie. The discussants were seated on folding metal chairs, placed so
+that they could look out over the street below, and passing a joint back-and-forth as they did so.
 
 Bernie asked, "So you think someone took out ole Will?"
 
@@ -33,8 +34,8 @@ Frankie coughed a little, but managed to squeek out "Sure nuff," without exhalin
 
 "Who you think did it?"
 
-Finally letting out a cloud of smoke, Frankie said, "Gotta be Forrest's gang. Then been wantin' to move in on Will
-for a long time now."
+Finally letting out a cloud of smoke, Frankie said, "Gotta be Forrest's gang. They been wanna move in on Will
+a long time now."
 
 "Them lame-ass mothers from up in Norway?"
 
