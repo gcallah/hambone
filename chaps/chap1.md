@@ -26,7 +26,7 @@ poisoned.
 
 And on a cool February night, up on the roof of Elsie's on South Magnolia Avenue, these rumors were being 
 discussed by two young black men, Bernie and Frankie. The discussants were seated on folding metal chairs, placed so
-that they could look out over the street below, and passing a joint back-and-forth as they did so.
+that they could look out over the street below, and they passed a joint back-and-forth as they did so.
 
 Bernie asked, "So you think someone took out ole Will?"
 
