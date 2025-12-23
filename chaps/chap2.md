@@ -2,17 +2,21 @@
 
 ## 1.
 
-Winthrop Branch was sitting in his rocking chair on the front porch of his house. It was a small bungalow on Butler
-Street. The front yard contained a very large live oak, and the shade it cast made the lawn beneath it scruffy, and in
-places the sandy soil was visible. As he rocked he saw Camellia walking up the street. When she stepped up onto the
-porch, Winhtrop could see she was agitated.
+Camellia Branch left her apartment on Carolina Highway and walked down to City Hall Street, and then turned west until
+she reached South Dogwood Avenue. She walked half a block north on that street before turning west again on Butler
+Street, and then she proceed three blocks to reach her father's bungalow.
+
+Her father, Winthrop, was sitting in his rocking chair on the front porch of that house. 
+his front yard contained a very large live oak, and the shade it cast made the lawn beneath it scruffy, and in
+bare spots the sandy soil of the yard was visible. As he rocked he saw Camellia walking up the street. When she stepped
+up onto the porch, Winhtrop could see she was agitated.
 
 "Daddy, I gotta tell you about what just happened."
 
 "Sit yourself down and tell me what wrong."
 
 "Hampton, he show up at my apartment round six this morning. He look terrible. His eyes all bloodshot, his shirt button
-up all wrong, his shoes weren't tied, and he didn't even have no jacket on, despite the cold."
+up all wrong, his shoes weren't tied, and he didn't even have no jacket on, even though it was so cold."
 
 "Say what?"
 
@@ -29,25 +33,26 @@ Look, what we gotta do is go see Claude, and let him know his nephew in a bad pl
 The Shepherd Real Estate office
 was in a storefront across the street from Denmark Hardware. The office was very utilitarian. The walls needed a
 new coat of paint and the floor was scuffed up linoleum. The furniture was a couple of old desks that had been bought at a secondhand
-store, and one longer "conference" table that could be folded up if needed and brought to a church function for use as a
+store, and one longer "conference" table that could be folded up if needed and brought to a church dinner for use as a
 serving table. 
 
-Claude and Gertie were seated at one side of that table, meeting with Thaddeus Stevens and Alastair McIntyre who sat on the other.
-Claude addressed the two young men, saying, "First of all, I want to thank you for taking the trip down from Clemson to help us out.
-Y'all been friends with Hampton for a long time. And he actin' all crazy now. So we gotta figure out what wrong with him."
+Claude and Gertie were seated at one side of that table, and they were meeting with Thaddeus Stevens and Alastair
+McIntyre who sat on the other. Claude addressed the two young men: "First of all, I wanna thank you for
+coming down from Clemson to help us out. Y'all been friends with Hampton for a long time, and he actin' as
+crazy as an outhouse rat. So we gotta figure out what wrong with him."
 
 Gertie added, "He talk about y'all all the time, and we know he listen to you. So maybe you can help us out here, and figure
 out what goin' on with him?"
 
 Thaddeus held his arms open wide. "Hey, we ready to help you out, however we can."
 
-Alastair said, "Yeah, I'm with Thaddeus here!"
+Alastair said, "Yeah, what Thaddeus said!"
 
 Gertie added, "We do appreciate you, so please go see him as soon as you can. We gotta know what gone wrong with my boy."
 
 Thaddeus and Alastair left the office. They met Winthrop at the door as he entered.
 
-Claude looked up from the table with surprise. "Winnie, what bring you here?"
+Claude looked up from the table with surprise. "Winnie, what brings you here?"
 
 "You been saying how Hampton been looking mighty upset."
 
@@ -64,11 +69,11 @@ important news.
 "Boys, whachoo learn?"
 
 Clarence stepped forward towards the table. "We ain't got nothing to worry about. Forrest swear he ain't got no
-intentions toward Denmark. He *is* looking to expand a bit, but he got his eye turned toward Swansea. He say the Boucher
-family up there looking weak, with stupid shit like car jackings and what not getting out of hand. He thinking time to
-bring some order to that mess."
+intentions toward Denmark. He *is* looking to expand a bit, but he got his eye turned north toward Swansea. He say the Boucher
+family up there looking weak, with stupid shit like car jackings and what not getting out of hand. He thinkin' it time
+to bring some order to that mess."
 
-Claude told them "Boys, you done a good job. You all come by Elsie's tonight, and the drinks is on me."
+Claude told them "Boys, you done a good job. You all come by Elsie's tonight, and the drinks are on me."
 
 Corny and Claude both mumbled their thanks and left.
 
@@ -81,9 +86,9 @@ surely don't wanna waste your time."
 Gertie turned her head at a 45° angle and stared at Winthrop. "Right, so maybe you gonna get to the point sometime
 today."
 
-"The point is exactly what I'm getting to, and I don't mean to delay getting there one bit longer. Because dealing with
-such important folk as y'all, one gotta be brief. And I could go on and on saying nothing with a whole lot of words, but
-that ain't my way."
+"The point is exactly what I'm getting to, and I don't mean to delay getting there one little bit longer. Because
+dealing with such important folk as y'all, a man gotta be brief. And I could go on and on saying nothing with a whole lot
+of words, but that ain't my way."
 
 Claude put his head in his hand for a moment, then looked up at Winthrop and said, "So you gonna tell us what up, or you
 gonna just keep telling us that you about to tell us what up?"
@@ -93,8 +98,7 @@ Hampton's mind be my daughter."
 
 Claude gave Winthrop a puzzled look. "How she the problem?"
 
-"Well, sir, it seem your boy Hampton done fall hard for her. She sent me this text that Hampton sent her... So let me
-read it to y'all."
+"Well, sir, it seem your boy Hampton done fall hard for her. Lemme read you this text that he done sent her."
 
 Winthrop took his smartphone out of his pocket and lifted it with a flourish before his face. He cleared his throat, and
 began reading:
@@ -102,12 +106,12 @@ began reading:
 "You know you like heaven to me, the most beautiful woman I ever seen, and I just wanna lay my head on your ebony
 breasts..." 
 
-Gertieasked, "Is there more like that?"
+Gertie asked, "Is there more like that?"
 
 "Yeah, he wrote her some rap lyrics or something:
 
 "My love burns like a flaming star  
-Brighter even than the sun at noon  
+Brighter than the sun at noon  
 I ain't lying about what you are  
 You're the notes that make my tune"
 
@@ -117,7 +121,7 @@ Claude asked him, "So what she doing about all this?"
 
 "I never doubted it."
 
-"Then you know I didn't treat this as no game of craps or gin rummy. I ain't playing bunco here!"
+"Then you know I don't treat this as no game of craps or gin rummy. I ain't playing bunco here!"
 
 Gertie made a face like she had just bit into a lemon. "What the hell you talking about Winnie?"
 
@@ -136,15 +140,15 @@ know Hampton like to go in the bar and get a beer in the afternoon?"
 
 "Yeah, he do."
 
-"Well, what if I have my daughter go in and meet him there, and we can hang out in the back room and see what happen."
+"Well, what if I have my girl go in and meet him there, and we can hang out in the back room and see what happen."
 
-Claude nodded. "Yeah, that a plan."
+Claude nodded. "Yeah, that's a plan."
 
 Gertie gestured at the office window. "And speak of the devil."
 
 Hampton was meandering down the sidewalk on the opposite side of the street, earbuds on, singing something to himself.
 
-Winthrop told Claude and Gertie, "Get yoselves in the back office, and I call Hampton in."
+Winthrop told Claude and Gertie, "Get yoselves in the back room, and I call Hampton in."
 
 Claude said, "Yeah, why not? Come on, Gertie."
 
