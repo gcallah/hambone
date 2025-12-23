@@ -86,41 +86,47 @@ street, towards the Amtrak station at the end of the road.
 - No WiFi  
 )
 
-The man might have been heading to the train, but if so, he was several hours early. But if not to the station, where
-else was he going on this deserted street?
-Hiram gestured that he was puzzled, and told the others, "Yo, imma go get Hampton. He gotta check this guy out: maybe he a long
-lost relative or something."
+The man might have been heading to the train platform, but if so, he was several hours early. However, if not to the station, where
+else was he going on this deserted street? Hiram gestured that he was puzzled, and told the others, "Yo, imma go get
+Hampton. He gotta check this guy out: maybe he a long lost relative or something."
 
 
 ## 2.
 
-Meanwhile, downstairs in the bar, Will's brother, Claude, was having a party celebrating his engagement to Will's widow,
-Gertie. His fifteen guests were seated at a "table" that was assembled by pushing together five of the card tables that
-the bar used for patrons' dining, and covering them with a glossy, red-checked table cloths.
+Meanwhile, downstairs in the bar, Will's brother, Claude, was having a party.
+Claude Shepherd was a large man, about 6'4'' and close to 300 pounds. A lot of that weight was muscle, but another good
+portion resided in a belly... well, Claude would tell anyone he could, "Some guys boast about a six-pack: I got the
+entire keg right here," and place both his hands underneath his belly and shake it up and down. He had a ruddy face that
+perhaps once had been good looking but was now showing signs of dissipation, and reddish hair now streaked with gray and
+receding from his forehead.
 
-Claude addressed the gathering:
+Claude was celebrating his engagement to Will's widow,
+Gertie. His fifteen guests were seated at a "table" that was assembled by pushing together five of the card tables that
+the bar offered for the patrons' dining, and covering them with glossy, red-checked table cloths.
+He addressed the gathering:
 
 "It looks like Forrest might be planning a takeover of some new turf. And he ain't got no proof,
-but he suspects that it was Will that killed his pappy. So we gotta be ready for some action from Norway.
+but he suspects that it was Will that killed his daddy. So we gotta be ready for some action from Norway.
 
 "Therefore, Imma send Corny and Clarence up to Norway to see if they can talk some sense into Forrest."
 
 Claude paused to see if there was any reaction to his announcement. There being none, he
 looked over at a young, dreadlocked black man at the other end of the table.
 
-"So Ambrose, I hear you plan on headin' back down Louisiana?"
+"Ambrose, I hear you plan on headin' back down Louisiana?"
 
 "Yes sir. Plenty work on them oil rigs."
 
 "And what yo daddy say about this?"
 
-Ambrose's father, Winthrop, seated next to his boy, spoke up: "Yeah, I don't like it, but he talk me into it. So I
-guess it fine."
+Ambrose's father, Winthrop, seated next to his boy, spoke up: "Yeah, I don't like it, but the boy won't stop tellin' me
+how rich he gonna be, so I finally says OK."
 
-Claude next turned to the unhappy-looking white youth sitting directly across from him.
+Claude next turned his focus to the sullen young white man sitting directly across from him, staring at him intently for
+a moment before addressing him.
 
-"Hampton, you know you like a son to me. And we gonna need you if Forrest is making a move against us. I know you're
-still mourning yo' daddy, but you gotta snap out of it.
+"Hampton, you know you like a son to me. And we gonna need you if Forrest make a move against us. I know you're
+still mourning yo' daddy, but you gotta snap out of it."
 
 Gertie, from her chair next to Claude, joined in. "Yes son, why you seem so down?"
 
@@ -128,10 +134,10 @@ Hampton rose from his chair, offended. "Whachoo mean 'seem'? You think I'm just 
 
 Claude waved his hands back and forth as though blessing the congregation at a church service.
 
-"Now listen, it only right you mourning your pappy. But boy, enough is enough. You're not the only one who lost his
+"Now listen, it only right you mournin' your daddy. But boy, enough is enough. You're not the only one who lost his
 daddy. You see my daddy anywhere round here? Everyone here gonna lose their daddy sooner or later, if they ain't done so
 already. That just the way of things. You upset about that, you gotta take the issue up with our good Lord.
-And given our situation, we gotta ask you to drop your intent to go back to Georgia, and stick around here for the present."
+And given our situation, we gotta ask you to drop your intention to stay back in Georgia, and stick around here for the present."
 
 (Hampton, who played guitar, had been knocking around the music scene in Athens, trying to get a band going,
 but without much success.)
@@ -140,52 +146,56 @@ Hampton, while giving a mock bow, answered, "Your wish is my command."
 
 Claude ignored the sarcasm, and with a big grin, told Hampton, "Now that makes me real pleased."
 
-Just then, Hiram entered the bar from the back room, and called Hampton over.
+Just then, Hiram entered the bar from the back room (where the stairs to the rooftop were located), and called to Hampton.
 
 Hampton excused himself from the table, saying "My boy needs me."
 
 ## 3.
 
-Ambrose got up from the party table just after Will did, beckoning his sister Camellia to join him at a table
-in the back of the bar. She was a tall, slim young woman. Her hair was worn in a short afro, and colorful tatoos adorned
-her arms.
+While Claude's party had been proceeding in the center of the barroom, Camellia, a lanky young woman with a
+short-cropped afro, several piercings, and a multitude of colorful tatoos, was seated at the bar
+itself, drinking a glass of Johnny Walker Black. Ambrose got up from the party table just after Hampton did,
+and beckoned Camellia, who was his sister, to join him in the back of the barroom.
 
+When they were seated at the table furthest from the party, he asked her,
 "So I'm going back to Louisiana. You gonna keep texting me while I gone?"
 
 "You know I gonna. But I can't believe you gonna miss my exhibit next week."
 
 "Exhibit?"
 
-"I told you: I'm showing some of my paintings at the library."
+"I told you 'bout it! I'm showin' some of my paintings at the library."
 
 "Ah, yeah, I forgot. But I gotta head back. Work calls." Ambrose shrugged, then paused, looking up to the ceiling. He
-continued: "And you might not wanna hear this, but I gotta talk to you about Hampton."
+continued: "And you maybe not wanna hear this, but I gotta have a word with you about Hampton."
 
-"Oh, here we go."
+"Oh brother, here we go."
 
 "No, you listen here girl: you know he just messing with you, right? Ain't no white boy from the Shepherd family gonna
-get serious with a black girl from the hired help. And even if he was serious, his family ain't gonna let him follow through."
+be serious with no black girl from the hired help. And even if he be serious, his family ain't gonna let him do the
+right thing by you."
 
-"So you giving me this advice, but I know you messing around with that white girl who work at the golf club... you think
+"So you giving me this advice, but I know you messin' around with that white girl who work at the golf club... you think
 she serious about you?"
 
-"Aw we just having some fun."
+"Aw, we just having some fun."
 
 "Yeah, so don't be giving me no advice you ain't gonna follow yourself."
 
-Their father, Winthrop, joined them at their table. He spoke to Ambrose:
-"Listen my boy, you gonna be making big money down on them oil rigs. Don't you go losing your head cause you got a few
+Their father, Winthrop, shuffled away from the party and eased himself down into a chair at their table.
+He looked in turn at each of his children, then he addressed Ambrose:
+"Listen my son, you gonna be making big money down on them oil rigs. Don't you go losing your head cause you got a few
 dollars to spend. I know them Louisiana folks all into their fancy French ways, but you gotta remember where you from."
 
 "Daddy, you ain't got nothing to worry about."
 
 Ambrose sighed. "I gotta go get some rest before I leave. And Camellia, don't you forget what I told you."
 
-Ambrose got up from the table and walked out of the bar.
+Ambrose got up, said his goodbyes at the party table, and walked out of the bar.
 
-Winthrop asked Camellia, "What was it he told you?"
+After watching his son depart, Winthrop asked Camellia, "What was it he told you?"
 
-"He told me I oughta back off from Hampton."
+"He told me I oughta stay clear of Hampton."
 
 "What going on between you and Hampton?"
 
@@ -193,10 +203,10 @@ Winthrop asked Camellia, "What was it he told you?"
 
 "And you believe him?"
 
-"Why shouldn't I believe him?"
+"Why I wouldn't believe him?"
 
-"Camellia, baby, you yound and innocent. You have any idea how many black girls found themselves in a whole world of
-trouble 'cause they believed the promises some white boy made them?"
+"Camellia, baby, you sweet and young and innocent. You have any idea how many black girls found themselves in a whole world of
+trouble 'cause they believed the promises some white boy made to 'em?"
 
 "But daddy, Hampton ain't like that!"
 
@@ -207,7 +217,8 @@ trouble 'cause they believed the promises some white boy made them?"
 "Baby girl, if you love your daddy, you gotta listen to me: when he come around, you jes gotta flat out send him
 packin'. No ifs, ands or buts about it. You gonna thank me in the end."
 
-Camellia nodded, unable to field further objections to her father's case against Hampton.
+Camellia nodded, unable to field further objections to her father's case against Hampton. She stared desolately into
+her whiskey glass, swirling the remaining brown liquid around and around.
 
 
 ## 4.
@@ -226,17 +237,16 @@ engagement party."
 
 "Not as cold as somebody plannin' to marry his own brother's widow not two months after his brother been buried."
 
-"OK, you got a point there. But you gotta get a look at this man we seen."
+"OK, you got a point there. But anyway, you gotta get a look at this man we done seen."
 
-Hiram brought Hampton out of the bar. He looked up and down the street, and spotted the drunk, who had apparently turned
-away from the train station and headed down the street in the other direction, just a hundred feet south of them. He
-pointed him out to Hampton.
+Hiram walked Hampton out of the bar. He looked up and down the street, and spotted the drunk, who had apparently
+reversed course and was now headed away from the train station.
 
-"Brother, that dude look like yo daddy. Why you don't go find out who he is?"
+"Brother, that man bears some remarkable resemblance to yo daddy. Why you don't go find out who he is?"
 
-Hampton called out to the man, who only waved him to come up the street to where he was. When Hampton finally caught up
-to the man, he put his arm over Hampton's shoulder, and, with gin-soaked breath, said "What he did to yo daddy weren't
-right."
+Hampton called out to the man, who was perhaps 100 feet down the street from the bar.
+The stranger waved to Hampton to come to him. When Hampton reached the man, he put his arm over Hampton's shoulder, and,
+with gin-soaked breath, whispered, "What he did to yo daddy weren't right."
 
 "Who? What who did?"
 
@@ -251,16 +261,19 @@ Hampton walked back to where Hiram was standing outside the entrance to the bar.
 
 Hiram nodded.
 
-"OK, I gotta take a whiff and do me some thinking. That ole drunk claimed my uncle done killed my daddy."
+"OK, I gotta take a whiff and do me some thinking. That ole drunk claim it was my uncle done killed my daddy."
 
-Hiram shook his head: "Man, you can't believe what some drunk staggering down the street tell you. How he supposed to
-know about some damned plot to kill yo daddy?"
+Hiram shook his head: "Brother, you can't believe what some drunk staggering down the street tell you. How he supposed to
+know about some damned scheme to kill yo daddy?"
 
-"Hiram, there's more shit that goes down in the street than your prof Tollefsen at USC could ever dream up! Come on, let's
-get up on the roof."
+"Hiram, there's more shit that goes down in the street than your prof Tollefsen at USC could ever dream up!"
 
-They passed through the bar to the back stairs leading up to the roof. Hampton asked Frankie to roll another joint. As
-he did so, Hampton told them about his encounter. Then they all sat in silence as they smoked.
+Hampton looked to Hiram for a riposte, but, receiving none, urged, "Come on, let's go on up the roof."
+
+The pair passed through the bar to the stairs leading up to the roof.
+Once up top, Hampton asked Frankie to roll another joint. As
+he did so, Hampton told all of the rooftop occupants about his encounter down on the street below.
+Then they all sat in silence as they smoked.
 
 Finally Hampton got up and turned to look at the others. He told them, 
 "Listen, my brothers, don't nobody say nothin' about this shit. I gotta check this out for myself."
@@ -268,6 +281,5 @@ Finally Hampton got up and turned to look at the others. He told them,
 Hiram looked like he was about to respond,
 but just then an ominous rumble of thunder turned everyone's attention upwards.  With great rapidity, the sky to the
 west grew a deeper shade of black, punctuated by brilliant zigzags of lightning. The
-crew on the roof scrambled back down into the bar just before a torrential rain engulfed Denmark.
-
+crew on the roof scrambled back down into the bar just before a torrent of rain engulfed Denmark.
 
