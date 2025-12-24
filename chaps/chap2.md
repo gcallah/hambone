@@ -174,9 +174,9 @@ Once they were out of the main room, Winthrop got up, opened the door of the off
 
 "Yo Hampton, what up? Come on in and relax for a bit."
 
-Hampton looked quizzical, but nevertheless walked across the street and into the office.
+Hampton looked puzzled, but nevertheless walked across the street and into the office.
 
-Winthrop told him, "Take a seat, my brother," and sat back down himself.
+Winthrop told him, "Take a seat, brother," and sat back down himself.
 
 He looked at Hampton with the most concern he could muster, and asked, "Now you know, I always got your best interest at
 heart?"
@@ -189,26 +189,26 @@ heart?"
 
 "Honest?"
 
-"In this old rotten world, ain't one man in ten thousand be honest."
+"In this rotten old world, ain't one man in ten thousand be honest."
 
 "True dat."
 
 "Ain't you got a daughter?"
 
-Winthrop's eyes widen, and he nodded.
+Winthrop's eyes widened, and he nodded.
 
 "Yeah, you know I got a daughter."
 
-"You gotta keep her close at home. Otherwise some gangster come along and knock her up."
+"You gotta keep her close at home. Otherwise some rounder come along and knock her up."
 
 The office door opened, and Thaddeus and Alastair re-entered.
 
 Thaddeus said, "Yo, Hampton, we been looking all over town for you."
 
-Alastair looks at Winthrop and said, "Hey Winthrop, we gotta have a word with our boy here. You alright leaving us alone
+Alastair looked at Winthrop and said, "Hey Winthrop, we gotta have a word with our boy here. You alright leaving us alone
 for a bit?"
 
-"Sure thing." Winhtrop leaned in close to Alastair, whispering, "He gone a bit crazy. But be careful: he crazy like a
+"Sure nuff." Winhtrop leaned in close to Alastair, whispering, "He gone a bit crazy. But be careful: he crazy like a
 fox." He then walked out of the office.
 
 Thaddeus and Alastair remained standing in front of Hampton. He asked them, "What up, my brothers?"
@@ -225,9 +225,10 @@ Thaddeus and Alastair both laugh, and Alastair answered, "Yeah, that us, stuck r
 
 Thaddeus answered, "We just come to see you, see how you doing."
 
+Hampton shook his head to express his disappointment:
 "Yo, don't give me no bullshit: you was sent for, wasn't you?"
 
-Thaddeus and Alastair both look sheepish. Thaddeus asked, "What you want us to say?"
+Thaddeus and Alastair both looked sheepish. Thaddeus asked, "What you want us to say?"
 
 "I guess you could go on and say anything you want, just so long as it ain't the truth."
 
@@ -246,8 +247,8 @@ Thaddeus shook his head. "Maybe them Spiritual Gospel Singers your uncle hired c
 
 "He hired some gospel singers? My uncle?"
 
-Alastair answered, "Yeah, he hired some big group from up Columbia way, and he havin' them put on a free program tonight,
-over at Rome Baptist Church. I think he's trying to get in good with the locals since he took over for your daddy. In
+Alastair answered, "Yeah, he hired some big-ass group from up Columbia way, and he havin' them put on a free program tonight,
+over at Rome Baptist Church. I think he's trying to get in good with the locals since he took over fror yo' daddy. In
 fact, their tour bus got into town just before we got here, and I think their manager is due by the office any minute
 now."
 
@@ -256,11 +257,11 @@ As though on command, the door to the office swung open right at that moment, an
 "How y'all doing? My group gonna perform tonight, and I'm looking for Mr. Claude Shepherd. He around?"
 
 Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't here at the moment, but I'd like a word. Oh,
-and these here are my old friends Thad and Al, down here from all the way up at Clemson to see how I'm doing."
+and these here are my old friends Thad and Al, here from all the way up at Clemson to see how I'm doing."
 
 Everyone shook hands with Norbert, and Hampton motioned for him to have a seat.
 
-"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of in private. So whachoo say we meet up a
+"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of private like. So whachoo say we meet up a
 little later at Elsie's and grab a beer?"
 
 Thaddeus and Alastair rose from their seats. Thaddeus said, "Sure thing, brother, what time you be there?"
