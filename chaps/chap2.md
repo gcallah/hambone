@@ -2,28 +2,46 @@
 
 ## 1.
 
-Camellia Branch left her apartment on Carolina Highway and walked down to City Hall Street, and then turned west until
-she reached South Dogwood Avenue. She walked half a block north on that street before turning west again on Butler
-Street, and then she proceed three blocks to reach her father's bungalow.
+Camellia Branch left her apartment on Carolina Highway and walked up to City Hall Street. There she turned west, crossing
+the train tracks, before heading briefly north on South Dogwood Avenue. She turned west again on Butler
+Street, noting the blight she walked past. The street pavement was splitting to the point it resembled crackled
+porcelain, and the double yellow line down the middle of the road was so faded that it was barely visible. 
+Several of the houses she passed were being swallowed by kudzu and wisteria and wild grape vines, and their roofs were
+beginning to cave in. A few of the lots were empty of any building, the house that had once stood on them having been
+condemned and bulldozed, and they were now overgrown with loblolly and long-lead pine seedlings, and dewberry vines,
+ragweed, nutsedge, chickweed, henbit, and virginia buttonweed. Fire ants had enthusiastically occupied the empty lots.
+Camellia noticed their mounds rising through the weeds with distaste: she was always alert to the ants'
+presence since the day she had nearly died from anaphylactic shock, having been stung several dozen times
+after falling asleep in her childhood backyard and rolling onto a nest.
 
-Her father, Winthrop, was sitting in his rocking chair on the front porch of that house. 
-his front yard contained a very large live oak, and the shade it cast made the lawn beneath it scruffy, and in
-bare spots the sandy soil of the yard was visible. As he rocked he saw Camellia walking up the street. When she stepped
-up onto the porch, Winhtrop could see she was agitated.
+She saw a glimmer of hope in the fact that, despite the creeping decay, there were nevertheless
+properties that fought back: the house recently painted, the lawn neatly mowed with a couple of crepe myrtles or dogwoods
+growing up from a mound of mulch on either side of the walk to the front door, and a few rose bushes, or azaleas, or tea
+olives serving as foundation plantings.
+
+After walking just over two blocks along Butler, she stopped in front of a small bungalow.
+Her father, Winthrop, was sitting in his rocking chair on the front porch. 
+His front yard contained an enormous live oak, and the shade it cast made the lawn beneath it scruffy, and in
+spots the sandy soil was fully exposed. When he saw Camellia stop on the sidewalk he waved her up to the porch.
 
 "Daddy, I gotta tell you about what just happened."
 
-"Sit yourself down and tell me what wrong."
+As she was obviously agitated, Winthrop looked at his daughter with concern, and said,
+"Sit yo'self down and tell me what wrong."
 
-"Hampton, he show up at my apartment round six this morning. He look terrible. His eyes all bloodshot, his shirt button
-up all wrong, his shoes weren't tied, and he didn't even have no jacket on, even though it was so cold."
+"Hampton, he show up at my apartment round six this morning. He look terrible, his eyes all bloodshot, his shirt button
+up all wrong, his shoes untied, and he didn't even have no jacket on, despite it bein' so cold."
 
 "Say what?"
 
-"And he was all shakin', like maybe he been doin' blow all night. And he just took hold my hand, kneeling down before
-me, and he start moanin', sounding like he a dyin' hound. And then after a bit, he get up and run out the door."
+"And he was all shakin', like maybe he been doin' blow all night or somethin'. And he just took hold my hand, kneeling
+down before me, and he start moanin', sounding like he a dyin' hound. And then after a bit, he get up and run out the
+door."
 
-"My baby, maybe I got him all wrong. It sound like he all crazy about you, and when I told you ignore him, it done drive
+Winthrop Held up his hand signal, that he wanted a moment to think, and he gazed up into the branches of the Live Oak,
+for perhaps a minute. Then he said:
+
+"My baby girl, maybe I got him all wrong. It sound like he all crazy about you, and when I told you ignore him, it done drive
 him mad. And maybe I was just jealous. You know, ole folk like me, we done too easily forget about the passion of youth.
 Look, what we gotta do is go see Claude, and let him know his nephew in a bad place."
 
