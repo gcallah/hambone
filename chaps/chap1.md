@@ -10,15 +10,12 @@ the yard.
 But by and large the town is in a state of advanced decay. The old downtown's brick buildings are more often empty than
 not, and some of them are collapsing. Denmark Furniture, once one of the town's largest businesses, is now a ghost store,
 with sheets of tattered brown paper covering its windows. The storefront of Denmark Hardware looks as though the people
-who work inside are not familiar with how to use any of the paints or repair tools that they sell.
+who work inside are not adept with any of the paints or repair tools that they sell.
 
-Only four square miles in area, the town
-is inhabited by a few thousand souls.
-Most of the residents are poor: the average family income is less than $20,000.
-The vast majority of them, almost 90%,
-are black folk, but until recently, the leading citizen of the
-town was a white businessman, Will Shepherd. He owned the town's only real estate agency, as well as its used car
-dealership, and its most popular bar, Elsie's.
+Only four square miles in area, the town is inhabited by a few thousand souls.  Most of the residents are poor: the
+average family income is less than $20,000.  The vast majority of them, almost 90%, are black folk, but until recently,
+the leading citizen of the town was a white businessman, Will Shepherd. He owned the town's only real estate agency, as
+well as its used car dealership, and its most popular bar, Elsie's.
 
 But there were rumors, rumors that his real money came from controlling the area's drug supply: mainly weed, coke, and
 oxy. So when he died from snorting what was apparently some tainted coke, there were more rumors: maybe he had been
@@ -59,7 +56,7 @@ opening the door onto the roof.
 
 Marcus shook his head. "Man, you boys don't ever wanna share, do you?"
 
-Bernie laughed, and after taking a hit, passed the joint to Marcus, who passed it to Hiram after having his turn.
+Bernie laughed, and after taking a hit, passed the joint to Marcus, who then passed it to Hiram.
 
 Hearing a noise in the street below, Frankie looked over the parapet. "Who dat down there?"
 
@@ -74,7 +71,7 @@ Hiram shouted down, "Hey ole man, where you comin' from? You from around here?"
 The man looked up at the four occupants of the roof, but said nothing, then turned away and continued slowly north on the
 street, towards the Amtrak station at the end of the road.
 
-(The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of conveniences, features the following inconveniences:  
+(The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of "conveniences," features:  
 - Unstaffed station
 - ATM not available
 - No elevator
@@ -83,12 +80,11 @@ street, towards the Amtrak station at the end of the road.
 - No restrooms
 - Unaccompanied child travel not allowed
 - No vending machines
-- No WiFi  
-)
+- No WiFi )
 
 The man might have been heading to the train platform, but if so, he was several hours early. However, if not to the station, where
-else was he going on this deserted street? Hiram gestured that he was puzzled, and told the others, "Yo, imma go get
-Hampton. He gotta check this guy out: maybe he a long lost relative or something."
+else was he going on this deserted street? Hiram shrugged, "Yo, imma go get Hampton. He gotta check this guy out: maybe
+he a long lost relative or something."
 
 
 ## 2.
@@ -137,12 +133,12 @@ Claude waved his hands back and forth as though blessing the congregation at a c
 "Now listen, it only right you mournin' your daddy. But boy, enough is enough. You're not the only one who lost his
 daddy. You see my daddy anywhere round here? Everyone here gonna lose their daddy sooner or later, if they ain't done so
 already. That just the way of things. You upset about that, you gotta take the issue up with our good Lord.
-And given our situation, we gotta ask you to drop your intention to stay back in Georgia, and stick around here for the present."
+And given our situation, we gotta ask you to drop your intention to stay back in Georgia, and stick around here for the
+time being. I mean, I know you love playin' the geetar and all, but it don't seem you havin' much success there in
+Athens?"
 
-(Hampton, who played guitar, had been knocking around the music scene in Athens, trying to get a band going,
-but without much success.)
-
-Hampton, while giving a mock bow, answered, "Your wish is my command."
+Hampton replied, "Unfortunately, you right about that. It seems I ain't gonna be the next Marcus King."
+Then, while giving a mock bow, he said, "Your wish is my command: I will do my duty."
 
 Claude ignored the sarcasm, and with a big grin, told Hampton, "Now that makes me real pleased."
 
