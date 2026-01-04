@@ -8,8 +8,8 @@ Street, noting the blight she walked past. The street pavement was splitting to 
 porcelain, and the double yellow line down the middle of the road was so faded that it was barely visible. 
 Several of the houses she passed were being swallowed by kudzu and wisteria and wild grape vines, and their roofs were
 beginning to cave in. A few of the lots were empty of any building, the house that had once stood on them having been
-condemned and bulldozed, and they were now overgrown with loblolly and long-lead pine seedlings, and dewberry vines,
-ragweed, nutsedge, chickweed, henbit, and virginia buttonweed. Fire ants had enthusiastically occupied the empty lots.
+condemned and bulldozed, and they were now overgrown with loblolly and long-leaf pine seedlings, and dewberry vines,
+ragweed, nutsedge, chickweed, henbit, and virginia buttonweed. Fire ants had enthusiastically invaded the empty lots.
 Camellia noticed their mounds rising through the weeds with distaste: she was always alert to the ants'
 presence since the day she had nearly died from anaphylactic shock, having been stung several dozen times
 after falling asleep in her childhood backyard and rolling onto a nest.
@@ -49,7 +49,8 @@ Look, what we gotta do is go see Claude, and let him know his nephew in a bad pl
 ## 2.
 
 The Shepherd Real Estate office
-was in a storefront across the street from Denmark Hardware. The office was very utilitarian. The walls needed a
+was in a storefront across the street from Denmark Hardware. The drab interior was the result of a focus on
+material gain so complete that aesthetic problems were not even visible. The walls needed a
 new coat of paint and the floor was scuffed up linoleum. The furniture was a couple of old desks that had been bought at a secondhand
 store, and one longer "conference" table that could be folded up if needed and brought to a church dinner for use as a
 serving table. 
@@ -66,11 +67,11 @@ Thaddeus held his arms open wide. "Hey, we ready to help you out, however we can
 
 Alastair said, "Yeah, what Thaddeus said!"
 
-Gertie added, "We do appreciate you, so please go see him as soon as you can. We gotta know what gone wrong with my boy."
+Gertie added, "We do appreciate you goin' see him as soon as you can. We gotta know what gone wrong with my boy."
 
-Thaddeus and Alastair left the office. They met Winthrop at the door as he entered.
+As Thaddeus and Alastair were leaving the office, they met Winthrop on his way in.
 
-Claude looked up from the table with surprise. "Winnie, what brings you here?"
+Claude, seeing this new character coming on stage, looked up in surprise. "Winnie, what brings you here?"
 
 "You been saying how Hampton been looking mighty upset."
 
@@ -91,7 +92,7 @@ intentions toward Denmark. He *is* looking to expand a bit, but he got his eye t
 family up there looking weak, with stupid shit like car jackings and what not getting out of hand. He thinkin' it time
 to bring some order to that mess."
 
-Claude told them "Boys, you done a good job. You all come by Elsie's tonight, and the drinks are on me."
+Claude told them "Boys, you done a fine job. You all come by Elsie's tonight, and the drinks are on me."
 
 Corny and Claude both mumbled their thanks and left.
 
@@ -109,7 +110,7 @@ dealing with such important folk as y'all, a man gotta be brief. And I could go 
 of words, but that ain't my way."
 
 Claude put his head in his hand for a moment, then looked up at Winthrop and said, "So you gonna tell us what up, or you
-gonna just keep telling us that you about to tell us what up?"
+gonna just keep tellin' us you gonna tell us what up?"
 
 Winthrop wrung his hands a little, but continued: "Now, I ain't pleased to bring you this news, but the problem with
 Hampton's mind be my daughter."
@@ -176,7 +177,7 @@ Once they were out of the main room, Winthrop got up, opened the door of the off
 
 Hampton looked puzzled, but nevertheless walked across the street and into the office.
 
-Winthrop told him, "Take a seat, brother," and sat back down himself.
+Winthrop told him, "Take a seat, son," and sat back down himself.
 
 He looked at Hampton with the most concern he could muster, and asked, "Now you know, I always got your best interest at
 heart?"
@@ -197,7 +198,7 @@ heart?"
 
 Winthrop's eyes widened, and he nodded.
 
-"Yeah, you know I got a daughter."
+"Yeah, you know damned-well I got a daughter."
 
 "You gotta keep her close at home. Otherwise some rounder come along and knock her up."
 
@@ -238,10 +239,8 @@ Hampton's friends squirmed about uneasily.
 
 Alastair admitted, "Yeah, he did."
 
-Hampton stood up. "And I'm gonna tell you why. That way, you ain't gotta be betray no pledge you give Claude to not
-tell me why y'all here. You here because I ain't been myself of late."
-
-[what a piece!]
+Hampton stood up. "And I'm gonna tell you why. That way, you ain't gotta be betray no pledge you give Claude not to
+tell me why y'all here. You here because I ain't been myself of late. What a piece of work y'all are!"
 
 Thaddeus shook his head. "Maybe them Spiritual Gospel Singers your uncle hired could cheer you up."
 
@@ -249,7 +248,7 @@ Thaddeus shook his head. "Maybe them Spiritual Gospel Singers your uncle hired c
 
 Alastair answered, "Yeah, he hired some big-ass group from up Columbia way, and he havin' them put on a free program tonight,
 over at Rome Baptist Church. I think he's trying to get in good with the locals since he took over fror yo' daddy. In
-fact, their tour bus got into town just before we got here, and I think their manager is due by the office any minute
+fact, their tour bus come into town just before we got here, and I think their manager is due by the office any minute
 now."
 
 As though on command, the door to the office swung open right at that moment, and Norbert Doubleton, the manager of the group, entered the room.
@@ -257,7 +256,7 @@ As though on command, the door to the office swung open right at that moment, an
 "How y'all doing? My group gonna perform tonight, and I'm looking for Mr. Claude Shepherd. He around?"
 
 Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't here at the moment, but I'd like a word. Oh,
-and these here are my old friends Thad and Al, here from all the way up at Clemson to see how I'm doing."
+and these here are my old friends Thad and Al, come all the way down from Clemson to see how I'm doing."
 
 Everyone shook hands with Norbert, and Hampton motioned for him to have a seat.
 
@@ -266,9 +265,9 @@ little later at Elsie's and grab a beer?"
 
 Thaddeus and Alastair rose from their seats. Thaddeus said, "Sure thing, brother, what time you be there?"
 
-"Probably around 3 o'clock."
+"Probably 'round three o'clock."
 
-"OK, we'll see you then."
+"OK, we see you then."
 
 They walked out of the office, leaving Hampton and Norbert alone. Hampton leaned forward towards Norbert and, sotto voce,
 said "My man, I need you to do me a real big favor. And whatever my uncle is paying you, I'll add that much again if you
@@ -281,7 +280,7 @@ can rehearse it with you right before the program."
 
 "You know, we don't perform no secular music, OK?"
 
-"This is gonna be a Bible-based song. It gonna be about Cain and Abel."
+"This gonna be a Bible-based song. It gonna be about Cain and Abel."
 
 "Well that sounds just fine then. The program start at seven PM tonight -- though of course that seven CPT --
 and we gonna be setting up by around six. So you
