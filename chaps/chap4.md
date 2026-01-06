@@ -254,47 +254,42 @@ his attempts to contact either Thaddeus or Alistair had been in vain. He selecte
 time, only to hear it go immediately to voicemail once again.
 
 He got up and began to pace the floor. As he did so the door to the office flew open like a hurricane had blown up from
-Charleston. Claude 
+Charleston. Claude backed towards his desk, hoping to reach the drawer that held his gun. Ambrose, the cause of the
+hurricane, yelled "Don't even think about it!" while pointing a pistol at Claude.
 
-????
-
-found Ambrose his wild eyes .
-
-Claude sat silently 
-When Ambrose finally spoke, he said, "You killed my daddy?"
+Claude sat down in his chair and waited. When Ambrose spoke again, he said, "You killed my daddy?"
 
 "Son, sit down."
 
-"Why I wanna sit down? Instead, why I don't just shoot you?" Ambrose pulled a pistol out of his waistband, and pointed
-it at Claude.
+"Why I wanna sit down? Instead, why I don't just shoot you?" Ambrose waved his pistol around for emphasis.
 
 "Son, sit down," Claude repeated, more firmly this time. "What happened ain't what you think happened." He held out his
-hand to indicate where Ambrose might sit, if he should choose not to shoot him.
+hand to indicate where Ambrose might sit, should he choose not to shoot him.
 
 Reluctantly, Ambrose sat down, but still kept his pistol pointed at Claude. "So tell me what really happened."
 
-Claude himself had sat back down behind his desk, and reclined his chair back. His hands were folded together over his
+Claude reclined his chair back. His hands were folded together over his
 rotund stomach, and he rhythmically tapped his index fingers together. He sat like this for some dozen seconds before
 speaking.
 
 "It weren't me son. Hampton done it."
 
-"So why am I hearing it was you?"
+"So why I'm hearing it was you?"
 
-"We didn't want no family scandal. The police was likely to conclude that, given how your daddy was objecting to Hampton
-being with your sister, he done killed him on purpose."
+"We didn't want no family scandal. The police was likely to conclude that, given how yo' daddy was objectin' to Hampton
+bein' with your sister, he done killed him on purpose."
 
-"And you just gonna let him get away with it?"
+"And so you just gonna let him get away with it?"
 
 "No son, pas du tout."
 
 "Paw do too? What the hell that supposed to mean?"
 
 "It means 'Not at all.' Hampton was a growin' danger to us all. The boy was completely out of control. But I thought it best we
-jes kept it within the family, and take care of things private like. I had a couple of my boys take him for a ride this
-morning. Lemme just say he won't be troubling us no more."
+jes kept it within the family, and take care of things private like. I got a couple of my boys takin' him for a ride this
+mornin'. Lemme just say he won't be troublin' us no more."
 
-Ambrose had ceased to point his pistol at Claude, and had let it drop onto his lap. "Aright then, so long as you done
+Ambrose lowered his pistol at Claude, and then let it drop onto his lap. "Aright then, so long as you done
 taken care of it, I guess we straight. Otherwise idda hadda go after him myself."
 
 Claude rose from his seat, and held out his hand to Ambrose. Ambrose got up as well, and took Claude's hand and shook
