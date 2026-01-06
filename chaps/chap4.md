@@ -289,8 +289,8 @@ bein' with your sister, he done killed him on purpose."
 jes kept it within the family, and take care of things private like. I got a couple of my boys takin' him for a ride this
 mornin'. Lemme just say he won't be troublin' us no more."
 
-Ambrose lowered his pistol at Claude, and then let it drop onto his lap. "Aright then, so long as you done
-taken care of it, I guess we straight. Otherwise idda hadda go after him myself."
+Ambrose lowered his pistol at Claude, and then let it drop onto his lap. "Aright then, so long as you
+takin' care of it, I guess we straight. Otherwise idda hadda go after him myself."
 
 Claude rose from his seat, and held out his hand to Ambrose. Ambrose got up as well, and took Claude's hand and shook
 it, saying "I do appreciate you settin' things right."
@@ -298,21 +298,21 @@ it, saying "I do appreciate you settin' things right."
 Claude said, "I always try to do right by my people. I think you better go see to your sister, 'cause she probably need
 you right about now."
 
-Ambrose nodded, released Claude's hand, and turned and left the office.
+Ambrose nodded, released Claude's hand, turned, and left the office.
 
 
 ## 5.
 
-Once Hampton had walked out of the forest, he had begun hitchhiking, making his way towards Columbia. His final ride
-was from a fellow delivering a fiddle to Bill's Pickin' Parlor in West Columbia, and since he was only a few blocks from
+Once Hampton had walked out of the forest, he began hitchhiking, towards Columbia. His final ride
+was from a fellow delivering a fiddle to Bill's Pickin' Parlor in West Columbia, and since that was only a few blocks from
 his destination, he walked from there across the Gervais Street bridge into Columbia itself.
 
-After he crossed the bridge, he took out his cell phone and called Hiram. After a couple of rings, he picked up, and
+After he crossed the bridge, he took out his cell phone and called Hiram. After a couple of rings, Hiram picked up, and
 said, "Hampton, what up?"
 
-"I really need your help. I'm in some deep shit. Where you at?"
+"I really need yo' help. I'm in some deep shit. Where you at?"
 
-"I'm at my apartment. Where are you?"
+"At my apartment. Where are you?"
 
 "I'm on Gervais Street. At the corner with Huger."
 
@@ -323,30 +323,30 @@ said, "Hampton, what up?"
 "I'm in Five Points, pretty close to where you at. You walk away from the river up Gervais until you get to Harden. I'll
 meet you at the corner there."
 
-Hampton did as he was instructed, and found Hiram waiting for him at the corner. They hugged in greeting, Hiram asked
-him, "What's going on?"
+Hampton did as he was instructed, and found Hiram waiting for him as planned. They hugged in greeting, then Hiram asked
+him, "What's goin' on?"
 
-"Well, I killed a few people of late."
+"Well, I killed a handful of people of late."
 
 "You done what?"
 
-"The first one was kinda an accident. I thought I was killing Claude, which woulda been fine, but instead, it were
+"The first one was kinda an accident. I thought I was killin' Claude, which woulda been fine, but instead, it was
 Winthrop."
 
-"So how you mistake a skinny ole black man for a fat white man?"
+"So how the hell you mistake a skinny ole black man for a fat white man?"
 
-"It was dark, and he was creeping through the window at Gertie's house, and I thought it was Claude coming to spy on me
+"It was dark, and he was creepin' through the window at Gertie's house. I thought it was Claude comin' to spy on me
 and I figure this is my chance: I could revenge my daddy and say I believed I was just killing an intruder."
 
 "Let's walk down to my place, and you can tell me who else you done killed on the way."
 
 They turned south on Harden and headed towards Five Points.
 
-Hampton continued his tale: "Claude came over, and told me he would take the blame for the shootin', and I had to get
-out of town. And this all out of the kindness of his heart, cause he afraid the cops would think I shot Winthrop on
+Hampton continued his tale: "Claude come over, and told me he would take the rap for the shootin', and I had to get
+out of town. And all out of the kindness of his heart, cause he afraid the cops would think I shot Winthrop on
 purpose."
 
-Hiram shook his head. "Claude don't do nothin' out of the kindness of his heart, cause his heart ain't got no kindness."
+Hiram shook his head. "Claude don't do nothin' out the kindness of his heart, cause his heart ain't got no kindness."
 
 "My thinkin' exactly."
 
