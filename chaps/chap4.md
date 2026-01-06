@@ -249,13 +249,18 @@ sweetgums and hickories and maples, he walked out of the park and back to the ma
 
 ## 4.
 
-Claude was sitting at his desk in the real estate office on Sunday afternoon. He had grown increasingly agitated, since
-his attempts to contact Thaddeus and Alistair had been in vain. He punched Thaddeus's number on his phone one more
+Claude was sitting at his desk in the real estate office on Sunday afternoon. He had grown increasingly agitated, as
+his attempts to contact either Thaddeus or Alistair had been in vain. He selected Thaddeus's number on his phone one more
 time, only to hear it go immediately to voicemail once again.
 
-He got up and began to pace the floor. As he did so the door to the office was flung violently open, and he found
-Ambrose staring at him, wild-eyed.
+He got up and began to pace the floor. As he did so the door to the office flew open like a hurricane had blown up from
+Charleston. Claude 
 
+????
+
+found Ambrose his wild eyes .
+
+Claude sat silently 
 When Ambrose finally spoke, he said, "You killed my daddy?"
 
 "Son, sit down."
