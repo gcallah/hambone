@@ -125,20 +125,21 @@ Hands on Home mobile park.
 After passing such decay, coming to the clean, brick facade of the church was a relief.
 Hampton passed through the white double entrance doors and found that The Spiritual Gospel Singers were
 already setting up their equipment inside the church. He greeted Norbert, who introduced him to the rest of the group.
+Hampton was particularly struck by a rotund singer called "Sticks," who wore over the medicine ball of his belly a
+t-shirt (the singers had not yet changed into the suits they would wear for the program) which bore the picture of an
+18-wheeler and the assertion that "God loves truckers."
 
 "I brought the song I like you to add to your program tonight. Let's go over it."
 
-[song about Cain and Abel inserted here: under development...
+Norbert began reading aloud:
 
-Cain was jealous of his closest kin  
+"Cain was jealous of his closest kin  
 And so he killed his brother dead  
 The Lord called out his heinous sin  
-And placed a curse upon his head
+And placed a curse upon his head"
 
-]
-
-"Now, when y'all get to the line about 'And he killed his brother dead,' the music gotta stop, so that line could be
-heard real clear throughout the church, OK?"
+At that point, Hampton interrupted the reading: "Now, when y'all get to the line about 'And he killed his brother dead,'
+the music gotta stop, so that line could be heard real clear throughout the church, OK?"
 
 The group rehearsed the song for a few minutes with Hampton listening. happy with what he heard, he told them "you boys
 sound great! And I do appreciate y'all doing this for me. I know you already getting paid something but here's a little
@@ -146,10 +147,10 @@ extra to thank y'all."
 
 He handed Norbert a $100 bill.
 
-"That's mighty kind of you, brother."
+"Appreciate ya, brother."
 
-They shook hands, then Hampton went to the back of the church and sat in the last pew, while the group resumed setting
-up their equipment. Hearing the church door open behind him, Hampton turned in his seat and saw that Winthrop had
+They shook hands, then Hampton went to the back of the church and sat in the last pew, while the group finished setting
+up the stage. Hearing the church door open behind him, Hampton turned in his seat and saw that Winthrop had
 entered the church. He rose to greet him.
 
 "Yo Winthrop, how you doing? Claude coming tonight?"
@@ -173,16 +174,16 @@ Hiram sat down beside Hampton and asked him, "What up, my brother?"
 "True dat."
 
 As they spoke, the church was gradually filling with people coming to hear the evening's program.
-Most of the men were dressed in colorful suits, or at least jackets and dress shirts, while the woman had on their
+The men were dressed in colorful suits, or at the least jackets and dress shirts, while the women had on their
 Sunday dresses, and many of them sported fancy hats. One woman looked like she had dressed as Haile Selassie for a
-costume party, with the addition of a multitude of imitation gems applied to the jacket and hat.
+costume party, with the addition of a multitude of imitation gems applied to the imperial jacket and hat.
 
 Hampton continued: "But I ain't sure yet, so I devised a little test for tonight."
 
 "A test?"
 
-"Yeah, I added a song to the program for tonight, about Cain and Abel. You know, with someone killing his own brother.
-And I wanna see how Claude react to hearing that song."
+"Yeah, I added a song to the program, about Cain and Abel. You know, with someone killin' his own brother.
+And I wanna see how Claude react to hearin' that song."
 
 "So how I gonna help?"
 
@@ -196,11 +197,11 @@ Camellia.
 
 Hampton whispered to Hiram, "Go get a seat up front. I'm gonna sit on the opposite side of the church from you."
 
-Hiram got up and moved to the front of the church, and Hampton himself rose to greet the new arrivals.
+Hiram got up and moved to the front of the church, and Hampton rose to greet the new arrivals.
 
 Claude spoke first. "How you doing, Hampton?"
 
-"I'm about as fine as a three-legged pig can be, given it almost Easter."
+"I'm about as fine as a three-legged pig can be, given it Easter soon."
 
 Claude responded, "Hampton, I can't never figure out what you on about!"
 
@@ -257,20 +258,21 @@ and praise the Lord!"
 "Praise the Lord!" the congregation called back.
 
 "We're gathered here for a very special evening with some musical guests down here all the way from Columbia. And I hope
-everyone here tonight is moved by the Holy Spirit. And if any of you is sufferin' any afflictions, you give them up for
+everyone here tonight is moved by the Holy Spirit. And if any of you is sufferin' any afflictions, any of you got
+diabetes, any of you got cancer, any of you got cardiovascular disease: you offer them up to
 the Lord. And I pray Jesus can cure your sufferin'. Now, let us hear some songs praisin' our savior"
 
-The Spiritual Gospel Singers took up their instruments and microphones, and began their program with "God is Still in
+The Spiritual Gospel Singers took up their instruments and microphones. They began their program with "God is Still in
 Charge," followed by "Mississippi Poor Boy." Then Norbert addressed the crowd. "Now we gonna introduce a brand new song
 wrote especially for this occasion."
 
-As they sang Hampton's composition, he carefully watched his uncle. The third time the group paused the instrumental
+As they performed Hampton's song, he carefully watched his uncle. The third time the group paused the instrumental
 music and sang the line "He killed his brother dead," Claude Rose from his seat, turned to Gertie, and said, "Sorry, I
 think I got me some food poisoning or something." He then moved swiftly down the center aisle of the church and out
 through its double doors.
 
-When the program had ended, Hampton lingered in the pew as the congregation filed out. When almost everyone had left, he
-spotted Hiram on the other side of the church. He motioned him to come over and sit beside him.
+When the program had ended, Hampton lingered in his pew as the congregation filed out. When almost everyone had left, he
+spotted Hiram on the other side of the church. Hampton motioned him over. Hiram sat down next to him.
 
 Hampton stared at Hiram. "So whachoo think?"
 
