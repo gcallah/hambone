@@ -3,7 +3,7 @@
 ## 1.
 
 Claude, Gertie, Winthrop, Camellia, Thaddeus, and Alastair were gathered at Elsie's Bar to discuss Hampton's mental
-state. They had all pulled up chairs around a table in the public room.
+state. They had all pulled up chairs around a table in the main room, as the bar hadn't yet opened for the day.
 
 Claude launched the discussion by asking, "OK, we know what wrong with the boy?"
 
@@ -14,16 +14,18 @@ Alastair added, "Yeah, he's a crafty dude, always managing to dodge our question
 
 Gertie asked, "Anything we could do to cheer the boy up?"
 
-Alastair said, "He seems excited about the gospel show tonight. He met with the group leader for a while over at the real estate office."
+Alastair said, "He seems excited about the gospel show tonight. He met with the group leader for a bit over at the real estate office."
 
 Claude smiled. "The boy always did love him some gospel. Makes me happy to know we'll see him there tonight. Thad, Al,
 just make sure he show up, alright?"
 
 Thaddeus responded, "Done, Mr. Claude!"
 
-Then he and Alistair got up, said their goodbyes, and left the bar.
+Then he and Alastair got up, said their goodbyes. As they left, Thaddeus held the door open for Donna Nobis, who was
+arriving to open for the afternoon.
 
-Claude turned to Gertie and told her, "Why don't you get on home and rest? Me and Winthrop here got some business to attend to."
+Claude greeted Donna, then turned to Gertie and told her, "Why don't you get on home and rest? Me and Winthrop here got
+some business to attend to."
 
 Gertie got up, leaned over, and kissed Claude on the cheek. "See you at home, sugar. And you take care now, Winnie. And
 don't you fret about your girl and Hampton. It'll be just fine."
@@ -40,8 +42,8 @@ Camellia nodded, and opened her magazine.
 
 Claude and Winthrop went into the back room, which served as both kitchen and office,
 and pulled up two chairs near a small service window.
-Given it was only mid-afternoon, and the bar was mostly empty, they
-ought to be able to hear whatever was said between Hampton and Camellia.
+Given that the bar had just opened and no one other than Camellia and Donna were there,
+they figured they could hear whatever was said between Hampton and Camellia.
 
 Winthrop began to launch into a story about a gator he had run into while fishing at Sykes Swamp,
 but Claude hushed him, saying, "Hampton comin' in the front door now. You gotta keep quiet."
@@ -92,7 +94,7 @@ Hampton seemed to catch a scent on the air, and looked around the room suspiciou
 Camellia shot a worried look back at the service window. Her father
 lifted up his hand so she could see it and gestured that she should continue.
 
-"Just don't be with no man. Or if you're gonna have a man pick a really dumb one. Cause the smart ones know you're gonna
+"Just don't be with no man. Or if you're gonna have a man pick a really dumb one. Cause the smart ones know you gonna
 be out whoring around with their friends and making fools of them. So, better you just become one of them Holy Spirit
 ladies."
 
@@ -107,9 +109,11 @@ Camellia buried her face in her hands, and began crying softly. "What happened t
 
 Claude and her father came out of the back room and sat down on either side of her at the table.
 
-Camellia said to them, "I can barely stand to see that boy in such a state. He was the best of Denmark, and now he just like a brokedown palace."
+Camellia said to them, "I can barely stand to see that boy in such a state. He was the best of Denmark, and now he just
+like a brokedown palace."
 
-Claude responded, "I don't think it all about you. There something else be troubling that boy. And whatever it is, I suspect it kind of dangerous."
+Claude responded, "I don't think it all about you. Something else be troubling that boy. And whatever it is, I suspect
+it kinda dangerous."
 
 
 ## 2.

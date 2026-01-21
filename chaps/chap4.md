@@ -43,7 +43,7 @@ family always treated us."
 
 With that Sheriff Joyce walked across the porch and out into the cool and breezy night.
 
-Claude close the door behind him, took out his cell phone, and called Thaddeus. "You and Alistair meet me at Elsie's.
+Claude close the door behind him, took out his cell phone, and called Thaddeus. "You and Alastair meet me at Elsie's.
 Vite vite." (Claude, a Clemson man, liked to show off what little he remembered of his four semesters of French.)
 
 He walked over to Gertie and gave her a hug. "Don't you worry none now baby, I'm taking care of everything." Then he
@@ -58,34 +58,34 @@ new boss, effusively when he walked in.
 At the bar, he asked Agnes for a double whiskey on the rocks. Once he was served his drink, he went to the back of the
 bar, where the crowd was thin, and sat at an empty table.
 
-A few minutes later, Thaddeus and Alistair walked in together. Claude had been watching the door, and waved them over as
+A few minutes later, Thaddeus and Alastair walked in together. Claude had been watching the door, and waved them over as
 soon as they entered. He rose and shook their hands, and indicated that they should sit. Then he called out, "Donna
 honey, get us three more of these here whiskeys."
 
-After the drinks arrived, and Thaddeus and Alistair had time to take a couple of sips, Claude, after first looking
+After the drinks arrived, and Thaddeus and Alastair had time to take a couple of sips, Claude, after first looking
 around the table, addressed them in a low voice.
 
 "Boys, Hampton, he outta control. Tonight, he done shot ole Winthrop dead."
 
-Thaddeus and Alistair stared at him in disbelief.
+Thaddeus and Alastair stared at him in disbelief.
 
 After a moment of silence, Thaddeus asked, "Why'd he do that?"
 
 Claude looked grim. "This can't leave this room, but I'm thinkin' he was gunnin' for me."
 
-Alistair shook his head like he was trying to shoo away a horse fly. "OK, but why would he do *that*?"
+Alastair shook his head like he was trying to shoo away a horse fly. "OK, but why would he do *that*?"
 
 "Why? Why the boy be jealous that I'm gonna run the family businesses. He think that since Will was his daddy, it only
 natural that he be put in charge. But the boy, too young, too inexperienced, and way too reckless. Him being in charge
 would be the ruin of alla us."
 
-Claude paused, and looked meaningfully at Thaddeus and Alistair. Once he judged that they had absorbed the first part of
+Claude paused, and looked meaningfully at Thaddeus and Alastair. Once he judged that they had absorbed the first part of
 his pitch, he continued.
 
 "And now he running around recklessly killin' folk, and actin' crazy out in public. He be bringin' police attention and
 dishonor to the whole family, and you know, when I say that, I include the two of you as bein' as good as kin."
 
-Thaddeus and Alistair nodded to indicate their appreciation of what Claude was saying.
+Thaddeus and Alastair nodded to indicate their appreciation of what Claude was saying.
 
 "Y'all know, I love the boy like he were my own son, but comes a time when a body gotta cut off a cancer to save the rest of the body."
 
@@ -96,7 +96,7 @@ that burglar who been operating round here of late. But I told Hampton since he'
 Winthrop, he better get out of town. I told him you two would put him up at Clemson for a spell, until the
 investigation finished."
 
-Alistair said, "Yeah, we could do that."
+Alastair said, "Yeah, we could do that."
 
 Claude shook his head. "But that ain't gonna solve our problem. Unfortunately, behavin' the way he is, the boy gotta go."
 
@@ -118,29 +118,29 @@ what you gotta do, and once it done, you lose both the guns and Hampton into tha
 nobody never gonna find a body in there unless they decide to drain the whole thing. And then y'all go on up
 to Clemson, and go about your studies."
 
-Alistair asked, "And you sure there ain't no alternative?"
+Alastair asked, "And you sure there ain't no alternative?"
 
 "Boys, he already done killed one man. And he likely to take another shot at me.
 How many more dead you wanna see? Better that one man dead than a whole bunch of us goin' to our graves."
 
-Thaddeus and Alistair both nodded.
+Thaddeus and Alastair both nodded.
 
 "Thank you boys. Believe me, I ain't gonna forget your service. Now let's go on in the back, and I get you what you need."
 
 ## 3.
 
-At around seven o'clock the next morning, Thaddeus and Alistair pulled up to the curb below Hampton's apartment, which
+At around seven o'clock the next morning, Thaddeus and Alastair pulled up to the curb below Hampton's apartment, which
 was on the second floor of the brick building housing the Neeley Appliance Company. Thaddeus, who was driving, put his
 hand on the horn as if he were about to honk.
 
-Alistair said, "Whachoo doin'? It's seven Sunday mornin'; you can't be honkin' your horn. Jes lemme call him."
+Alastair said, "Whachoo doin'? It's seven Sunday mornin'; you can't be honkin' your horn. Jes lemme call him."
 
 Hampton sounded sleepy when he answered, and said he would be down in a few minutes. When he arrived at the car, he was
 bearing a backpack stuffed to the bursting point.
 
 Thaddeus asked him, "Brother, what you got there?"
 
-Alistair added, "Yeah, it look like you movin' out."
+Alastair added, "Yeah, it look like you movin' out."
 
 Hampton laughed. "On a trip like this, you never know what you might need, or where you might end up. Be prepared!"
 
@@ -148,9 +148,9 @@ As Thaddeus started the car up, Hampton leaned forward, and in a confidential to
 do appreciate all you fellas, and my uncle Claude, doin' for me. Why, if a brother didn't know any better, I might start
 to think y'all cared about me."
 
-Hampton laughed heartily, to indicate he was just joking around. Thaddeus and Alistair also laughed, but less heartily.
+Hampton laughed heartily, to indicate he was just joking around. Thaddeus and Alastair also laughed, but less heartily.
 
-As Thaddeus drove the two blocks north on Carolina Highway, Alistair explained that he had to get some lake samples for
+As Thaddeus drove the two blocks north on Carolina Highway, Alastair explained that he had to get some lake samples for
 his biology class, so they'd be making a short detour on the way north.
 Thaddeus turned left on Heritage Highway. They passed the Amtrak
 station and were soon out in open countryside. The fields that would host corn and soybeans in the summer were now lying
@@ -161,16 +161,16 @@ estate.
 Hampton had been drowsy, staring out the window, but he suddenly became animated. "I ever tell you two about the
 three-legged pig I saw up this way?"
 
-Thaddeus looked at Alistair and rolled his eyes a little. "I think we about to hear another of Hampton's tall tales."
+Thaddeus looked at Alastair and rolled his eyes a little. "I think we about to hear another of Hampton's tall tales."
 
 "No boys, I'm serious: you ever seen a three-legged pig?"
 
-Alistair replied, "I gotta admit I ain't."
+Alastair replied, "I gotta admit I ain't."
 
 "I ain't neither, at least not till that day I was drivin' out this way in my Mustang and I see a farmer standin' in his
 field next to this pig that only got three legs. Y'all remember my Mustang?"
 
-Alistair said, "Yeah, a real sweet car, until you wrecked it."
+Alastair said, "Yeah, a real sweet car, until you wrecked it."
 
 Hampton laughed. "We ain't gonna mention that. Anyway, back to the pig. Naturally, I wanna find out what up with it. So I pull
 my car over to the side of the road, and get out. I asked the farmer how he doin', and he tells me he havin' a blessed
@@ -198,7 +198,7 @@ woke up and made it out just in time. So that time he probably saved the life of
 
 "Then that ole man look at me like I'm nuts. 'An animal this special... Why, you can't eat him all at once!'"
 
-Thaddeus and Alistair both groaned. Alistair said, "Hampton, you one messed up dude."
+Thaddeus and Alastair both groaned. Alastair said, "Hampton, you one messed up dude."
 
 "If I'm messed up, at least I with the right fellows."
 
@@ -210,12 +210,12 @@ Hampton laughed. "You two is like vacuum cleaners, right?"
 
 "Whatever garbage come outta Claude's mouth, you two just suck it up, right?"
 
-Alistair stared back at him with a look of distaste. "I have no idea what you talkin' about."
+Alastair stared back at him with a look of distaste. "I have no idea what you talkin' about."
 
 "Boys, I just kiddin' with y'all. I know my words too wicked for yo' innocent ears."
 
 Soon Hampton fell fully asleep, his head resting on his backpack. He slept until they had entered the forest, and
-Alistair shook his knee to wake him.
+Alastair shook his knee to wake him.
 
 "Brother, time to wakey wake. We almost there."
 
@@ -228,7 +228,7 @@ Thaddeus turned off the ignition, and said, "If y'all help me get these samples,
 Hampton spoke quietly from the back, saying "OK, but first I gotta say goodbye, my brothers," as he rummaged through his
 backpack.
 
-Alistair asked, "Why you be sayin' goodbye now?"
+Alastair asked, "Why you be sayin' goodbye now?"
 
 "Cause I sendin' you two on a trip to visit Winthrop." With that he lifted his pistol out of his backpack, and shot
 both of his friends in the head, sending their brains splattering over the windshield.
@@ -250,7 +250,7 @@ sweetgums and hickories and maples, he walked out of the park and back to the ma
 ## 4.
 
 Claude was sitting at his desk in the real estate office on Sunday afternoon. He had grown increasingly agitated, as
-his attempts to contact either Thaddeus or Alistair had been in vain. He selected Thaddeus's number on his phone one more
+his attempts to contact either Thaddeus or Alastair had been in vain. He selected Thaddeus's number on his phone one more
 time, only to hear it go immediately to voicemail once again.
 
 He got up and began to pace the floor. As he did so the door to the office flew open like a hurricane had blown up from
