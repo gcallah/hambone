@@ -300,7 +300,7 @@ we gotta have a word with you."
 
 Thaddeus chimed, "She said she's been amazed at how you been acting."
 
-Hampton said, "It's something when after all these years, a boy can still amaze his mama."
+Hampton said, "Ain't it somethin' when, after all these years, a boy can still amaze his mama."
 
 Alastair said, "She wants you to go round her place tonight before she goes off to sleep."
 
@@ -316,40 +316,49 @@ Alastair looked askance at Hampton. "We were brothers once."
 
 "Why you say that? You know Claude considers you like his own son."
 
-"Yeah, and maybe he ain't looking forward to the son rise."
-
-[flute?]
+"Yeah, and maybe he ain't looking forward to seein' the son rise."
 
 The door of the church opened again, and Winthrop rushed up the central aisle to address Hampton.
 
 "Hampton, your mama really anxious that you come see her."
 
-Hampton squints one eye and gives Winthrop a quizzical look. "Winthrop, ain't this church shaped kinda like a pregnant sow?"
+Hampton squinted one eye and gave Winthrop a quizzical look.
+He pointed up at the dimly illuminated stained glass window behind the altar:
+"Winthrop, ain't that window shaped kinda like a pregnant sow?"
 
-Winthrop, nonplussed, glances nervously around the church. "Yeah, I see what you saying: it is kinda like a pregnant sow."
+Winthrop, nonplussed, glanced nervously up at the window.
 
-Hampton looks around the church and shakes his head. "I stand corrected: it really look more like an angry gator, half submerged in the Congaree."
+"Yeah, I see what you saying: it is kinda like a pregnant sow."
+
+Hampton looked at the window again and shook his head.
+
+"I stand corrected: it really look more like an angry gator, half submerged in the Congaree."
 
 "Yeah, you right: it do look more like an angry gator."
 
 "Well then, seeing we agree on that, you go tell my mama I be coming along soon enough."
 
-[the witching hour]
+As Winthrop walked away, Hampton began singing:
+
+"I'm gonna wait 'til the midnight hour  
+That's when my love comes tumbling down  
+I'm gonna wait 'til the midnight hour  
+When there's no one else around"
 
 
 ## 3.
 
-An hour later, Claude having recovered from his episode, he
-Thaddeus, and Alastair were gathered around a table in the back of Elsie's Bar, speaking in hushed tones, so
+An hour later, Claude, having recovered from his episode,
+Thaddeus, and Alastair were gathered around a table in the back of Elsie's, speaking in hushed tones, so
 that their voices would certainly not be heard above the music of the jukebox.
 
 Claude said, "The boy be mad. It ain't safe for him to be around Denmark in this state. I want y'all to convince him to
 go back up to Clemson with you."
 
-Alastair nodded: "Yeah, the first thing we gotta worry about is keepin' things on an even keel here in Denmark. And now
+Alastair nodded: "Yeah, the first thing we gotta worry about is keepin' things goin' smooth here in Denmark. And now
 that you the one running things, so many people be depending upon you, so we behind whatever you need from us."
 
-Thaddeus added, "Mister Claude, we know that you the wheel round which life in this town turns. And if that wheel stop
+Thaddeus added, "Mister Claude, we know that you the one turnin' the wheel that keeps this town goin'. And if that wheel stop
 turnin', ten thousand things liable to go wrong. So we happy to bring Hampton up north with us."
 
 Claude thanked the pair for their assistance, and they got up and walked out of the bar. On their way out, they passed
@@ -374,23 +383,23 @@ drank it while staring vacantly at the neon moon of the bar's window lights.
 
 ## 4.
 
-Gertie lived in one of the elegant antebellum homes at the north end of town, which she had shared with her husband until his
+Gertie lived in one of those elegant antebellum homes at the north end of town, which she had shared with her husband until his
 recent demise. She was sitting on the couch in her living room, watching a romance movie on Netflix while sipping a gin
 and tonic, when Hampton walked up onto the wraparound porch and knocked on the front door.
 
-Gertie, flustered at receiving such a late visitor, rose from the couch and peered out through the intricate
-leaded-glass window of the front door to see who was there. When she recognized her son, she opened the door, and said
+Gertie rose from the couch and peered out through the intricate
+leaded-glass window of the front door to see who was there. Then she opened the door, and said
 "Hampton! What you doing here at this hour?"
 
-"Mama, we gotta talk."
+"Mama, I hear you wanna talk."
 
 "Well then come in. Take a seat."
 
 She motioned him to sit in the leather recliner next to the couch, and sat back down herself.
 
-"So what up, son?"
+"So what up with you, son?"
 
-"I wanna know what wrong with you."
+"For one, I wanna know why you keep lookin' at me like I's crazy."
 
 "Well, you givin' offense to your daddy's memory, for one."
 
@@ -466,7 +475,7 @@ living room and sat on the couch.
 
 Gertie went down the central hallway to the kitchen in the back, and came back a minute later with a glass of whiskey in
 one hand, and a bottle of Johnny Walker Black in the other. Claude gulped down his drink, and, raising the glass towards
-Gertie, said, "Pour me another."
+Gertie, said, "Another."
 
 He drank his second whiskey more slowly, and when he was done, he stood up from the couch, and announced, "OK, here what
 we gonna do. Hampton, gimme that gun you done shot him with."
