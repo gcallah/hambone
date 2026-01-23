@@ -23,7 +23,7 @@ he ain't already had you killed."
 "So what you think I should do?"
 
 "They's havin' the funeral on Wednesday. Then everybody gettin' together at Elsie's afterwards. I think you just stick
-to your plan: confront Claude in front of plenty of witnesses. Except you just do it at Elsie's instead of at the
+to yo' plan: confront Claude in front of plenty of witnesses. Except you just do it at Elsie's instead of at the
 fellowship dinner."
 
 Hampton stared at the floor for a while. Then he said, "OK, that make sense. But I think I need to go for a walk right
@@ -32,9 +32,9 @@ now."
 "OK, I got philosophy class in a little while. Why you don't take the spare key, so you can let yourself in if you get
 back before I do?"
 
-Hampton did as Hiram recommended. He drifted into the head shop on the corner, the business with the Bob Marley portrait
-on its wall. He wandered the store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and bongs.
-A young white girl with dreadlocks and multiple piercings sat behind the cash register fiddling with her smart
+Hampton did as Hiram recommended. He drifted into the head shop on the corner, the business with the Bob Marley mural
+on its outside wall. He wandered the store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and bongs.
+A young white lady with dreadlocks and multiple piercings sat behind the cash register fiddling with her smart
 phone. After a few minutes, she stood up and asked him "Is there something you're looking for?"
 
 Hampton had hardly noticed that she was there, and was startled that she had spoken to him. "Yes, I'm looking for
@@ -78,7 +78,7 @@ Hampton listened to the band for a few minutes. The music wasn't bad, but he fou
 so he headed back to Hiram's apartment.
 
 When he let himself in with his borrowed key, Hiram had already returned, and was talking to someone on his phone.
-"Yeah, we go ahead on Wednesday like we planned." Hiram looked up at Hampton, and then said into his phone "Look, I
+"Yeah, we go ahead on Wednesday like we planned." Hiram looked up at Hampton, and then said to that someone, "Look, I
 gotta go now."
 
 Hiram put away his phone in his pocket, and asked Hampton, "How  you doing?"
@@ -122,7 +122,7 @@ raised a glass of whiskey in the air, about to propose a toast, but the drink fr
 sitting by himself in the back of the bar, jumped up, and shouted "Claude, what the hell is this?"
 
 Hampton said, "That's right, Ambrose: Claude no doubt told you that I was dead by now." Hampton turned and stared at his
-mother. "Mama, did you know your new boyfriend ordered the killin' of your son? And what's more, he the one who killed
+mother. "Mama, did you know your new 'boyfriend' ordered the killin' of your son? And what's more, he the one who killed
 your husband too."
 
 With that, Hampton pulled out a pistol, and pointed it at Claude's head. "My best old Uncle Claude, why you don't tell
@@ -156,15 +156,17 @@ The four prisoners were led away into four separate cars and driven off. The res
 gradually recovered from their shock, and wandered out of the bar a few at a time.
 
 Soon, the only people left were a couple of serious drinkers seated in a corner, Agnes and Donna, who were cleaning up,
-and Hiram, who sat at the bar sipping a scotch. The door open, and a tall, slim black man, elegantly dressed in gray
+and Hiram, who sat at the bar sipping a scotch. The door opened, and a tall, slim black man, elegantly dressed in gray
 trousers, a gray button-down shirt, and a black leather jacket, and wearing dark, mirrored glasses, stepped into the
 bar. He took off the glasses and blinked his eyes a couple of times, adjusting to the darkness within the building. When
 he could see again, he spotted Hiram at the bar, and said, "Hiram, what up?"
 
-"Forrest, my man, how was the trip from Norway?"
+"Forrest, my man, how was the descent from Norway?"
 
-Forest had walked across the room, and the two men fist bumped. For sat down in a stool next to Hiram, and said to
-Agnes, "Get me one of whatever he's having." Then he asked Hiram, "Everything go according to plan?"
+Forrest had walked across the room, and the two men fist bumped. Forrest sat down in a stool next to Hiram, and said to
+Agnes, "Get me one of whatever he's having."
+
+Then he asked Hiram, "Everything go according to plan?"
 
 "You betcha. All of the Shepherds carted off, leavin' no one in charge..."
 
@@ -183,7 +185,7 @@ the idea in his head that Claude had killed his daddy."
 "But why you didn't just turn the evidence you had against the Shepherds over to the FBI? Why this whole plot with
 Hampton?"
 
-"We had to get him out of the way, and there wasn't enough evidence of his involvement to be sure the FBI would arrest
+"We had to get him out of the way, and there weren't enough evidence of his involvement to be sure the FBI would arrest
 him. So I figured if I stirred things up a bit, he would do somethin' stupid, 'cause that's his way. I didn't know he
 would go off killin' folks, but I knew it would be somethin' dumb assed."
 
