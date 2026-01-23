@@ -336,7 +336,7 @@ Winthrop."
 "So how the hell you mistake a skinny ole black man for a fat white man?"
 
 "It was dark, and he was creepin' through the window at Gertie's house. I thought it was Claude comin' to spy on me
-and I figure this is my chance: I could revenge my daddy and say I believed I was just killing an intruder."
+and I figure this is my chance: I could revenge my daddy and say I believed I was jes killin' an intruder."
 
 "Let's walk down to my place, and you can tell me who else you done killed on the way."
 
@@ -353,7 +353,7 @@ Hiram shook his head. "Claude don't do nothin' out the kindness of his heart, ca
 "So why he do it then?"
 
 "He tells me he's gonna have Thad and Al bring me up to Clemson. To be on the safe side, before they pick me up in the
-morning, I made sure to stash a pistol in my backpack. Well, when they come to get me, they's all shifty and what not.
+mornin', I made sure to stash a pistol in my backpack. Well, when they come to get me, they's all shifty and what not.
 Can't look their brother in the eye. So it obvious to me Claude asked them to get rid of me."
 
 "Didn't Claude or Thad or Al think you might figure out their plan?"
@@ -390,13 +390,13 @@ Hampton replied, "Yeah, I wonder the exact same thing."
 
 ## 6.
 
-Ambrose was in Elsie's, drinking with his friends Homer and Walker. His anger and his desire to revenge his father's
+Ambrose was in Elsie's, drinking with his friends Homer and Isaiah. His anger and his desire to revenge his father's
 death had dissipated when Claude assured him that Hampton was already dead. So now he drank to stop feeling the sorrow
 of his loss.
 
 And the drinking was working, until Camellia entered the bar. He had never seen his sister out in public looking
-anything but her best, made up, and her braided hair all in place. Her clothes, if not always expensive, because she could
-only afford expensive clothes if they were earned from one of her modelling jobs, were nevertheless attractive and stylish.
+anything but her best: made up, her braided hair all in place, her clothes, not always expensive, but at least
+attractive and stylish.
 
 But she now looked like the sibling he knew had been through a decade of dissipation. Her hair was a mess, her eyes
 glassy, and she wore an unevenly buttoned jacket, covering a stained T-shirt, and some slovenly sweatpants. As she
@@ -465,10 +465,10 @@ cut him off. "Ambrose, just let her go. She grievin' in her own way. She get ove
 So Ambrose stayed at the bar with his friends for another couple of hours, and then he walked back to his father's house
 on Cypress Avenue and went to sleep. When he awoke, the sun was already high in the sky. He washed his face in the
 bathroom, and changed into fresh clothes. He decided to he had better go check up on his sister, and so he left the
-house and walked the four blocks to her apartment.
+house and walked to her apartment on Carolina Highway.
 
-He climbed the stairs to the second floor of the building where she lived, and knocked on her apartment door, and
-knocked again. Then he tried the door handle, and found it was unlocked.
+He climbed the stairs to the second floor and knocked on her door, and knocked again. Then he tried the door handle, and
+found it was unlocked.
 
 Upon entering, he immediately felt sick from the foul smell of the air, which reeked of weed, and tobacco, and vomit,
 and decay. He passed through the living room and into the bedroom. There he found his sister's body stretched out on her
