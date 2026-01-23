@@ -4,7 +4,7 @@
 ## 1.
 
 On Monday morning, Hampton woke up on Hiram's couch. He was startled to find Hiram sitting in an armchair, apparently
-waiting for his eyes to open. For as soon as they did so, Hiram said, "I have some bad news, my brother."
+waiting for his eyes to open. For as soon as they did so, Hiram said, "I got some bad news, my brother."
 
 "What is it?"
 
