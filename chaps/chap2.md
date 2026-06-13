@@ -2,76 +2,96 @@
 
 ## 1.
 
-Camellia Branch left her apartment on Carolina Highway and walked up to City Hall Street. There she turned west, crossing
-the train tracks, before heading briefly north on South Dogwood Avenue. She turned west again on Butler
-Street, noting the blight she walked past. The street pavement was splitting to the point it resembled crackled
-porcelain, and the double yellow line down the middle of the road was so faded that it was barely visible. 
-Several of the houses she passed were being swallowed by kudzu and wisteria and wild grape vines, and their roofs were
-beginning to cave in. A few of the lots were empty of any building, the house that had once stood on them having been
-condemned and bulldozed, and they were now overgrown with loblolly and long-leaf pine seedlings, and dewberry vines,
-ragweed, nutsedge, chickweed, henbit, and virginia buttonweed. Fire ants had enthusiastically invaded the empty lots.
-Camellia noticed their mounds rising through the weeds with distaste: she was always alert to the ants'
-presence since the day she had nearly died from anaphylactic shock, having been stung several dozen times
-after falling asleep in her childhood backyard and rolling onto a nest.
+Camellia Branch left her apartment on Carolina Highway and walked up to City
+Hall Street. There she turned west, crossing the train tracks, before heading
+briefly north on South Dogwood Avenue. She turned west again on Butler Street,
+noting the blight she walked past. The street pavement was splitting to the
+point it resembled crackled porcelain, and the double yellow line down the
+middle of the road was so faded that it was barely visible. Several of the
+houses she passed were being swallowed by kudzu and wisteria and wild grape
+vines, and their roofs were beginning to cave in. A few of the lots were empty
+of any building, the house that had once stood on them having been condemned
+and bulldozed, and they were now overgrown with loblolly and long-leaf pine
+seedlings, and dewberry vines, ragweed, nutsedge, chickweed, henbit, and
+virginia buttonweed. Fire ants had enthusiastically invaded the empty lots.
+Camellia noticed their mounds rising through the weeds with distaste: she was
+always alert to the ants' presence since the day she had nearly died from
+anaphylactic shock, having been stung several dozen times after falling asleep
+in her childhood backyard and rolling onto a nest.
 
-She saw a glimmer of hope in the fact that, despite the creeping decay, there were nevertheless
-properties that fought back: the house recently painted, the lawn neatly mowed with a couple of crepe myrtles or dogwoods
-growing up from a mound of mulch on either side of the walk to the front door, and a few rose bushes, or azaleas, or tea
-olives serving as foundation plantings.
+She saw a glimmer of hope in the fact that, despite the creeping decay, there
+were still properties that fought back: the house recently painted, the
+lawn neatly mowed with a couple of crepe myrtles or dogwoods growing up from a
+mound of mulch on either side of the walk to the front door, and a few rose
+bushes, or azaleas, or tea olives serving as foundation plantings.
 
-After walking just over two blocks along Butler, she stopped in front of a small bungalow.
-Her father, Winthrop, was sitting in his rocking chair on the front porch. 
-His front yard contained an enormous live oak, and the shade it cast made the lawn beneath it scruffy, and in
-spots the sandy soil was fully exposed. When he saw Camellia stop on the sidewalk he waved her up to the porch.
+After walking just over two blocks along Butler, she stopped in front of a
+small bungalow. Her father, Winthrop, was sitting in his rocking chair on the
+front porch. His front yard contained an enormous live oak, and the shade it
+cast made the lawn beneath it scruffy, and in spots the sandy soil was fully
+exposed. When he saw Camellia stop on the sidewalk he waved her up to the
+porch.
 
 "Daddy, I gotta tell you about what just happened."
 
-As she was obviously agitated, Winthrop looked at his daughter with concern, and said,
-"Sit yo'self down and tell me what wrong."
+As she was obviously agitated, Winthrop looked at his daughter with concern,
+and said, "Sit yo'self down and tell me what wrong."
 
-"Hampton, he show up at my apartment round six this morning. He look terrible, his eyes all bloodshot, his shirt button
-up all wrong, his shoes untied, and he didn't even have no jacket on, despite it bein' so cold."
+"Hampton, he show up at my apartment round six this morning. He look terrible,
+his eyes all bloodshot, his shirt button up all wrong, his shoes untied, and he
+didn't even have no jacket on, despite it bein' so cold."
 
 "Say what?"
 
-"And he was all shakin', like maybe he been doin' blow all night or somethin'. And he just took hold my hand, kneeling
-down before me, and he start moanin', sounding like he a dyin' hound. And then after a bit, he get up and run out the
+"And he was all shakin', like maybe he been doin' blow all night or somethin'.
+And he just took hold my hand, kneeling down before me, and he start moanin',
+soundin' like he a dyin' hound. And then after a bit, he git up and run out the
 door."
 
-Winthrop Held up his hand signal, that he wanted a moment to think, and he gazed up into the branches of the Live Oak,
-for perhaps a minute. Then he said:
+Winthrop held up his hand to signal that he wanted a moment to think, and he
+gazed up into the branches of the live oak as though counting its leaves. Then
+he said:
 
-"My baby girl, maybe I got him all wrong. It sound like he all crazy about you, and when I told you ignore him, it done drive
-him mad. And maybe I was just jealous. You know, ole folk like me, we done too easily forget about the passion of youth.
-Look, what we gotta do is go see Claude, and let him know his nephew in a bad place."
+"My baby girl, maybe I got him all wrong. It sound like he all crazy about you,
+and when I told you ignore him, it done drive him mad. And maybe I was just
+jealous. You know, ole folk like me, we done too easily forget about the
+passion of youth. Look, what we gotta do is go see Claude, and let him know
+his nephew in a bad place."
 
 
 ## 2.
 
-The Shepherd Real Estate office
-was in a storefront across the street from Denmark Hardware. The drab interior was the result of a focus on
-material gain so complete that aesthetic problems were not even visible. The walls needed a
-new coat of paint and the floor was scuffed up linoleum. The furniture was a couple of old desks that had been bought at a secondhand
-store, and one longer "conference" table that could be folded up if needed and brought to a church dinner for use as a
-serving table. 
+The Shepherd Real Estate office was in a storefront across the street from
+Denmark Hardware. The drab interior was the result of a focus on material gain
+so complete that aesthetic problems were not even visible. The walls needed a
+new coat of paint and the floor was scuffed up linoleum. The furniture was a
+couple of old desks that had been bought at a secondhand store, and one longer
+"conference" table that could be folded up if needed and brought to a church
+dinner for use as a serving table. 
 
-Claude and Gertie were seated at one side of that table, and they were meeting with Thaddeus Stevens and Alastair
-McIntyre who sat on the other. Claude addressed the two young men: "First of all, I wanna thank you for
-coming down from Clemson to help us out. Y'all been friends with Hampton for a long time, and he actin' as
-crazy as an outhouse rat. So we gotta figure out what wrong with him."
+Claude and Gertie were seated at one side of that table, and they were meeting
+with Thaddeus Stevens and Alastair McIntyre who sat on the other. Claude
+addressed the two young men: "First of all, I wanna thank you for coming down
+from Clemson to help us out. Y'all been friends with Hampton for a long time,
+and he actin' as crazy as an outhouse rat. So we gotta figure out what wrong
+with him."
 
-Gertie added, "He talk about y'all all the time, and we know he listen to you. So maybe you can help us out here, and figure
-out what goin' on with him?"
+Gertie added, "He talk about y'all all the time, and we know he listen to you.
+So maybe you can help us out here, and figure out what goin' on with him?"
 
-Thaddeus held his arms open wide. "Hey, we ready to help you out, however we can."
+Thaddeus held his arms open wide. "Hey, we ready to help you out, however we
+can."
 
 Alastair said, "Yeah, what Thaddeus said!"
 
-Gertie added, "We do appreciate you goin' see him as soon as you can. We gotta know what gone wrong with my boy."
+Gertie added, "We do appreciate you goin' see him as soon as you can. We gotta
+know what gone wrong with my boy."
 
-As Thaddeus and Alastair were leaving the office, they met Winthrop on his way in.
+As Thaddeus and Alastair were leaving the office, they met Winthrop on his way
+in.
 
-Claude, seeing this new character coming on stage, looked up in surprise. "Winnie, what brings you here?"
+Claude, seeing this new character coming on stage, looked up in surprise.
+"Winnie, what brings you here?"
 
 "You been saying how Hampton been looking mighty upset."
 
@@ -79,60 +99,65 @@ Claude raised his eyebrows. "And?"
 
 "I done figured out what wrong with the boy."
 
-Winthrop paused for dramatic effect, but at that moment, Corny and Clarence, returning from their trip to Norway,
-entered the office.
+Winthrop paused for dramatic effect, but at that moment, Corny and Clarence,
+returning from their trip to Norway, entered the office.
 
-Claude gave Winthrop the stop sign with his hand. "Winnie, you gonna have to wait a minute. These boys bringing me
-important news.
+Claude gave Winthrop the stop sign with his hand. "Winnie, you gonna have to
+wait a minute. These boys bringing me important news.
 
 "Boys, whachoo learn?"
 
-Clarence stepped forward towards the table. "We ain't got nothing to worry about. Forrest swear he ain't got no
-intentions toward Denmark. He *is* looking to expand a bit, but he got his eye turned north toward Swansea. He say the Boucher
-family up there looking weak, with stupid shit like car jackings and what not getting out of hand. He thinkin' it time
-to bring some order to that mess."
+Clarence stepped forward towards the table. "We ain't got nothing to worry
+about. Forrest swear he ain't got no intentions toward Denmark. He *is* looking
+to expand a bit, but he got his eye turned north toward Swansea. He say the
+Boucher family up there looking weak, with stupid shit like car jackings and
+what not getting out of hand. He thinkin' it time to bring some order to that
+mess."
 
-Claude told them "Boys, you done a fine job. You all come by Elsie's tonight, and the drinks are on me."
+Claude told them "Boys, you done a fine job. You all come by Elsie's tonight,
+and the drinks are on me."
 
 Corny and Claude both mumbled their thanks and left.
 
 "All right Winnie, whachoo got for me?"
 
-"Yes sir, well, I mean to get right to the point here. Ain't no sense beating around the bush, and making a whole speech
-when a few words will suffice. Rambling on but saying nothing be a foolish waste of time. And y'all busy people so I
-surely don't wanna waste your time."
+"Yes sir, well, I mean to get right to the point here. Ain't no sense beating
+around the bush, and making a whole speech when a few words will suffice.
+Rambling on but saying nothing be a foolish waste of time. And y'all busy
+people so I surely don't wanna waste your time."
 
-Gertie turned her head at a 45° angle and stared at Winthrop. "Right, so maybe you gonna get to the point sometime
-today."
+Gertie turned her head at a 45° angle and stared at Winthrop. "Right, so maybe
+you gonna get to the point sometime today."
 
-"The point is exactly what I'm getting to, and I don't mean to delay getting there one little bit longer. Because
-dealing with such important folk as y'all, a man gotta be brief. And I could go on and on saying nothing with a whole lot
+"The point is exactly what I'm getting to, and I don't mean to delay getting
+there one little bit longer. Because dealing with such important folk as y'all,
+a man gotta be brief. And I could go on and on saying nothing with a whole lot
 of words, but that ain't my way."
 
-Claude put his head in his hand for a moment, then looked up at Winthrop and said, "So you gonna tell us what up, or you
-gonna just keep tellin' us you gonna tell us what up?"
+Claude put his head in his hand for a moment, then looked up at Winthrop and
+said, "So you gonna tell us what up, or you gonna just keep tellin' us you
+gonna tell us what up?"
 
-Winthrop wrung his hands a little, but continued: "Now, I ain't pleased to bring you this news, but the problem with
-Hampton's mind be my daughter."
+Winthrop wrung his hands a little, but continued: "Now, I ain't pleased to
+bring you this news, but the problem with Hampton's mind be my daughter."
 
 Claude gave Winthrop a puzzled look. "How she the problem?"
 
-"Well, sir, it seem your boy Hampton done fall hard for her. Lemme read you this text that he done sent her."
+"Well, sir, it seem your boy Hampton done fall hard for her. Lemme read you
+this text that he done sent her."
 
-Winthrop took his smartphone out of his pocket and lifted it with a flourish before his face. He cleared his throat, and
-began reading:
+Winthrop took his smartphone out of his pocket and lifted it with a flourish
+before his face. He cleared his throat, and began reading:
 
-"You know you like heaven to me, the most beautiful woman I ever seen, and I just wanna lay my head on your ebony
-breasts..." 
+"You know you like heaven to me, the most beautiful woman I ever seen, and I
+just wanna lay my head on your ebony breasts..." 
 
 Gertie asked, "Is there more like that?"
 
 "Yeah, he wrote her some rap lyrics or something:
 
-"My love burns like a flaming star  
-Brighter than the sun at noon  
-I ain't lying about what you are  
-You're the notes that make my tune"
+"My love burns like a flaming star Brighter than the sun at noon I ain't
+lying about what you are You're the notes that make my tune"
 
 Claude asked him, "So what she doing about all this?"
 
@@ -140,13 +165,16 @@ Claude asked him, "So what she doing about all this?"
 
 "I never doubted it."
 
-"Then you know I don't treat this as no game of craps or gin rummy. I ain't playing bunco here!"
+"Then you know I don't treat this as no game of craps or gin rummy. I ain't
+playing bunco here!"
 
-Gertie made a face like she had just bit into a lemon. "What the hell you talking about Winnie?"
+Gertie made a face like she had just bit into a lemon. "What the hell you
+talking about Winnie?"
 
-"What I tryin' to say is course I went and talk to her. And I told her to pay him no mind. Cause, you know, the whole
-thing don't make no sense. But he apparently takin' her rejection pretty hard, and I do believe that why he actin' so
-strange."
+"What I tryin' to say is course I went and talk to her. And I told her to pay
+him no mind. Cause, you know, the whole thing don't make no sense. But he
+apparently takin' her rejection pretty hard, and I do believe that why he
+actin' so strange."
 
 Claude looked at Gertie. "You think this possible?"
 
@@ -154,33 +182,39 @@ Claude looked at Gertie. "You think this possible?"
 
 "So how we gonna find out for sure?"
 
-Winthrop stroked his grizzled chin for a moment, and then stuck his index finger up in the air. "What about this? You
-know Hampton like to go in the bar and get a beer in the afternoon?"
+Winthrop stroked his grizzled chin for a moment, and then stuck his index
+finger up in the air. "What about this? You know Hampton like to go in the bar
+and get a beer in the afternoon?"
 
 "Yeah, he do."
 
-"Well, what if I have my girl go in and meet him there, and we can hang out in the back room and see what happen."
+"Well, what if I have my girl go in and meet him there, and we can hang out in
+the back room and see what happen."
 
 Claude nodded. "Yeah, that's a plan."
 
 Gertie gestured at the office window. "And speak of the devil."
 
-Hampton was meandering down the sidewalk on the opposite side of the street, earbuds on, singing something to himself.
+Hampton was meandering down the sidewalk on the opposite side of the street,
+earbuds on, singing something to himself.
 
-Winthrop told Claude and Gertie, "Get yoselves in the back room, and I call Hampton in."
+Winthrop told Claude and Gertie, "Get yoselves in the back room, and I call
+Hampton in."
 
 Claude said, "Yeah, why not? Come on, Gertie."
 
-Once they were out of the main room, Winthrop got up, opened the door of the office, and called across the street to Hampton.
+Once they were out of the main room, Winthrop got up, opened the door of the
+office, and called across the street to Hampton.
 
 "Yo Hampton, what up? Come on in and relax for a bit."
 
-Hampton looked puzzled, but nevertheless walked across the street and into the office.
+Hampton looked puzzled, but nevertheless walked across the street and into the
+office.
 
 Winthrop told him, "Take a seat, son," and sat back down himself.
 
-He looked at Hampton with the most concern he could muster, and asked, "Now you know, I always got your best interest at
-heart?"
+He looked at Hampton with the most concern he could muster, and asked, "Now you
+know, I always got your best interest at heart?"
 
 "Yeah, for a pimp, you alright!"
 
@@ -200,38 +234,45 @@ Winthrop's eyes widened, and he nodded.
 
 "Yeah, you know damned-well I got a daughter."
 
-"You gotta keep her close at home. Otherwise some rounder come along and knock her up."
+"You gotta keep her close at home. Otherwise some rounder come along and knock
+her up."
 
 The office door opened, and Thaddeus and Alastair re-entered.
 
 Thaddeus said, "Yo, Hampton, we been looking all over town for you."
 
-Alastair looked at Winthrop and said, "Hey Winthrop, we gotta have a word with our boy here. You alright leaving us alone
-for a bit?"
+Alastair looked at Winthrop and said, "Hey Winthrop, we gotta have a word with
+our boy here. You alright leaving us alone for a bit?"
 
-"Sure nuff." Winhtrop leaned in close to Alastair, whispering, "He gone a bit crazy. But be careful: he crazy like a
-fox." He then walked out of the office.
+"Sure nuff." Winhtrop leaned in close to Alastair, whispering, "He gone a bit
+crazy. But be careful: he crazy like a fox." He then walked out of the office.
 
-Thaddeus and Alastair remained standing in front of Hampton. He asked them, "What up, my brothers?"
+Thaddeus and Alastair remained standing in front of Hampton. He asked them,
+"What up, my brothers?"
 
 Thaddeus answered, "Yeah, we doing OK. Not too up and not too down."
 
-Alastair added, "We ain't on the top of the world, but we ain't on the bottom neither."
+Alastair added, "We ain't on the top of the world, but we ain't on the bottom
+neither."
 
-Hampton asked them, "So when it comes to lady luck, y'all all kind of right in the middle?"
+Hampton asked them, "So when it comes to lady luck, y'all all kind of right in
+the middle?"
 
-Thaddeus and Alastair both laugh, and Alastair answered, "Yeah, that us, stuck right in her privates!"
+Thaddeus and Alastair both laugh, and Alastair answered, "Yeah, that us, stuck
+right in her privates!"
 
 "So what brings y'all here?"
 
 Thaddeus answered, "We just come to see you, see how you doing."
 
-Hampton shook his head to express his disappointment:
-"Yo, don't give me no bullshit: you was sent for, wasn't you?"
+Hampton shook his head to express his disappointment: "Yo, don't give me no
+bullshit: you was sent for, wasn't you?"
 
-Thaddeus and Alastair both looked sheepish. Thaddeus asked, "What you want us to say?"
+Thaddeus and Alastair both looked sheepish. Thaddeus asked, "What you want us
+to say?"
 
-"I guess you could go on and say anything you want, just so long as it ain't the truth."
+"I guess you could go on and say anything you want, just so long as it ain't
+the truth."
 
 Hampton's friends squirmed about uneasily.
 
@@ -239,55 +280,67 @@ Hampton's friends squirmed about uneasily.
 
 Alastair admitted, "Yeah, he did."
 
-Hampton stood up. "And I'm gonna tell you why. That way, you ain't gotta be betray no pledge you give Claude not to
-tell me why y'all here. You here because I ain't been myself of late. What a piece of work y'all are!"
+Hampton stood up. "And I'm gonna tell you why. That way, you ain't gotta be
+betray no pledge you give Claude not to tell me why y'all here. You here
+because I ain't been myself of late. What a piece of work y'all are!"
 
-Thaddeus shook his head. "Maybe them Spiritual Gospel Singers your uncle hired could cheer you up."
+Thaddeus shook his head. "Maybe them Spiritual Gospel Singers your uncle hired
+could cheer you up."
 
 "He hired some gospel singers? My uncle?"
 
-Alastair answered, "Yeah, he hired some big-ass group from up Columbia way, and he havin' them put on a free program tonight,
-over at Rome Baptist Church. I think he's trying to get in good with the locals since he took over fror yo' daddy. In
-fact, their tour bus come into town just before we got here, and I think their manager is due by the office any minute
-now."
+Alastair answered, "Yeah, he hired some big-ass group from up Columbia way, and
+he havin' them put on a free program tonight, over at Rome Baptist Church. I
+think he's trying to get in good with the locals since he took over fror yo'
+daddy. In fact, their tour bus come into town just before we got here, and I
+think their manager is due by the office any minute now."
 
-As though on command, the door to the office swung open right at that moment, and Norbert Doubleton, the manager of the group, entered the room.
+As though on command, the door to the office swung open right at that moment,
+and Norbert Doubleton, the manager of the group, entered the room.
 
-"How y'all doing? My group gonna perform tonight, and I'm looking for Mr. Claude Shepherd. He around?"
+"How y'all doing? My group gonna perform tonight, and I'm looking for Mr.
+Claude Shepherd. He around?"
 
-Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't here at the moment, but I'd like a word. Oh,
-and these here are my old friends Thad and Al, come all the way down from Clemson to see how I'm doing."
+Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't
+here at the moment, but I'd like a word. Oh, and these here are my old friends
+Thad and Al, come all the way down from Clemson to see how I'm doing."
 
 Everyone shook hands with Norbert, and Hampton motioned for him to have a seat.
 
-"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of private like. So whachoo say we meet up a
-little later at Elsie's and grab a beer?"
+"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of
+private like. So whachoo say we meet up a little later at Elsie's and grab a
+beer?"
 
-Thaddeus and Alastair rose from their seats. Thaddeus said, "Sure thing, brother, what time you be there?"
+Thaddeus and Alastair rose from their seats. Thaddeus said, "Sure thing,
+brother, what time you be there?"
 
 "Probably 'round three o'clock."
 
 "OK, we see you then."
 
-They walked out of the office, leaving Hampton and Norbert alone. Hampton leaned forward towards Norbert and, sotto voce,
-said "My man, I need you to do me a real big favor. And whatever my uncle is paying you, I'll add that much again if you
-can do this for me."
+They walked out of the office, leaving Hampton and Norbert alone. Hampton
+leaned forward towards Norbert and, sotto voce, said "My man, I need you to do
+me a real big favor. And whatever my uncle is paying you, I'll add that much
+again if you can do this for me."
 
 "Now wait just a second, I don't wanna be doing nothing untoward!"
 
-"No, nothing like that at all. All Imma ask you is to add one song tonight, one that I'll write up for you. I
-can rehearse it with you right before the program."
+"No, nothing like that at all. All Imma ask you is to add one song tonight, one
+that I'll write up for you. I can rehearse it with you right before the
+program."
 
 "You know, we don't perform no secular music, OK?"
 
 "This gonna be a Bible-based song. It gonna be about Cain and Abel."
 
-"Well that sounds just fine then. The program start at seven PM tonight -- though of course that seven CPT --
-and we gonna be setting up by around six. So you
-come by between six and seven, and teach us your song, and we be happy to add it."
+"Well that sounds just fine then. The program start at seven PM tonight --
+though of course that seven CPT -- and we gonna be setting up by around six. So
+you come by between six and seven, and teach us your song, and we be happy to
+add it."
 
 "All right Mr. Doubleton, we got us a deal."
 
-Hampton and Norbert both rose from their seats, and shook hands. As they walked out of the office and onto the sunlit sidewalk,
-Norbert said, "Tell your uncle Claude we over at the church by six."
+Hampton and Norbert both rose from their seats, and shook hands. As they walked
+out of the office and onto the sunlit sidewalk, Norbert said, "Tell your uncle
+Claude we over at the church by six."
 
