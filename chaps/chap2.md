@@ -67,7 +67,7 @@ so complete that aesthetic problems were not even visible. The walls needed a
 new coat of paint and the floor was scuffed up linoleum. The furniture was a
 couple of old desks that had been bought at a secondhand store, and one longer
 "conference" table that could be folded up if needed and brought to a church
-dinner for use as a serving table. 
+dinner to use as a serving table. 
 
 Claude and Gertie were seated at one side of that table, and they were meeting
 with Thaddeus Stevens and Alastair McIntyre who sat on the other. Claude
@@ -77,15 +77,14 @@ and he actin' as crazy as an outhouse rat. So we gotta figure out what wrong
 with him."
 
 Gertie added, "He talk about y'all all the time, and we know he listen to you.
-So maybe you can help us out here, and figure out what goin' on with him?"
+So maybe you can help us out here?"
 
-Thaddeus held his arms open wide. "Hey, we ready to help you out, however we
+Thaddeus held his arms open wide. "Hey, we ready to help, however we
 can."
 
 Alastair said, "Yeah, what Thaddeus said!"
 
-Gertie added, "We do appreciate you goin' see him as soon as you can. We gotta
-know what gone wrong with my boy."
+Gertie added, "We do appreciate you goin' see him as soon as you can."
 
 As Thaddeus and Alastair were leaving the office, they met Winthrop on his way
 in.
@@ -114,7 +113,7 @@ Boucher family up there looking weak, with stupid shit like car jackings and
 what not getting out of hand. He thinkin' it time to bring some order to that
 mess."
 
-Claude told them "Boys, you done a fine job. You all come by Elsie's tonight,
+Claude told them "Boys, you done good. You all come by Elsie's tonight,
 and the drinks are on me."
 
 Corny and Claude both mumbled their thanks and left.
@@ -123,15 +122,15 @@ Corny and Claude both mumbled their thanks and left.
 
 "Yes sir, well, I mean to get right to the point here. Ain't no sense beating
 around the bush, and making a whole speech when a few words will suffice.
-Rambling on but saying nothing be a foolish waste of time. And y'all busy
+Ramblin' on but saying nothing be a foolish waste of time. And y'all busy
 people so I surely don't wanna waste your time."
 
 Gertie turned her head at a 45° angle and stared at Winthrop. "Right, so maybe
-you gonna get to the point sometime today."
+you should get to the point sometime today."
 
 "The point is exactly what I'm getting to, and I don't mean to delay getting
-there one little bit longer. Because dealing with such important folk as y'all,
-a man gotta be brief. And I could go on and on saying nothing with a whole lot
+there one little bit longer. Because in dealins with such important folk as y'all,
+a man gotta be brief. And I could go on and on sayin' nothin' with a whole lot
 of words, but that ain't my way."
 
 Claude put his head in his hand for a moment, then looked up at Winthrop and
@@ -149,15 +148,18 @@ this text that he done sent her."
 Winthrop took his smartphone out of his pocket and lifted it with a flourish
 before his face. He cleared his throat, and began reading:
 
-"You know you like heaven to me, the most beautiful woman I ever seen, and I
-just wanna lay my head on your ebony breasts..." 
+"You know you like heaven to me,   
+the most beautiful woman I ever seen,   
+and I just wanna lay my head on your ebony breasts..." 
 
 Gertie asked, "Is there more like that?"
 
 "Yeah, he wrote her some rap lyrics or something:
 
-"My love burns like a flaming star Brighter than the sun at noon I ain't
-lying about what you are You're the notes that make my tune"
+"My love burns like a flaming star   
+Brighter than the sun at noon   
+I ain't lying about what you are   
+You're the notes that make my tune"
 
 Claude asked him, "So what she doing about all this?"
 
@@ -176,19 +178,20 @@ him no mind. Cause, you know, the whole thing don't make no sense. But he
 apparently takin' her rejection pretty hard, and I do believe that why he
 actin' so strange."
 
-Claude looked at Gertie. "You think this possible?"
+Claude looked at Gertie. "You think this is possible?"
 
-"Yeah, the boy always got his damn head in the clouds."
+"Yeah, the boy always got his damn head in the clouds, fulla romance and
+whatnot."
 
 "So how we gonna find out for sure?"
 
 Winthrop stroked his grizzled chin for a moment, and then stuck his index
-finger up in the air. "What about this? You know Hampton like to go in the bar
-and get a beer in the afternoon?"
+finger up in the air. "What about this? You know how Hampton like to go down the
+bar and drink a beer in the afternoon?"
 
 "Yeah, he do."
 
-"Well, what if I have my girl go in and meet him there, and we can hang out in
+"Well, what if I have my girl go in and meet him there, and we can hang in
 the back room and see what happen."
 
 Claude nodded. "Yeah, that's a plan."
@@ -198,7 +201,7 @@ Gertie gestured at the office window. "And speak of the devil."
 Hampton was meandering down the sidewalk on the opposite side of the street,
 earbuds on, singing something to himself.
 
-Winthrop told Claude and Gertie, "Get yoselves in the back room, and I call
+Winthrop told Claude and Gertie, "Get yoselves in the back room, and Imma call
 Hampton in."
 
 Claude said, "Yeah, why not? Come on, Gertie."
@@ -206,7 +209,8 @@ Claude said, "Yeah, why not? Come on, Gertie."
 Once they were out of the main room, Winthrop got up, opened the door of the
 office, and called across the street to Hampton.
 
-"Yo Hampton, what up? Come on in and relax for a bit."
+"Yo Hampton, what up? You got a minute?." Winthrop waved/pointed toward the
+office.
 
 Hampton looked puzzled, but nevertheless walked across the street and into the
 office.
@@ -230,14 +234,16 @@ know, I always got your best interest at heart?"
 
 "Ain't you got a daughter?"
 
-Winthrop's eyes widened, and he nodded.
+Winthrop's eyes widened, and he nodded nervously, his eyes scanning the room as
+though noting the exits.
 
 "Yeah, you know damned-well I got a daughter."
 
-"You gotta keep her close at home. Otherwise some rounder come along and knock
+"You keep her close at home. Otherwise some rounder come along and knock
 her up."
 
-The office door opened, and Thaddeus and Alastair re-entered.
+As Winhtrop attempted to mumble out something that might pass as a cogent
+response, the office door opened, and Thaddeus and Alastair re-entered.
 
 Thaddeus said, "Yo, Hampton, we been looking all over town for you."
 
@@ -266,7 +272,7 @@ right in her privates!"
 Thaddeus answered, "We just come to see you, see how you doing."
 
 Hampton shook his head to express his disappointment: "Yo, don't give me no
-bullshit: you was sent for, wasn't you?"
+bullshit: you was sent for, right?"
 
 Thaddeus and Alastair both looked sheepish. Thaddeus asked, "What you want us
 to say?"
@@ -274,7 +280,8 @@ to say?"
 "I guess you could go on and say anything you want, just so long as it ain't
 the truth."
 
-Hampton's friends squirmed about uneasily.
+Hampton's friends squirmed about uneasily, like catawba worms on the end of a
+fish hook.
 
 "Y'all terrible liars. I know Claude done called you here."
 
@@ -291,7 +298,7 @@ could cheer you up."
 
 Alastair answered, "Yeah, he hired some big-ass group from up Columbia way, and
 he havin' them put on a free program tonight, over at Rome Baptist Church. I
-think he's trying to get in good with the locals since he took over fror yo'
+think he's tryin' to get in good with the locals since he took over for yo'
 daddy. In fact, their tour bus come into town just before we got here, and I
 think their manager is due by the office any minute now."
 
@@ -307,7 +314,7 @@ Thad and Al, come all the way down from Clemson to see how I'm doing."
 
 Everyone shook hands with Norbert, and Hampton motioned for him to have a seat.
 
-"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kind of
+"Listen, Thad, Al, I'd like to have a word with Mr. Doubleton here kinda
 private like. So whachoo say we meet up a little later at Elsie's and grab a
 beer?"
 
