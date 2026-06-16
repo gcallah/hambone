@@ -148,17 +148,17 @@ this text that he done sent her."
 Winthrop took his smartphone out of his pocket and lifted it with a flourish
 before his face. He cleared his throat, and began reading:
 
-"You know you like heaven to me,   
-the most beautiful woman I ever seen,   
+"You know you like heaven to me,  
+the most beautiful woman I ever seen,  
 and I just wanna lay my head on your ebony breasts..." 
 
 Gertie asked, "Is there more like that?"
 
 "Yeah, he wrote her some rap lyrics or something:
 
-"My love burns like a flaming star   
-Brighter than the sun at noon   
-I ain't lying about what you are   
+"My love burns like a flaming star  
+Brighter than the sun at noon  
+I ain't lying about what you are  
 You're the notes that make my tune"
 
 Claude asked him, "So what she doing about all this?"
@@ -303,10 +303,11 @@ daddy. In fact, their tour bus come into town just before we got here, and I
 think their manager is due by the office any minute now."
 
 As though on command, the door to the office swung open right at that moment,
-and Norbert Doubleton, the manager of the group, entered the room.
+and a bearded, older black man, dressed in a scarlet suit with a pink shirt and
+burgundy tie, entered the room.
 
-"How y'all doing? My group gonna perform tonight, and I'm looking for Mr.
-Claude Shepherd. He around?"
+"How y'all doing? I'm Norbert Doubleton. My group gonna perform tonight, and
+I'm looking for Mr. Claude Shepherd. He around?"
 
 Hampton stood up. "Pleased to meet you. I'm Hampton Shepherd. My uncle ain't
 here at the moment, but I'd like a word. Oh, and these here are my old friends
@@ -330,7 +331,7 @@ leaned forward towards Norbert and, sotto voce, said "My man, I need you to do
 me a real big favor. And whatever my uncle is paying you, I'll add that much
 again if you can do this for me."
 
-"Now wait just a second, I don't wanna be doing nothing untoward!"
+"Now wait just a second, I don't wanna be doing nothing unrighteous!"
 
 "No, nothing like that at all. All Imma ask you is to add one song tonight, one
 that I'll write up for you. I can rehearse it with you right before the
