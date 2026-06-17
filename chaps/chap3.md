@@ -158,9 +158,9 @@ it."
 Norbert began reading aloud:
 
 "Cain so jealous of his closest kin   
-Rose up against him, did him in   
-The Lord called out this dreadful sin   
-Said, 'Cain you cursed now [????]"
+Killed him dead, then the Lord come round
+He said, "Abel's blood calls out your sin   
+'Cain, you cursed now from the ground"
 
 At that point, Hampton interrupted the reading: "Now, when y'all get to the
 line about 'Could not allow that kin to live,' the music gotta stop, so that
@@ -422,7 +422,7 @@ the bar. On their way out, they passed Winthrop on his way in.
 Winthrop seated himself at Claude's table. Sotto voce, he told Claude, "I think
 Hampton goin' over to Gertie's place now."
 
-Claude responded, "OK, and what that got to do with me?"
+Claude responded, "OK, and what's that got to do with me?"
 
 Winthrop answered, "Well, ain't nobody better than a mother to draw the truth
 outta her son."
@@ -432,7 +432,7 @@ outta her son."
 "I think what I'm gonna do is make my way over there and see if I can hear what
 he telling her. Then Imma report back to you."
 
-"Winnie, I do appreciate you doing that for me, and I ain't gonna it."
+"Winnie, I do appreciate you doing that for me, and I ain't gonna forget it."
 
 Winthrop got up and walked out of the bar. Left by himself, Claude ordered a
 double scotch, and drank it while staring vacantly at the neon moon of the
@@ -442,10 +442,10 @@ bar's window lights.
 ## 4.
 
 Gertie lived in one of those elegant antebellum homes at the north end of town,
-which she had shared with her husband until his recent demise. She was sitting
-on the couch in her living room, watching a romance movie on Netflix while
-sipping a gin and tonic, when Hampton walked up onto the wraparound porch and
-knocked on the front door.
+which she had shared with her husband until his recent passing. She was sitting
+in her housedress on the couch in her living room, watching a romance movie on
+Netflix while sipping a gin and tonic, when Hampton walked up onto the
+wraparound porch and knocked on the front door.
 
 Gertie rose from the couch and peered out through the intricate leaded-glass
 window of the front door to see who was there. Then she opened the door, and
@@ -453,14 +453,14 @@ said "Hampton! What you doin' here at this hour?"
 
 "Mama, I hear you wanna talk."
 
-"Well then come in. Sit yoself down."
+"Well then come in. Sit yo'self down."
 
 She motioned him to sit in the leather recliner next to the couch, and sat back
 down herself.
 
 "So what up with you, son?"
 
-"For one, I wanna know why you keep lookin' at me like I's crazy."
+"First off, I wanna know why you keep lookin' at me like I's crazy."
 
 "Well, you givin' offense to your daddy's memory, for one."
 
@@ -480,10 +480,10 @@ next to the window, and knocked the silver tea service it had hosted onto the
 floor, producing a great clatter.
 
 Hampton jumped up out of his chair, and grabbing the handgun he knew Gertie
-kept in the drawer of her sidetable, cried, "Mama, we got an intruder!"
+kept in the drawer of her sidetable, whispered, "Mama, we got an intruder!"
 
 He raced across the entrance hall and, seeing a figure silhouetted in the
-window of the darkened dining room, fired two shots.
+window of the darkened dining room, hissed out a name, and then fired two shots.
 
 Winthrop cried out, "Hampton, you done shot me," and collapsed onto the floor.
 
@@ -495,7 +495,7 @@ both see who lay on the floor.
 
 "Hampton, you done shot Winthrop!"
 
-Hampton said, "What that interferin' old fool doing crawlin' in through yo
+Hampton said, "What that interferin' old fool doing crawlin' in through yo'
 window?"
 
 "I don't know, but it don't mean you get to shoot him dead!"
@@ -508,7 +508,7 @@ cell phone and called him.
 She listened for a moment, and then repeated "Just get over here."
 
 When she had put her phone back in her dress pocket, Hampton asked, "Mama, why
-don't we just say we thought we had us an intruder, and so I shot him."
+don't we just call the police and say we had us an intruder, and I shot him."
 
 "Son, people know you've been acting all crazy lately. They know you done fell
 for his daughter, and he was standin' in your way. You gonna have a hard time
@@ -529,7 +529,7 @@ Claude looked at them in disbelief. "How the hell that happen?"
 Hampton replied, "The old idiot was climbin' in through the dining room window.
 I thought he was some burglar."
 
-Claude kicked a footstool halfway across the room. "Dammit boy, ain't there no
+Claude kicked a footstool halfway across the room. "Damnit boy, ain't there no
 end to the trouble you aim to cause this family?" he stared up at the ceiling
 for several seconds, and then said, "Show me the body."
 
@@ -545,13 +545,13 @@ somethin'?"
 "You don't believe me, you go check him out for yo'self."
 
 Claude walked over to the body, crouched down, and put his fingers on
-Winthrop's neck. "Yeah, he dead all right."
+Winthrop's neck. "Yeah, he's dead all right."
 
 He rose back up, and, looking at Gertie, said, "Get me a whiskey. I gotta think
 for a minute." He walked back into the living room and sat on the couch.
 
 Gertie went down the central hallway to the kitchen in the back, and came back
-a minute later with a glass of whiskey in one hand, and a bottle of Johnny
+a minute later with a glass of brown liquid in one hand, and a bottle of Johnny
 Walker Black in the other. Claude gulped down his drink, and, raising the glass
 towards Gertie, said, "Another."
 
@@ -570,7 +570,7 @@ after the gospel program. Now git."
 
 "But..."
 
-"No you don't say nothin', you just do what I tell you."
+"No you don't say nothin', you just do what I say, boy."
 
 Reluctantly, Hampton turned and walked out the front door.
 
@@ -580,15 +580,14 @@ Gertie looked hesitantly at Claude. "I gotta tell you somethin'."
 
 "Just before Hampton fired...
 
-"Yes?"
+"Yeah?"
 
 "I heard him say yo' name."
 
-"Did he now?" Claude took his phone out of his pocket, and called a name from
-his contact list. "Sheriff Joyce, it Claude Shepherd here. There's been a
+"Did he now?" Claude took his phone out of his pocket, and punched a name in
+his contact list. "Sheriff Joyce, Claude Shepherd here. There's been a
 terrible accident up at Gertie's place. Can you come over right now?"
 
 He put his phone back in his pocket, and said to Gertie, "Everything gonna be
 all right."
-
 
