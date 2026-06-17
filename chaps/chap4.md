@@ -307,12 +307,12 @@ walked out of the park and back to the main highway.
 ## 4.
 
 Claude was sitting at his desk in the real estate office on Sunday afternoon.
-He had grown increasingly agitated, as his attempts to contact Thaddeus
-and Alastair had been in vain. He selected Thaddeus's number on his phone one
+He had grown increasingly agitated, as each of his attempts to contact Thaddeus
+and Alastair had failed. He selected Thaddeus's number on his phone one
 more time, only to hear it go immediately to voicemail once again.
 
 He got up and began to pace the floor. As he did so the door to the office flew
-open like a hurricane had blown up from Charleston. Claude backed towards his
+open like a hurricane had blown up from the coast. Claude backed towards his
 desk, hoping to reach the drawer that held his gun. Ambrose, the cause of the
 hurricane, yelled "Don't even think about it!" while pointing a pistol at
 Claude.
@@ -380,7 +380,7 @@ Columbia itself.
 After he crossed the bridge, he took out his cell phone and called Hiram. After
 a couple of rings, Hiram picked up, and said, "Hampton, what up?"
 
-"I really need yo' help. I'm in some deep shit. Where you at?"
+"I really need your help. I'm in some deep shit. Where you at?"
 
 "At my apartment. Where are you?"
 
@@ -461,7 +461,7 @@ do?"
 
 "No, I just wanna confront Claude at the fellowship dinner, in front of the
 whole congregation, and get him to admit he killed my daddy. At least I can
-save my mama from marryin' him. Then, I don't care what gonna happen to me."
+save my mama from marryin' him. Then, I don't care what's gonna happen to me."
 
 Hiram felt silent until they reached the door to his building. He unlocked it,
 and then turn to Hampton and said, "I gonna do what I can to help you, but I
@@ -505,16 +505,22 @@ Camellia, realizing for the first time that Ambrose was in the bar, said
 "Daddy! Daddy!" she said, throwing her hands up over her head. She began
 singing while performing a half-hearted dance.
 
-"Papa was a rollin' stone He got shot not far from home And when he died All
-I needed was a bone" 
+"Papa was a rollin' stone   
+He got shot not far from home   
+And when he died   
+All I needed was a bone" 
 
 "Camellia, I all broke up that daddy gone too. But you ain't right. You oughta
 go home and sleep it off."
 
 Camellia again launched into song.
 
-"I'm comin' home I'm comin' home Tell the world I'm comin' home Let the rain
-wash away All the pains of yesterday" 
+"I'm comin' home   
+I'm comin' home   
+Tell the world   
+I'm comin' home   
+Let the rain wash away   
+All the pains of yesterday" 
 
 Ambrose put his arm around her shoulder. "Sis, don't home sound like a great
 idea? I get someone to give you a ride, and you can go get some rest."
@@ -524,7 +530,9 @@ idea? I get someone to give you a ride, and you can go get some rest."
 She pulled away from her brother, and, pretending she had a microphone, sang,
 with exaggerated pathos:
 
-"Patches I'm depending on you son To pull the family through I'm sorry son
+"Patches I'm depending on you son   
+To pull the family through   
+I'm sorry son   
 It's left up to you" 
 
 "Yeah, you puttin' on a great show, sis. What would daddy say if he could see
@@ -535,9 +543,15 @@ nothin'."
 
 Now Camellia began rapping:
 
-"Every step I take Every move I make Every single day, every time I pray
-I'll be missing you Thinkin' of the day When you went away What a life to
-take, what a bond to break I'll be missing you" 
+"Every step I take   
+Every move I make   
+Every single day, every time I pray
+I'll be missing you   
+Thinkin' of the day   
+When you went away   
+What a life to take,   
+what a bond to break   
+I'll be missing you" 
 
 When she finished, she turned and ran out of the bar. Ambrose began to follow
 her, but Homer got up from his seat and cut him off. "Ambrose, just let her go.
