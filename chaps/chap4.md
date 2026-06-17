@@ -92,9 +92,9 @@ Alastair shook his head like he was trying to shoo away a horse fly. "OK, but
 why would he do *that*?"
 
 "Why? Why the boy be jealous that I'm gonna run the family businesses. He think
-that since Will was his daddy, it only natural that he be put in charge. But
-the boy, too young, too inexperienced, and way too reckless. Him being in
-charge would be the ruin of alla us."
+that since Will was his daddy, it's only natural that he be put in charge. But
+the boy, he too young, too inexperienced, and way too reckless. Him being in
+charge would be the ruin of us all."
 
 Claude paused, and looked meaningfully at Thaddeus and Alastair. Once he judged
 that they had absorbed the first part of his pitch, he continued.
@@ -122,9 +122,9 @@ Alastair said, "Yeah, we could do that."
 Claude shook his head. "But that ain't gonna solve our problem. Unfortunately,
 behavin' the way he is, the boy gotta go."
 
-Thaddeus's eyes shot open wide, and he said, "But he's our friend!"
+Thaddeus's eyes shot open wide, and he said, "But he's our brother!"
 
-"I know, and he my nephew, and we all love him. But like I said, sometimes a
+"I know, and he's my nephew, and we all love him. But like I said, sometimes a
 part gotta be sacrificed for the good of the whole. And this here one of those
 times. Now, is you boys part of this team, or ain't you?"
 
@@ -134,7 +134,7 @@ Both of his interlocutors mumbled that of course they were part of the team.
 first thing in the morning. He already expectin' you to be drivin' him up to
 Clemson. But along the way, you'll be passin' Sumter Forest. One a you gonna
 tell him that you got a school biology project or some such nonsense, and you
-gotta do somethin' for some class project. And it's just gonna be a quick
+gotta do somethin' for that project. And it's just gonna be a quick
 detour."
 
 "Once y'all in the park, head over to Lick Fork Lake. They have a park map at
@@ -189,10 +189,11 @@ As Thaddeus drove the two blocks north on Carolina Highway, Alastair explained
 that he had to get some lake samples for his biology class, so they'd be making
 a short detour on the way north. Thaddeus turned left on Heritage Highway.
 They passed the Amtrak station and were soon out in open countryside. The
-fields that would host corn and soybeans in the summer were now lying fallow,
-but occasionally they would pass a green field of collards or turnips or
-onions. Other fields held grazing cows, and every once in a while, behind a
-high white fence, they saw horses traversing a stately southern estate.
+fields that would host cotton and corn and soybeans in the summer were now
+lying fallow, but occasionally they would pass a green field of collards or
+turnips or onions. Other fields held grazing cows, and every once in a while,
+behind a high white fence, they saw horses traversing a stately southern
+plantation.
 
 Hampton had been drowsy, staring out the window, but he suddenly became
 animated. "I ever tell you two about the three-legged pig I saw up this way?"
@@ -223,7 +224,7 @@ havin' a blessed day."
 
 "'This here pig is one special animal. For instance, one day me and my missus
 was workin' in one of the upper fields. Junior somehow got out of the house,
-and went and fell down that well over yonder. We had no idea, and the boy
+and he went and fell down that well over yonder. We had no idea, and the boy
 might've died down there, but this here pig run up to us where we was workin',
 squealin' like he was bein' barbecued, until we followed him down to the well.
 So he mighta saved junior's life.'"
@@ -306,8 +307,8 @@ walked out of the park and back to the main highway.
 ## 4.
 
 Claude was sitting at his desk in the real estate office on Sunday afternoon.
-He had grown increasingly agitated, as his attempts to contact either Thaddeus
-or Alastair had been in vain. He selected Thaddeus's number on his phone one
+He had grown increasingly agitated, as his attempts to contact Thaddeus
+and Alastair had been in vain. He selected Thaddeus's number on his phone one
 more time, only to hear it go immediately to voicemail once again.
 
 He got up and began to pace the floor. As he did so the door to the office flew
