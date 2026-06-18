@@ -39,7 +39,7 @@ Hampton did as Hiram recommended. He drifted into the head shop on the corner,
 the business with the Bob Marley mural on its outside wall. He wandered the
 store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and
 bongs. A young white lady with dreadlocks and multiple piercings, wearing a
-shirt  sat behind
+bandana and a "From the river to the sea" t-shirt sat behind
 the cash register fiddling with her smart phone. After a few minutes, she stood
 up and asked him "Is there something you're looking for?"
 
@@ -56,19 +56,20 @@ The girl looked at Hampton with distaste. "We try not to be so judgmental here,
 you know. But if I can help you find something, just say so." She sat back
 down, and resumed scrolling around on her phone.
 
-Hampton left the shop and went across the street and into a small bookstore.
-
-[what books does he see?]
+Hampton left the shop and went across the street and into "All Good Books."
+He picked up a few books with titles that struck him as interesting: *The
+Dispossessed*. *Chain Gang All Stars*. *None of This Is True*. Why would anyone
+want to read a book of all lies?
 
 After a few minutes he left the store and walked up Devine Street. When he
 reached Queen Street he turned left, and wandered aimlessly through blocks of
 antebellum houses until he was exhausted enough to dull the edge of his grief.
 
 When he arrived back in Five Points, the neighborhood had come alive with some
-strange sort of happening: by a large fountain, a five-piece band was playing
+strange happening: by a large fountain, a five-piece band was playing
 what he thought of as hippie music. A crowd was gathered around the musicians,
 some of the audience merely watching and listening, but many others writhing
-around in some weird dance that involved wiggling their arms around a good bit.
+around in some weird dance that involved wiggling their arms a good bit.
 Many of those dancing, and many of those not, wore tie-dye T-shirts, and often
 there were images of skulls and skeletons on those shirts.
 
@@ -101,7 +102,7 @@ Hiram put away his phone in his pocket, and asked Hampton, "How you doing?"
 
 "Bout as well as could be expected. Who was you talkin' to?"
 
-"Oh, jes one of my classmates: we doin' a presentation this week."
+"Oh, just one of my classmates: we doin' a presentation this week."
 
 Hampton nodded. "You done with class for the day?"
 
@@ -113,7 +114,6 @@ Hampton nodded. "You done with class for the day?"
 
 The two old friends left the apartment, and drank at the Salty Nut Café for
 several hours before staggering back to Hiram's apartment.
-
 
 
 ## 2.
@@ -144,7 +144,7 @@ the hell is this?"
 
 Hampton said, "That's right, Ambrose: Claude no doubt told you that I was dead
 by now." Hampton turned and stared at his mother. "Mama, did you know your new
-'boyfriend' ordered the killin' of your son? And what's more, he the one who
+'boyfriend' ordered the killin' of your son? And what's more, he's the one who
 killed your husband too."
 
 With that, Hampton pulled out a pistol, and pointed it at Claude's head. "My
@@ -214,24 +214,26 @@ Forrest asked, "Hey, where'd you find that guy who looked so much like
 Hampton's daddy?"
 
 "I just ran into him one day over in Bamberg. When I saw him, I couldn't
-believe how much he looked like ole Will. So I gave him a couple hundred
+believe how much he resembled ole Will. So I gave him a couple hundred
 dollars to wander around in the street on a night I knew Hampton would be
 around, and plant the idea in his head that Claude had killed his daddy."
+
+"Did Claude kill his daddy?"
+
+"Hell if I know!"
+
+They both laughed.
 
 "But why you didn't just turn the evidence you had against the Shepherds over
 to the FBI? Why this whole plot with Hampton?"
 
-"We had to get him out of the way, and there weren't enough evidence of his
+"We had to get him out of the way, and there wasn't enough evidence of his
 involvement to be sure the FBI would arrest him. So I figured if I stirred
 things up a bit, he would do somethin' stupid, 'cause that's his way. I didn't
 know he would go off killin' folks, but I knew it would be somethin' dumb
 assed."
 
-"And *did* Claude kill Will?"
-
-"He mighta done. I really got no clue. But it worked out OK, didn't it?"
-
-"Sure did. But how did you get Claude to run out of that gospel program like
+"OK, but how did you get Claude to run out of that gospel program like
 that?"
 
 "A coupla sodium phosphate tablets -- them things they use to clear you out
@@ -243,5 +245,4 @@ gold teeth.
 "And how you come up with the idea for all this?"
 
 Now Hiram laughed. "You really can't figure it out?"
-
 
