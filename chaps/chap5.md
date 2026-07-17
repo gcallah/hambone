@@ -118,10 +118,6 @@ several hours before staggering back to Hiram's apartment.
 
 ## 2.
 
-Meanwhile, back in Denmark, Claude and Gertie were seated in her living room.
-
-[Scene with Claude and Gertie worrying about what had become of Thaddeus and
-Alastair.]
 
 ## 3.
 
