@@ -118,6 +118,294 @@ several hours before staggering back to Hiram's apartment.
 
 ## 2.
 
+Tuesday night, jittery with the anticipation of his confrontation in Denmark the
+following day, to get to sleep Hampton took a couple of Unisom, along with a
+couple of shots of Hiram's whiskey. As was often the case, sleeping under that
+sort of influence made his dreams especially vivid and strange. 
+
+*************
+
+Hampton is sitting in a row of seats in an almost completely dark room. Suddenly
+a spotlight kicks on, and he sees that Hiram is standing on the edge of a stage,
+a few rows in front of him. Hiram declaims, as if an old-timey actor, "Tonight
+we are presenting Hampton's life, parts one, two, and three. Just try not to be
+a dick, 'cause your errors ain't funny."
+
+He waves his arms as if casting a spell, and Hampton finds himself standing in
+the middle of Magnolia Avenue. Looking up through a light purple rain, he sees
+Camellia on the roof of Elsie's, singing down to him:
+
+Do you remember that hot summer’s day?  
+Go-in' to Finley Park, almost a date.  
+We took a ride in Ole Sikes' truck of hay,  
+Bouncin' all around like we was mere freight.  
+We was all tired so we did a few lines,  
+Blow we picked up from that old man Flynn;  
+Rockin' to the music, beneath the pines,  
+If we's havin' some fun, that mean we sin?  
+I'm not carin' if I don't make the grade  
+I'm not your thing, but you don't listen,  
+Ignore me, fine, but I ain't throwin' shade,  
+You can spit in the wind, just don't try pissin'.  
+    Long as I can breathe and my eyes can see,  
+    I love you still but Imma stay free.  
+
+As she finishes her song, three older women, in black, hooded capes, appear
+alongside her. They shout down to Hampton that their names are Revenge, Rape,
+and Murder. They drag Camellia back from the edge of the roof, and Hampton hears
+her cry for help as she disappears. He rushes through the door of the bar,
+aiming to get up on the roof to save her.
+
+But rather than the bar, Hampton find himself inside a circus tent.  Claude is
+in the center ring, dressed as a lion tamer and holding a whip and a chair. But
+instead of a lion, the animal he is trying to tame is a small rodent. When
+Hampton looks closer, he sees the creature has Gertie's face. But rather than
+becoming tamer, the rodent grows in size and then dances around the cage, first
+singing "My Sharona," then, "Don't Fear the Reaper." 
+
+The Gertie-rodent flaps her front paws as she prances about the ring. The paws
+gradually fan out, and violin rivers of gold dust trail behind them. They are
+the translucent, iridescent wings of a moth, and the moth lifts up in flight,
+pulling Hampton up with it. Up through a hole where the rain rushes in through
+the center of the calliope circus tent. Into splintered sunlight they rise.
+Angelic choir in the distance sings:
+
+O man, you sure done it now  
+Alastair Macquistador! You gonna be scraped outta  
+Gray pigstye for this. That cat, that holds  
+his Regex spinning on a letterbox, will be piped  
+through poppycock. In the ninth inning. A Macquistador,  
+but afraid to speak? Run away in shame, Alastair!  
+
+Hampton gradually found himself gently drifting down through myriad branches of
+snow-laden fir trees. Shimmering diamond flakes laid transient spider web
+paintings as though X-rays of the skeletons of the trees 
+
+Far off in the distance, he saw a wild cat on the prowl. As he began to trudge
+through the snow, he found Hiram by his side, whispering in his ear "You're
+being a dick for the second time."
+
+Hampton felt like an ass. What was he doing in this snowy forest anyway? He had
+to make like a hockey player and get the puck out of here!  He turned to Hiram
+to tell him as much, but his friend was vanishing, at last, leaving only his
+smile behind.
+
+There slowly emerged through the lacy filigree on the branches of the firs some
+sad, old men. 
+
+"We run this town," they told him in unison.
+
+"What town are you talking about? We're out in the middle of the woods." 
+
+"Is that what you think? Take a look around you."
+
+Hampton did so and saw that what a moment ago had been fir trees were now the
+pillars holding up the roof of a courtroom. The jury box held an assortment of
+lively creatures: 
+
+A white rabbit called him to stand up before the judge. Hampton was surprised to
+find that the judge was Claude. He was wearing a white wig like he was a judge
+in England or something, and he called Hampton to approach the bench more
+closely.
+
+Claude leaned forward and whispered to him, "My lack of mercy ain't strained by
+the thought of you gettin' the chair. Imma rain violence down on you two ways:
+one, right on your ass, and two, on anyone who take your side. Now you git on
+back to your seat."
+
+Upon returning to the defense table, Hampton found that Hiram was apparently his
+defense attorney. Hiram leaned over in his turn and said confidentially to
+Hampton, "This whole trial is a whole lotta fuss about nothin'."
+
+"You sure 'bout that?"
+
+Hiram nodded and continued:
+
+"Look, you ain't no hero. You look like a lion but you roar like a lamb. You
+wearin' that badge of bitterness like you think it a badge of honor. You a
+hollow man, and you change friends like you change hats."
+
+Hiram begins to laugh while repeatedly tilting his head back. But each time he
+does so, his laugh sounds more and more like a cackle, and his beak grows long
+and pointed. His dark skin becomes black feathers. He is a crow sitting on a
+tree in a graveyard. In the mist below the tree, a dog is barking up at that
+crow. 
+
+A shrouded figure moves through the tombstones, fleetingly illuminated when the
+full moon peeks out from behind the dark clouds. When the figure comes closer,
+Hampton realizes that it is his father. 
+
+"I need you to see something, my son."
+
+He takes off the cap he was wearing. Hampton sees that it was covering a pair of
+horns. His father lowers his head and charges at Hampton, horns first.
+
+Just as he is about to be gored, Hampton spins away, right back into the
+courtroom, where the jury is delivering its verdict. Instead of the foreman
+reading out the entire result, each juror stands and declares their own verdict.
+To Hampton's surprise, Hiram is no longer next to him as his attorney, but
+instead is standing in the jury box.  When the judge asked for Hiram's verdict,
+he replies, "Guilty!"
+
+Hampton looked at his friend with disbelief. "You too?"
+
+Claude bangs his gavel to bring order but then it is Maxwell's silver hammer,
+and it comes down upon Hampton's head. When he comes to, he is in an ancient
+jail cell. A Shriner Clown stands just beyond the bars, looking in at him.
+
+Hampton: This cell is *very* dark. 
+
+Clown: Whachoo sayin'? We in a church, and the Lord's light be pour-in' through
+the stained glass windows.
+
+Hampton: I am not mad. This cell is damned dark.
+
+Clown: If you think it be dark, maybe the dark is from your eyes? 
+
+Hampton: Man, you jes playin' me for ignorant. Ain't nobody never been abused
+like me. 
+
+Clown: What is the opinion of Beyoncé concerning ducks?
+
+Hampton: That the soul of my grandma might be a bird on the wing.
+
+Clown:  You think she right?
+
+Hampton: My grandma ain't no duck.
+
+Clown: Okay, you have it your way. You ain't got the sense God gave a duck *or*
+a goose, so you just stay in yo' dark cell.
+
+[The clown walks away, but in walks Norbert from the gospel group. ]
+
+Hampton: Norbert, whachoo you doin' here? 
+
+Norbert: I come to help you find your own voice, and bring the Word to the
+people. 
+
+Hampton reaches out to shake Norbert's hand, but Norbert slowly fades away. 
+
+A wagon follows behind, loaded with clay.
+
+And the seeds that were silent are burst into concernancy.
+
+Concerned that Hampton finds himself in the back seat of a 56 Chevy, speeding
+north along I26. Alastair and Thaddeus are in the front, discussing the weather.
+
+Alastair said, "Man, it is one hot, cold, sultry day!"
+
+Thaddeus added, "And clear and stormy!"
+
+They take the turn off for Arden, just a few miles south of Asheville. They pull
+up along the forested shores of Lake Julian, and stop the car. Simultaneously
+they turn to Hampton. "We gotta go piss," they say in unison.
+
+As the pair stand on the bank, peeing into the lake, Alastair says, "Man, this
+water cold."
+
+Thaddeus replies, "Yeah, and it deep too!"
+
+Two giant alligators lunge forward out of the mist-covered lake, grab the two
+men, and drag them beneath the coal black waters. Hampton assures himself that
+he could have done nothing to save them. But now their bodies will be left in
+the lake to rot and rot.
+
+Hampton climbs into the front seat of the car that the trio had arrived in, and
+turns the key in the ignition. The radio comes on as the car starts:
+
+The more my brother looks like me The less I understand This silent war That's
+bloodied both our hands
+
+As Hampton drives away from the lake, he passes, cavorting in the grassy verge: 
+
+- a spellbound Irish rat fleeing a bard, 
+- a management meeting of horses, 
+- a doe parading with her fawns
+- a three-legged hog, munching on a corn husk.
+
+The country road transforms into a major interstate. The sign says he is
+heading towards Augusta. He takes the exit for Windsor, and finds himself in
+the middle of a protest march. His progress is blocked, so he pulls over to
+the side of the road, parks, and gets out of his car. 
+
+He is curious what the protest is about. When he asks, he learns that the
+protesters are protesting against the leaders of the previous protest, which
+had been organized in opposition to the leaders of the previous, previous
+protest. 
+
+The protesters finally decide he is not a boomer, and they will let him
+pass. He gets back in his car.
+
+"All's well that ends well!"
+
+But as he tries to put the car into drive, the stick shift and steering
+wheel have vanished. Instead, there is a table before him, and chairs to his
+sides. The chairs are occupied by Claude and Gertie,  who are chatting,
+seemingly not aware that he is there.
+
+"What's that on your dress?" Claude asked. 
+
+"A spot of blood from when I cut my finger the other day. It just won't come
+out."
+
+Behind the bar, Agnes and Donna are stirring what appears to be a large jar
+of beer. Hampton walks over to the bar and asks them what they are making
+
+Agnes answers, "It's our winter's ale. A special recipe I learned up in
+Prosperity, where I grew up." 
+
+Hampton asked for a glass of the ale and then goes and sits at a table. He
+is surprised to see that Hiram was already sitting there without Hampton
+having noticed him.
+
+Hiram is looking at him and shaking his head woefully.  "Hampton, you a real
+dorkus." He pauses, and looks directly into Hampton's eyes.  Sotto voce he
+says, "You know Claude was yo' mama's lover way before your daddy died . You
+his bastard son."
+
+Outside, it looks as though a thunderstorm is coming.
+
+Hiram takes Hampton by the arm, and says, "Brother, let's go for a walk."
+
+But when they step outside the bar, they are in Sumter Forest. Hiram tells
+Hampton, "Let me show you this beautiful lake." But Hampton does not want to
+see it; the notion of going there feels just about like running a red light.
+
+As he wishes that Hiram would leave him alone, a black bear  charges out of
+the forest, seemingly focused on Hiram. Exit Hiram, pursued by a bear. 
+
+The storm has reached the forest: all the wind-whipped birds are winging
+home now.  Hampton is spun around and around by a gust of wind, and when the
+spinning stops, he finds himself in a lecture hall at USC, listening to
+Professor Callaban discoursing on "The Impact of the Discovery of the New
+World on European Culture."
+
+The lecture is interrupted by a piebald dancer, twerking behind the
+professor, singing:
+
+"I'm Henry the eighth I am Henry the Eighth, I am, I am I got married to the
+widow next door She's been married seven times before And every one of them
+was Henry Henry!"
+
+And then Hampton sees that Hiram is in the lecture hall seat next to him.
+Hiram asks him, "Ain't we just two noble kin?"
+
+He then began to chuckle and chuckle. But his laughter grew increasingly
+unsettling, and his mouth opened wider and wider, as if he were about to
+swallow Hampton. The huge mouth became a tunnel, and Hampton felt himself
+free-falling down an immense darkness. 
+
+*************
+
+Hampton jolted awake, and realized that he was on Hiram's couch. Hiram was
+sitting in an armchair a few feet away, staring at him.
+
+"Brother, it's yo' big day. Time to wakey-wakey!"
+
+
+
+
+
 
 ## 3.
 
