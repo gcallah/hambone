@@ -151,14 +151,14 @@ You can spit in the wind, just don't try pissin'.
     I love you still but Imma stay free.  
 
 As she finishes her song, three older women, in black, hooded capes, appear
-alongside her. They shout down to Hampton that their names are Revenge, Rape,
-and Murder. They drag Camellia back from the edge of the roof, and Hampton hears
+alongside her. Camellia shouts down to Hampton "I'm being attacked by Revenge, Rape,
+and Murder." They drag Camellia back from the edge of the roof, and Hampton hears
 her cry for help as she disappears. He rushes through the door of the bar,
 aiming to get up on the roof to save her.
 
-But rather than the bar, Hampton find himself inside a circus tent.  Claude is
+Instead of the bar, Hampton find himself inside a circus tent.  Claude is
 in the center ring, dressed as a lion tamer and holding a whip and a chair. But
-instead of a lion, the animal he is trying to tame is a small rodent. When
+the animal he is trying to tame is not a lion but a small rodent. When
 Hampton looks closer, he sees the creature has Gertie's face. But rather than
 becoming tamer, the rodent grows in size and then dances around the cage, first
 singing "My Sharona," then, "Don't Fear the Reaper." 
@@ -171,7 +171,7 @@ the center of the calliope circus tent. Into splintered sunlight they rise.
 Angelic choir in the distance sings:
 
 O man, you sure done it now  
-Alastair Macquistador! You gonna be scraped outta  
+Alastair Macquistador! You gonna be scraped outta  
 Gray pigstye for this. That cat, that holds  
 his Regex spinning on a letterbox, will be piped  
 through poppycock. In the ninth inning. A Macquistador,  
@@ -187,7 +187,7 @@ being a dick for the second time."
 
 Hampton felt like an ass. What was he doing in this snowy forest anyway? He had
 to make like a hockey player and get the puck out of here!  He turned to Hiram
-to tell him as much, but his friend was vanishing, at last, leaving only his
+to tell him as much, but his friend was vanishing, at last leaving only his
 smile behind.
 
 There slowly emerged through the lacy filigree on the branches of the firs some
@@ -201,7 +201,8 @@ sad, old men.
 
 Hampton did so and saw that what a moment ago had been fir trees were now the
 pillars holding up the roof of a courtroom. The jury box held an assortment of
-lively creatures: 
+lively creatures: a frog, a dormouse, a rat, a ferret, a hedgehog, a chicken, a
+mole, a duck, a squirrel, and a storkling.
 
 A white rabbit called him to stand up before the judge. Hampton was surprised to
 find that the judge was Claude. He was wearing a white wig like he was a judge
@@ -210,12 +211,12 @@ closely.
 
 Claude leaned forward and whispered to him, "My lack of mercy ain't strained by
 the thought of you gettin' the chair. Imma rain violence down on you two ways:
-one, right on your ass, and two, on anyone who take your side. Now you git on
+one, right on yo' ass, and two, on anyone who take yo' side. Now you git on
 back to your seat."
 
 Upon returning to the defense table, Hampton found that Hiram was apparently his
 defense attorney. Hiram leaned over in his turn and said confidentially to
-Hampton, "This whole trial is a whole lotta fuss about nothin'."
+Hampton, "This trial is a whole lotta fuss about nothin'."
 
 "You sure 'bout that?"
 
@@ -228,7 +229,7 @@ hollow man, and you change friends like you change hats."
 Hiram begins to laugh while repeatedly tilting his head back. But each time he
 does so, his laugh sounds more and more like a cackle, and his beak grows long
 and pointed. His dark skin becomes black feathers. He is a crow sitting on a
-tree in a graveyard. In the mist below the tree, a dog is barking up at that
+tree in a graveyard. In the mist below the tree, a dog is barking up at the
 crow. 
 
 A shrouded figure moves through the tombstones, fleetingly illuminated when the
@@ -250,8 +251,9 @@ he replies, "Guilty!"
 Hampton looked at his friend with disbelief. "You too?"
 
 Claude bangs his gavel to bring order but then it is Maxwell's silver hammer,
-and it comes down upon Hampton's head. When he comes to, he is in an ancient
-jail cell. A Shriner Clown stands just beyond the bars, looking in at him.
+and it comes down upon Hampton's head. Hampton passes out for a spell.
+When he comes to, he is in an ancient jail cell. A Shriner Clown stands just
+beyond the bars, looking in at him.
 
 Hampton: This cell is *very* dark. 
 
@@ -305,16 +307,18 @@ water cold."
 
 Thaddeus replies, "Yeah, and it deep too!"
 
-Two giant alligators lunge forward out of the mist-covered lake, grab the two
-men, and drag them beneath the coal black waters. Hampton assures himself that
-he could have done nothing to save them. But now their bodies will be left in
-the lake to rot and rot.
+As they chuckle over their joke, two giant alligators lunge forward out of the
+mist-covered lake, grab the two men, and drag them beneath the coal black
+waters. Hampton assures himself that he could have done nothing to save them.
+But now their bodies will be left in the lake to rot and rot.
 
 Hampton climbs into the front seat of the car that the trio had arrived in, and
 turns the key in the ignition. The radio comes on as the car starts:
 
-The more my brother looks like me The less I understand This silent war That's
-bloodied both our hands
+The more my brother looks like me  
+The less I understand  
+This silent war  
+That's bloodied both our hands
 
 As Hampton drives away from the lake, he passes, cavorting in the grassy verge: 
 
@@ -336,7 +340,7 @@ protest.
 The protesters finally decide he is not a boomer, and they will let him
 pass. He gets back in his car.
 
-"All's well that ends well!"
+"All's well that ends well!" he tells himself.
 
 But as he tries to put the car into drive, the stick shift and steering
 wheel have vanished. Instead, there is a table before him, and chairs to his
@@ -348,8 +352,8 @@ seemingly not aware that he is there.
 "A spot of blood from when I cut my finger the other day. It just won't come
 out."
 
-Behind the bar, Agnes and Donna are stirring what appears to be a large jar
-of beer. Hampton walks over to the bar and asks them what they are making
+Behind the bar, Agnes and Donna are filling what appears to be a large jar
+of beer. Hampton walks over to the bar and asks them what they are up to.
 
 Agnes answers, "It's our winter's ale. A special recipe I learned up in
 Prosperity, where I grew up." 
@@ -372,10 +376,10 @@ Hampton, "Let me show you this beautiful lake." But Hampton does not want to
 see it; the notion of going there feels just about like running a red light.
 
 As he wishes that Hiram would leave him alone, a black bear  charges out of
-the forest, seemingly focused on Hiram. Exit Hiram, pursued by a bear. 
+the forest, straight at Hiram. Exit Hiram, pursued by a bear. 
 
 The storm has reached the forest: all the wind-whipped birds are winging
-home now.  Hampton is spun around and around by a gust of wind, and when the
+home now. Hampton is spun around and around by a gust of wind, and when the
 spinning stops, he finds himself in a lecture hall at USC, listening to
 Professor Callaban discoursing on "The Impact of the Discovery of the New
 World on European Culture."
@@ -383,16 +387,18 @@ World on European Culture."
 The lecture is interrupted by a piebald dancer, twerking behind the
 professor, singing:
 
-"I'm Henry the eighth I am Henry the Eighth, I am, I am I got married to the
-widow next door She's been married seven times before And every one of them
-was Henry Henry!"
+"I'm Henry the eighth I am  
+Henry the Eighth, I am,  
+I am I got married to the widow next door  
+She's been married seven times before  
+And every one of them was Henry!"
 
 And then Hampton sees that Hiram is in the lecture hall seat next to him.
 Hiram asks him, "Ain't we just two noble kin?"
 
-He then began to chuckle and chuckle. But his laughter grew increasingly
-unsettling, and his mouth opened wider and wider, as if he were about to
-swallow Hampton. The huge mouth became a tunnel, and Hampton felt himself
+He begins to chuckle and chuckle. But his laughter grows increasingly
+unsettling, and his mouth opens wider and wider, as if he is about to
+swallow Hampton. The huge mouth becomes a tunnel, and Hampton feels himself
 free-falling down an immense darkness. 
 
 *************
