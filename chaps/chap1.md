@@ -44,8 +44,7 @@ They been wanna move in on Will a long time now."
 
 "Them lame-ass mothers from up in Norway?"
 
-(Yes, it is true: a few miles north of Denmark, South Carolina, there is, in
-fact, another small town named Norway. And in between the two lies Sweden, and,
+(Yes, it is true: a few miles north of Denmark, South Carolina, there is another small town named Norway. And in between the two lies Sweden, and,
 nearby, Finland. Some people say this was a bit of humor on the part of The
 South Carolina Railroad Company, which had built the rail line through the
 area: someone there had thought it funny to name stops in this hot, humid,
