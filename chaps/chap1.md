@@ -18,7 +18,7 @@ Only four square miles in area, the town is inhabited by a few thousand souls.
 Most of the residents are poor: the average family income is less than $20,000.
 The vast majority of them, almost 90%, are black folk, but until recently, the
 leading citizen of the town was a white businessman, Will Shepherd. He owned
-the town's only real estate agency, as well as its used car dealership, and its
+the town's only real estate agency as well as its used car dealership, and its
 most popular bar, Elsie's.
 
 But there were rumors, rumors that his real money came from controlling the
