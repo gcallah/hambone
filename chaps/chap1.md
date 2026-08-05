@@ -34,7 +34,7 @@ back-and-forth as they did so.
 
 Bernie asked, "So you think someone took out ole Will?"
 
-Frankie coughed a little, but managed to squeek out "Sure nuff," without
+Frankie coughed a little, but managed to squeek out "Sure nuff" without
 exhaling.
 
 "Who you think did it?"
