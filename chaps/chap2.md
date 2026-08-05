@@ -125,7 +125,7 @@ around the bush, and making a whole speech when a few words will suffice.
 Ramblin' on but saying nothing be a foolish waste of time. And y'all busy
 people so I surely don't wanna waste your time."
 
-Gertie turned her head at a 45° angle and stared at Winthrop. "Right, so maybe
+Gertie turned her head at a 45-degree angle and stared at Winthrop. "Right, so maybe
 you should get to the point sometime today."
 
 "The point is exactly what I'm getting to, and I don't mean to delay getting
@@ -237,7 +237,7 @@ know, I always got your best interest at heart?"
 Winthrop's eyes widened, and he nodded nervously, his eyes scanning the room as
 though noting the exits.
 
-"Yeah, you know damned-well I got a daughter."
+"Yeah, you know damn-well I got a daughter."
 
 "You keep her close at home. Otherwise some rounder come along and knock
 her up."
