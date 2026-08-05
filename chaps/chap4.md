@@ -53,7 +53,7 @@ With that Sheriff Joyce walked across the porch and out into the cool and
 breezy night.
 
 Claude close the door behind him, took out his cell phone, and called Thaddeus.
-"You and Alastair meet me at Elsie's. Vite vite." (Claude, a Clemson man,
+"You and Alastair meet me at Elsie's. _Vite, vite_." (Claude, a Clemson man,
 liked to show off what little he remembered of his four semesters of French.)
 
 He walked over to Gertie and gave her a hug. "Don't you worry none now baby,
@@ -346,7 +346,7 @@ killed him on purpose."
 
 "And so you just gonna let him get away with it?"
 
-"No son, pas du tout."
+"No son, _pas du tout_."
 
 "Paw do too? What the hell that supposed to mean?"
 
@@ -453,7 +453,7 @@ do?"
 
 "Can I lay low at your place for a couple of days?"
 
-"Sure: then what?"
+"Sure. Then what?"
 
 "Maybe Wednesday afternoon, you can bring me back down to Denmark?"
 
@@ -472,7 +472,7 @@ Hampton replied, "Yeah, I wonder the exact same thing."
 ## 6.
 
 Ambrose was in Elsie's, drinking with his friends Homer and Isaiah. His anger
-and his desire to revenge his father's death had dissipated when Claude assured
+and his desire to avenge his father's death had dissipated when Claude assured
 him that Hampton was already dead. So now he drank to stop feeling the sorrow
 of his loss.
 
