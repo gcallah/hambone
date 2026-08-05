@@ -39,7 +39,7 @@ Hampton did as Hiram recommended. He drifted into the head shop on the corner,
 the business with the Bob Marley mural on its outside wall. He wandered the
 store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and
 bongs. A young white lady with dreadlocks and multiple piercings, wearing a
-bandana and a "From the river to the sea" t-shirt sat behind
+bandana and a "From the river to the sea" T-shirt sat behind
 the cash register fiddling with her smart phone. After a few minutes, she stood
 up and asked him "Is there something you're looking for?"
 
@@ -119,7 +119,7 @@ several hours before staggering back to Hiram's apartment.
 ## 2.
 
 Tuesday night, jittery with the anticipation of his confrontation in Denmark the
-following day, to get to sleep Hampton took a couple of Unisom, along with a
+following day, to get to sleep Hampton took a couple of Unisom tablets, along with a
 couple of shots of Hiram's whiskey. As was often the case, sleeping under that
 sort of influence made his dreams especially vivid and strange. 
 
@@ -147,8 +147,8 @@ I'm not carin' if I don't make the grade
 I'm not your thing, but you don't listen,  
 Ignore me, fine, but I ain't throwin' shade,  
 You can spit in the wind, just don't try pissin'.  
-    Long as I can breathe and my eyes can see,  
-    I love you still but Imma stay free.  
+Long as I can breathe and my eyes can see,  
+I love you still but Imma stay free.  
 
 As she finishes her song, three older women, in black, hooded capes, appear
 alongside her. Camellia shouts down to Hampton "I'm being attacked by Revenge, Rape,
@@ -291,7 +291,7 @@ A wagon follows behind, loaded with clay.
 
 And the seeds that were silent are burst into concernancy.
 
-Concerned that Hampton finds himself in the back seat of a 56 Chevy, speeding
+Concerned that Hampton finds himself in the back seat of a '56 Chevy, speeding
 north along I26. Alastair and Thaddeus are in the front, discussing the weather.
 
 Alastair said, "Man, it is one hot, cold, sultry day!"
@@ -364,7 +364,7 @@ having noticed him.
 
 Hiram is looking at him and shaking his head woefully.  "Hampton, you a real
 dorkus." He pauses, and looks directly into Hampton's eyes.  Sotto voce he
-says, "You know Claude was yo' mama's lover way before your daddy died . You
+says, "You know Claude was yo' mama's lover way before your daddy died. You
 his bastard son."
 
 Outside, it looks as though a thunderstorm is coming.
@@ -387,11 +387,14 @@ World on European Culture."
 The lecture is interrupted by a piebald dancer, twerking behind the
 professor, singing:
 
-"I'm Henry the eighth I am  
-Henry the Eighth, I am,  
-I am I got married to the widow next door  
-She's been married seven times before  
-And every one of them was Henry!"
+"I'm 'Enery the Eighth, I am,
+'Enery the Eighth I am, I am!
+I got married to the widow next door,
+She's been married seven times before
+And every one was an 'Enery
+She wouldn't have a Willie nor a Sam
+I'm her eighth old man named 'Enery
+'Enery the Eighth, I am!"
 
 And then Hampton sees that Hiram is in the lecture hall seat next to him.
 Hiram asks him, "Ain't we just two noble kin?"
