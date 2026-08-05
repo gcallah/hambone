@@ -121,7 +121,7 @@ Corny and Claude both mumbled their thanks and left.
 "All right Winnie, whachoo got for me?"
 
 "Yes sir, well, I mean to get right to the point here. Ain't no sense beating
-around the bush, and making a whole speech when a few words will suffice.
+around the bush, and making a whole speech when a few words will do.
 Ramblin' on but saying nothing be a foolish waste of time. And y'all busy
 people so I surely don't wanna waste your time."
 
@@ -209,7 +209,7 @@ Claude said, "Yeah, why not? Come on, Gertie."
 Once they were out of the main room, Winthrop got up, opened the door of the
 office, and called across the street to Hampton.
 
-"Yo Hampton, what up? You got a minute?." Winthrop waved/pointed toward the
+"Yo Hampton, what up? You got a minute?" Winthrop waved toward the
 office.
 
 Hampton looked puzzled, but nevertheless walked across the street and into the
@@ -242,7 +242,7 @@ though noting the exits.
 "You keep her close at home. Otherwise some rounder come along and knock
 her up."
 
-As Winhtrop attempted to mumble out something that might pass as a cogent
+As Winthrop attempted to mumble out something that might pass as a cogent
 response, the office door opened, and Thaddeus and Alastair re-entered.
 
 Thaddeus said, "Yo, Hampton, we been looking all over town for you."
@@ -348,7 +348,7 @@ add it."
 
 "All right Mr. Doubleton, we got us a deal."
 
-Hampton and Norbert both rose from their seats, and shook hands. As they walked
+Hampton and Norbert both rose from their seats and shook hands. As they walked
 out of the office and onto the sunlit sidewalk, Norbert said, "Tell your uncle
 Claude we over at the church by six."
 
