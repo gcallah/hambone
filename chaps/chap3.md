@@ -114,7 +114,7 @@ one. Cause the smart ones know you gonna be out whoring around with their
 friends and making fools of them. So, better you just become one of them Holy
 Spirit ladies."
 
-Hampton again began to leave, but, as though he had an episode of Colombo
+Hampton again began to leave, but, as though he had an episode of _Columbo_
 running through his head, again turned back.
 
 "I know about you shine-eye girls: you can't accept the face our Lord done give
@@ -148,7 +148,7 @@ was a relief. Hampton passed through the white double entrance doors and found
 that The Spiritual Gospel Singers were already setting up their equipment
 inside the church. He greeted Norbert, who introduced him to the rest of the
 group.  Hampton was particularly struck by a rotund singer called "Sticks," who
-wore over the medicine ball of his belly a t-shirt (the singers had not yet
+wore over the medicine ball of his belly a T-shirt (the singers had not yet
 changed into the suits they would wear for the program) which bore the picture
 of an 18-wheeler and the assertion that "God loves truckers."
 
@@ -159,8 +159,8 @@ Norbert began reading aloud:
 
 "Cain so jealous of his closest kin   
 Killed him dead, then the Lord come round
-He said, "Abel's blood calls out your sin   
-'Cain, you cursed now from the ground"
+He said, 'Abel's blood calls out your sin   
+Cain, you cursed now from the ground.'"
 
 At that point, Hampton interrupted the reading: "Now, when y'all get to the
 line about 'Could not allow that kin to live,' the music gotta stop, so that
@@ -238,7 +238,7 @@ Claude spoke first. "How you doing, Hampton?"
 
 "Hampton, I can't never figure out what you on about!"
 
-Hampton turned to Winthrop. "Didn't you used to sing gospel?"
+Hampton turned to Winthrop. "Didn't you used to sing Gospel?"
 
 "Yeah, and people used to love my voice."
 
@@ -292,7 +292,7 @@ look how jolly my mama is."
 him. Who knows, maybe when he been gone half a year, ain't nobody in the whole
 town still remember him."
 
-Before Camellia could respond, the reverend Hemingway, from the microphone at
+Before Camellia could respond, the Reverend Hemingway, from the microphone at
 his pulpit, said, "Good evenings, folks, and praise the Lord!"
 
 "Praise the Lord!" the congregation called back.
@@ -529,7 +529,7 @@ Claude looked at them in disbelief. "How the hell that happen?"
 Hampton replied, "The old idiot was climbin' in through the dining room window.
 I thought he was some burglar."
 
-Claude kicked a footstool halfway across the room. "Damnit boy, ain't there no
+Claude kicked a footstool halfway across the room. "Dammit boy, ain't there no
 end to the trouble you aim to cause this family?" he stared up at the ceiling
 for several seconds, and then said, "Show me the body."
 
