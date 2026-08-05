@@ -387,20 +387,13 @@ World on European Culture."
 The lecture is interrupted by a piebald dancer, twerking behind the
 professor, singing:
 
-"I'm 'Enery the Eighth, I am,
-
-'Enery the Eighth I am, I am!
-
-I got married to the widow next door,
-
-She's been married seven times before
-
-And every one was an 'Enery
-
-She wouldn't have a Willie nor a Sam
-
-I'm her eighth old man named 'Enery
-
+"I'm 'Enery the Eighth, I am,  
+'Enery the Eighth I am, I am!  
+I got married to the widow next door,  
+She's been married seven times before  
+And every one was an 'Enery  
+She wouldn't have a Willie nor a Sam  
+I'm her eighth old man named 'Enery  
 'Enery the Eighth, I am!"
 
 And then Hampton sees that Hiram is in the lecture hall seat next to him.
