@@ -1,4 +1,4 @@
-# A Stiff-necked People
+# A Stiff-Necked People
 
 ## Table of Contents
 
