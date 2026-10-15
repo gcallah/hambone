@@ -227,8 +227,10 @@ body.toc li a { text-decoration: none; font: 1.3rem var(--fell); }
 body.toc li:hover { background: rgba(125, 36, 32, 0.12); }
 body.toc footer { color: var(--text); text-shadow: 0 1px 3px #000; }
 
-/* chapter pages: the image shows beside the page */
-body.chapter { --veil: rgba(12, 13, 9, 0.55); }
+/* chapter pages: the page opens on the image, lightly veiled, and the
+   text scrolls up over it */
+body.chapter { --veil: rgba(12, 13, 9, 0.3); }
+body.chapter main { margin-top: 42vh; }
 .credit { margin: 0.6rem 0 0; }
 .credit a { color: var(--dim); }
 
