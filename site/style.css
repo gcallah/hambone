@@ -196,22 +196,7 @@ pre { white-space: pre-wrap; }
 /* Evangeline's bayou (site/images.txt) shows through: a lighter veil. */
 body.toc { --veil: rgba(12, 13, 9, 0.4); }
 body.toc main { margin-top: 4rem; }
-body.toc h1 { font-size: 3rem; margin-bottom: 0.5rem; }
-body.toc h1::after { display: none; }
-body.toc .subtitle {
-  text-align: center;
-  font: italic 1.15rem var(--fell);
-  color: var(--dim);
-  margin: 0 0 2rem;
-}
-body.toc .subtitle::after {
-  content: "\2767";
-  display: block;
-  font-style: normal;
-  font-size: 1.4rem;
-  color: var(--oxblood);
-  margin-top: 0.8rem;
-}
+body.toc h1 { font-size: 3rem; margin-bottom: 1.8rem; }
 body.toc h2 {
   font: 1rem var(--fell-sc);
   letter-spacing: 0.3em;

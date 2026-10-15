@@ -55,8 +55,6 @@ trap 'rm -f "$toc"' EXIT
 {
     echo "# $book"
     echo
-    echo '<p class="subtitle">Hamlet, by way of Denmark, South Carolina</p>'
-    echo
     echo "## Contents"
     echo
     echo "<ol>"
