@@ -25,7 +25,7 @@ bindir=$(cd "$(dirname "$0")" && pwd)
 src=${1:-$(cd "$bindir/.." && pwd)}
 out=${out:-$src/_site}
 assets=$src/site
-book="A Stiff Necked People"
+book="A Stiff-necked People"
 
 mkdir -p "$out/chapters" "$out/images"
 cp "$assets/style.css" "$out/"
