@@ -25,8 +25,7 @@ bindir=$(cd "$(dirname "$0")" && pwd)
 src=${1:-$(cd "$bindir/.." && pwd)}
 out=${out:-$src/_site}
 assets=$src/site
-book="Hambone, Prince of Denmark"
-work="A Stiff Necked People"   # the title on the contents page
+book="A Stiff Necked People"
 
 mkdir -p "$out/chapters" "$out/images"
 cp "$assets/style.css" "$out/"
@@ -54,7 +53,7 @@ n=${#chapters[@]}
 toc=$(mktemp)
 trap 'rm -f "$toc"' EXIT
 {
-    echo "# $work"
+    echo "# $book"
     echo
     echo '<p class="subtitle">Hamlet, by way of Denmark, South Carolina</p>'
     echo
@@ -67,7 +66,7 @@ trap 'rm -f "$toc"' EXIT
     done
     echo "</ol>"
 } > "$toc"
-render "$toc" "$out/index.html" "" -M pagetitle="$work" -V pagekind=toc
+render "$toc" "$out/index.html" "" -M pagetitle="$book" -V pagekind=toc
 
 for ((i = 0; i < n; i++)); do
     md=${chapters[$i]}

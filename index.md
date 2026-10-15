@@ -1,4 +1,4 @@
-# Hambone, Prince of Denmanrk
+# A Stiff Necked People
 
 ## Table of Contents
 
