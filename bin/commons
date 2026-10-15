@@ -1,0 +1,87 @@
+#!/usr/bin/env python3
+"""commons: find and fetch images on Wikimedia Commons for the site.
+
+usage: commons search TERMS...       list matching files: size, license, name
+       commons info FILE              license, artist, date and page of FILE
+       commons get FILE WIDTH OUT     download FILE scaled to WIDTH pixels
+
+FILE is a Commons file name, with or without "File:". For site background
+images: search, check the license with info, then get into site/images/
+and add a line with the credit to site/images.txt (see bin/site-images).
+"""
+import json
+import re
+import sys
+import urllib.parse
+import urllib.request
+
+API = "https://commons.wikimedia.org/w/api.php"
+AGENT = "HamboneSite/1.0 (https://github.com/gcallah/hambone)"
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": AGENT})
+    with urllib.request.urlopen(req) as r:
+        return r.read()
+
+
+def query(**params):
+    """Pages from a Commons API query."""
+    params.update(action="query", format="json")
+    data = json.loads(fetch(API + "?" + urllib.parse.urlencode(params)))
+    return list(data.get("query", {}).get("pages", {}).values())
+
+
+def title(name):
+    return name if name.startswith("File:") else "File:" + name
+
+
+def meta(info, key):
+    """Plain text of an extmetadata field."""
+    html = info.get("extmetadata", {}).get(key, {}).get("value", "")
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html)).strip()
+
+
+def search(terms):
+    pages = query(generator="search", gsrnamespace=6, gsrlimit=15,
+                  gsrsearch=" ".join(terms), prop="imageinfo",
+                  iiprop="size|extmetadata")
+    for p in sorted(pages, key=lambda p: p.get("index", 0)):
+        i = p["imageinfo"][0]
+        print(f'{i["width"]:>6}x{i["height"]:<6} '
+              f'{meta(i, "LicenseShortName"):<16} {p["title"][5:]}')
+
+
+def info(name):
+    p = query(titles=title(name), prop="imageinfo",
+              iiprop="url|size|extmetadata")[0]
+    i = p["imageinfo"][0]
+    print(f'{i["width"]}x{i["height"]}  {meta(i, "LicenseShortName")}')
+    for key in ("Artist", "DateTimeOriginal", "ImageDescription", "Credit"):
+        print(f"{key}: {meta(i, key)[:200]}")
+    print(i["descriptionurl"])
+
+
+def get(name, width, out):
+    p = query(titles=title(name), prop="imageinfo", iiprop="url",
+              iiurlwidth=width)[0]
+    with open(out, "wb") as f:
+        f.write(fetch(p["imageinfo"][0]["thumburl"]))
+    print(f"commons: wrote {out}")
+
+
+def main(argv):
+    cmds = {"search": (search, lambda a: (a,), 1),
+            "info": (info, lambda a: (a[0],), 1),
+            "get": (get, lambda a: (a[0], int(a[1]), a[2]), 3)}
+    if len(argv) < 2 or argv[1] not in cmds \
+            or len(argv) - 2 < cmds[argv[1]][2]:
+        sys.stderr.write(__doc__)
+        return 2
+    fn, args, _ = cmds[argv[1]]
+    fn(*args(argv[2:]))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))

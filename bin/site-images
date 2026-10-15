@@ -1,0 +1,145 @@
+#!/usr/bin/env python3
+"""site-images: put background images into the built site's pages.
+
+usage: site-images images.txt sitedir
+
+images.txt has one rule per line; a line starting with "#" is a comment:
+
+    page        target              image          [credit ...]
+    *           body                moss.jpg
+    index       body                oaks.jpg       Meeker, <em>Bayou</em>.
+    chap1       #scene-2            bar.jpg
+
+page is "index" or a chapter's file name without .html; shell globs work.
+target is a CSS selector without spaces: "body" for the whole page or a
+scene's id (#scene-2, from its "## 2." heading; site/scenes.lua). image
+is a file in sitedir/images/ or a full URL. Later rules win over earlier ones. The rest
+of the line, if any, is the image's credit (HTML), shown in the footer of
+each page that the rule matches. A "body" image goes on body::before, a
+layer fixed to the screen (site/style.css), so that it is sized to the
+screen, not to the whole length of the page.
+
+The rules for each page become a <style> block put in at the page's
+"<!-- background images -->" marker (site/template.html), and the credits
+a block at its "<!-- image credits -->" marker, so running this again
+replaces, rather than repeats, the blocks. bin/site runs this after
+pandoc. An image file that is missing is reported and left out, and so is
+a rule whose page pattern matches no page (e.g. "chap1-*" for page "chap1").
+"""
+import fnmatch
+import os
+import re
+import sys
+
+MARK = "<!-- background images -->"
+CREDITS = "<!-- image credits -->"
+VEIL = "linear-gradient(var(--veil), var(--veil))"
+
+
+def parse(text):
+    """Return the (page, target, image, credit) rules in images.txt text."""
+    rules = []
+    for n, line in enumerate(text.splitlines(), 1):
+        fields = line.split()
+        if not fields or fields[0].startswith("#"):
+            continue
+        if len(fields) < 3:
+            raise ValueError(f"line {n}: want page target image: {line!r}")
+        rules.append(tuple(fields[:3]) + (" ".join(fields[3:]),))
+    return rules
+
+
+def image_url(image, root):
+    """URL of image as seen from a page root/ above the site's top."""
+    if re.match(r"^[a-z]+:", image):
+        return image
+    return f"{root}images/{image}"
+
+
+def selector(target):
+    """The CSS selector that target's image goes on: "body" means the
+    fixed layer body::before; anything else is itself."""
+    return "body::before" if target == "body" else target
+
+
+def css_for(page, rules, root):
+    """The CSS putting in the backgrounds that rules give page."""
+    out = []
+    for pat, target, image, _ in rules:
+        if fnmatch.fnmatchcase(page, pat):
+            url = image_url(image, root)
+            out.append(f'{selector(target)} {{ background-image: {VEIL}, '
+                       f'url("{url}"); }}')
+    return "\n".join(out)
+
+
+def credits_for(page, rules):
+    """The credit lines (HTML) for the images that rules give page."""
+    return "\n".join(f'<p class="credit">Background: {credit}</p>'
+                     for pat, _, _, credit in rules
+                     if credit and fnmatch.fnmatchcase(page, pat))
+
+
+def inject(html, mark, tag, inner):
+    """html with the <tag class="bg"> block after mark holding inner;
+    with no inner, the block is taken out."""
+    old = re.compile(re.escape(mark) + rf'(\n<{tag} class="bg">.*?</{tag}>)?',
+                     re.S)
+    block = mark + (f'\n<{tag} class="bg">\n{inner}\n</{tag}>'
+                    if inner else "")
+    return old.sub(lambda m: block, html, count=1)
+
+
+def render(page, html, rules, root):
+    """html with page's background images and credits put in."""
+    html = inject(html, MARK, "style", css_for(page, rules, root))
+    return inject(html, CREDITS, "div", credits_for(page, rules))
+
+
+def missing(rules, sitedir):
+    """Rules whose local image file isn't in sitedir/images/."""
+    return [r for r in rules if not re.match(r"^[a-z]+:", r[2])
+            and not os.path.exists(os.path.join(sitedir, "images", r[2]))]
+
+
+def unmatched(rules, names):
+    """Rules whose page pattern matches none of the page names."""
+    return [r for r in rules
+            if not any(fnmatch.fnmatchcase(n, r[0]) for n in names)]
+
+
+def pages(sitedir):
+    """(page name, path, root) for each page of the built site."""
+    out = [("index", os.path.join(sitedir, "index.html"), "")]
+    chapdir = os.path.join(sitedir, "chapters")
+    for f in sorted(os.listdir(chapdir)):
+        if f.endswith(".html"):
+            out.append((f[:-5], os.path.join(chapdir, f), "../"))
+    return out
+
+
+def main(argv):
+    if len(argv) != 3:
+        sys.stderr.write(__doc__)
+        return 2
+    with open(argv[1], encoding="utf-8") as f:
+        rules = parse(f.read())
+    for r in missing(rules, argv[2]):
+        print(f"site-images: no images/{r[2]}; skipping", file=sys.stderr)
+        rules.remove(r)
+    site = pages(argv[2])
+    for r in unmatched(rules, [name for name, _, _ in site]):
+        print(f"site-images: {r[0]} matches no page; {r[2]} not used",
+              file=sys.stderr)
+    for page, path, root in site:
+        with open(path, encoding="utf-8") as f:
+            html = f.read()
+        new = render(page, html, rules, root)
+        if new != html:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))

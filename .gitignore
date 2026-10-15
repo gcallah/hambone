@@ -5,3 +5,5 @@
 book.md
 .superset/.local/
 .superset/config.local.json
+_site/
+__pycache__/

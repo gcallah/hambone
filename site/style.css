@@ -1,0 +1,279 @@
+/* Hambone, Prince of Denmark: the public site.
+ *
+ * Southern gothic: a humid dusk the color of swamp water and tarnished
+ * brass, text in faded magnolia on a dark, damp ground, headings set like
+ * an old church broadside, a drop of oxblood here and there. Backgrounds
+ * put in by bin/site-images sit under a veil (--veil) so the text stays
+ * readable.
+ */
+
+:root {
+  --ink: #0d0f0b;            /* bayou at night */
+  --panel: rgba(16, 18, 13, 0.86);
+  --text: #e2dac4;           /* faded magnolia */
+  --dim: #8f8a72;            /* Spanish moss */
+  --rule: #3a3a2a;
+  --brass: #b8955a;          /* tarnished brass */
+  --oxblood: #7d2420;
+  --serif: "Libre Caslon Text", "Iowan Old Style", Georgia, serif;
+  --fell: "IM Fell English", "Iowan Old Style", Georgia, serif;
+  --fell-sc: "IM Fell English SC", var(--fell);
+}
+
+* { box-sizing: border-box; }
+
+html { background: var(--ink); }
+
+body {
+  --veil: rgba(12, 13, 9, 0.8);
+  margin: 0;
+  color: var(--text);
+  font: 1.08rem/1.75 var(--serif);
+}
+
+/* The page's background lies on a layer fixed to the screen, so "cover"
+   sizes it to the screen. (background-attachment: fixed would do, but
+   iPad and iPhone Safari ignore it and size the image to the whole page.)
+   100lvh: the screen with the browser's bars hidden, so the image doesn't
+   jump as they come and go. With no image, a sickly lamplight glow. */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100lvh;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    radial-gradient(ellipse at 50% 0%, rgba(184, 149, 90, 0.14),
+                    transparent 65%);
+  background-size: cover;
+  background-position: center;
+  filter: sepia(0.35) saturate(0.8);
+}
+
+/* a vignette, as through an old, smoky pane of glass */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: radial-gradient(ellipse at center, transparent 45%,
+                              rgba(0, 0, 0, 0.7) 100%);
+}
+
+a { color: var(--text); text-decoration-color: var(--brass); }
+a:hover { color: #fff8e6; text-decoration-color: var(--oxblood); }
+
+/* masthead and footer */
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.3rem 1.2rem;
+  padding: 0.7rem 1.5rem;
+  background: rgba(10, 11, 8, 0.92);
+  border-bottom: 1px solid var(--brass);
+  box-shadow: 0 3px 0 -2px var(--brass), 0 8px 20px rgba(0, 0, 0, 0.6);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.masthead .book {
+  font: 1.15rem var(--fell-sc);
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  color: var(--text);
+}
+.masthead .sub {
+  font: italic 0.95rem var(--fell);
+  color: var(--dim);
+}
+footer {
+  text-align: center;
+  padding: 3rem 1rem;
+  font: 0.85rem var(--fell);
+  color: var(--dim);
+}
+.fleuron { font-size: 1.6rem; color: var(--brass); }
+
+main {
+  max-width: 40rem;
+  margin: 2.5rem auto 0;
+  padding: 2.5rem 2.5rem 2rem;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  outline: 1px solid rgba(184, 149, 90, 0.35);
+  outline-offset: -8px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.65);
+}
+
+/* chapter title */
+
+h1 {
+  font: 400 2.5rem/1.15 var(--fell);
+  text-align: center;
+  color: #f1e9d2;
+  margin: 0.5rem 0 2.5rem;
+  text-shadow: 0 2px 10px #000;
+}
+h1::after {
+  content: "\2767";   /* rotated floral heart */
+  display: block;
+  font-size: 1.4rem;
+  color: var(--oxblood);
+  margin-top: 0.8rem;
+}
+
+/* scene numbers: "## 1." becomes a small ornament */
+
+h2.scene {
+  font: 1.1rem var(--fell-sc);
+  letter-spacing: 0.25em;
+  text-align: center;
+  color: var(--brass);
+  margin: 3rem 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+h2.scene::before, h2.scene::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--brass));
+}
+h2.scene::after { background: linear-gradient(90deg, var(--brass), transparent); }
+section.level1 > section.level2:first-of-type > h2.scene { margin-top: 0; }
+
+/* a scene can carry its own background image (site/images.txt) */
+section.level2 {
+  --veil: rgba(16, 18, 13, 0.82);
+  background-size: cover;
+  background-position: center;
+}
+
+/* text */
+
+p { margin: 0 0 1.1rem; hyphens: auto; }
+.level2 > h2 + p::first-letter,
+body.chapter .level1 > h1 + p::first-letter {
+  float: left;
+  font: 3.4rem/0.85 var(--fell);
+  color: var(--brass);
+  padding: 0.3rem 0.5rem 0 0;
+}
+em { font-style: italic; }
+strong { color: #fff8e6; }
+blockquote {
+  margin: 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1.2rem;
+  border-left: 2px solid var(--oxblood);
+  font-style: italic;
+  color: #d3caae;
+}
+hr {
+  border: 0;
+  margin: 2.2rem 0;
+  text-align: center;
+  height: auto;
+}
+hr::after {
+  content: "\2042";   /* asterism */
+  color: var(--brass);
+  font-size: 1.3rem;
+}
+code, pre { font-size: 0.9em; }
+pre { white-space: pre-wrap; }
+
+/* contents page */
+
+/* Evangeline's bayou (site/images.txt) shows through: a lighter veil. */
+body.toc { --veil: rgba(12, 13, 9, 0.4); }
+body.toc main { margin-top: 4rem; }
+body.toc h1 { font-size: 3rem; margin-bottom: 0.5rem; }
+body.toc h1::after { display: none; }
+body.toc .subtitle {
+  text-align: center;
+  font: italic 1.15rem var(--fell);
+  color: var(--dim);
+  margin: 0 0 2rem;
+}
+body.toc .subtitle::after {
+  content: "\2767";
+  display: block;
+  font-style: normal;
+  font-size: 1.4rem;
+  color: var(--oxblood);
+  margin-top: 0.8rem;
+}
+body.toc h2 {
+  font: 1rem var(--fell-sc);
+  letter-spacing: 0.3em;
+  text-align: center;
+  color: var(--brass);
+  margin: 0 0 1.2rem;
+}
+body.toc ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--rule);
+}
+body.toc li {
+  display: flex;
+  gap: 1.2rem;
+  align-items: baseline;
+  padding: 0.7rem 0.4rem;
+  border-bottom: 1px solid var(--rule);
+}
+body.toc li .num {
+  font: 1rem var(--fell-sc);
+  color: var(--oxblood);
+  min-width: 2.5rem;
+  text-align: right;
+}
+body.toc li a { text-decoration: none; font: 1.3rem var(--fell); }
+body.toc li:hover { background: rgba(125, 36, 32, 0.12); }
+body.toc footer { color: var(--text); text-shadow: 0 1px 3px #000; }
+
+/* chapter pages: the image shows beside the page */
+body.chapter { --veil: rgba(12, 13, 9, 0.55); }
+.credit { margin: 0.6rem 0 0; }
+.credit a { color: var(--dim); }
+
+/* chapter navigation */
+
+.chapnav {
+  max-width: 40rem;
+  margin: 1.5rem auto 0;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font: 1rem var(--fell);
+  background: rgba(10, 11, 8, 0.85);
+  border: 1px solid var(--rule);
+}
+.chapnav a { text-decoration: none; color: var(--dim); }
+.chapnav a:hover { color: var(--text); }
+.chapnav .contents { font-family: var(--fell-sc); letter-spacing: 0.1em; }
+
+@media (max-width: 640px) {
+  body { font-size: 1.02rem; }
+  main { margin-top: 0; padding: 1.8rem 1.2rem; border-left: 0;
+         border-right: 0; }
+  h1 { font-size: 1.9rem; }
+  body.toc h1 { font-size: 2.2rem; }
+  .masthead .sub { display: none; }
+}
+
+@media print {
+  body, main { background: none !important; color: #000; box-shadow: none; }
+  body::before, body::after, .masthead, .chapnav, footer { display: none; }
+}

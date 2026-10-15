@@ -45,13 +45,7 @@ pick_port() {
   return 1
 }
 
-# Render all chapters into one HTML page, atomically.
+# Build the public site (bin/site) into the preview directory.
 build_site() {
-  mkdir -p "$SITE_DIR"
-  local tmp="$SITE_DIR/.index.html.tmp"
-  pandoc --standalone --toc \
-    --metadata title="Hambone, Prince of Denmark" \
-    -f markdown -t html \
-    -o "$tmp" "$WORKSPACE_DIR"/chaps/*.md &&
-    mv "$tmp" "$SITE_DIR/index.html"
+  "$WORKSPACE_DIR/bin/site" -o "$SITE_DIR" >/dev/null
 }

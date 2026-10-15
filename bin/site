@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+# site: build the HTML site (GitHub Pages) from chaps/.
+#
+# usage: site [-o outdir] [srcdir]
+#   srcdir   holds chaps/ and site/ (default: the repo top)
+#   -o       where to write the site (default: _site, for previewing)
+#
+# Writes outdir/index.html (a contents page made from the chapters' "# "
+# titles), outdir/chapters/*.html (pandoc, with site/template.html and the
+# site/scenes.lua filter), style.css, images/ and .nojekyll; then
+# bin/site-images puts in the background images listed in site/images.txt.
+# .github/workflows/pages.yml runs this on every push to main.
+set -euo pipefail
+
+out=
+while getopts "o:" opt; do
+    case $opt in
+        o) out=$OPTARG ;;
+        *) sed -n '2,12p' "$0"; exit 2 ;;
+    esac
+done
+shift $((OPTIND - 1))
+
+bindir=$(cd "$(dirname "$0")" && pwd)
+src=${1:-$(cd "$bindir/.." && pwd)}
+out=${out:-$src/_site}
+assets=$src/site
+book="Hambone, Prince of Denmark"
+
+mkdir -p "$out/chapters" "$out/images"
+cp "$assets/style.css" "$out/"
+rsync -a --delete --exclude .gitkeep "$assets/images/" "$out/images/"
+rm -f "$out"/chapters/*.html
+touch "$out/.nojekyll"
+
+render() {   # render in.md out.html root [pandoc -V/-M options...]
+    local in=$1 html=$2 root=$3; shift 3
+    pandoc "$in" -f markdown -t html5 -s --section-divs \
+        --template "$assets/template.html" --lua-filter "$assets/scenes.lua" \
+        -V root="$root" "$@" -o "$html"
+}
+
+title() { sed -n '1s/^# *//p' "$1"; }                    # "I. Up on the Roof"
+num()   { title "$1" | sed -n 's/^\([IVXLC]*\)[.:].*/\1/p'; }   # "I"
+short() { title "$1" | sed 's/^[IVXLC]*[.:] *//'; }      # "Up on the Roof"
+
+# chap1.md ... chap10.md in numeric order
+chapters=()
+while IFS= read -r f; do chapters+=("$f"); done \
+    < <(ls "$src"/chaps/chap*.md | sort -V)
+n=${#chapters[@]}
+
+toc=$(mktemp)
+trap 'rm -f "$toc"' EXIT
+{
+    echo "# $book"
+    echo
+    echo '<p class="subtitle">Hamlet, by way of Denmark, South Carolina</p>'
+    echo
+    echo "## Contents"
+    echo
+    echo "<ol>"
+    for md in "${chapters[@]}"; do
+        echo "<li><span class=\"num\">$(num "$md")</span>" \
+             "<a href=\"chapters/$(basename "${md%.md}").html\">$(short "$md")</a></li>"
+    done
+    echo "</ol>"
+} > "$toc"
+render "$toc" "$out/index.html" "" -M pagetitle="$book" -V pagekind=toc
+
+for ((i = 0; i < n; i++)); do
+    md=${chapters[$i]}
+    nav=()
+    if ((i > 0)); then
+        p=${chapters[$((i - 1))]}
+        nav+=(-V prev="$(basename "${p%.md}").html" -V prevtitle="$(short "$p")")
+    fi
+    if ((i + 1 < n)); then
+        x=${chapters[$((i + 1))]}
+        nav+=(-V next="$(basename "${x%.md}").html" -V nexttitle="$(short "$x")")
+    fi
+    render "$md" "$out/chapters/$(basename "${md%.md}").html" ../ \
+        -M pagetitle="$(title "$md") · $book" -V pagekind=chapter \
+        -V chapter=1 ${nav[@]+"${nav[@]}"}
+done
+
+"$bindir/site-images" "$assets/images.txt" "$out"
+echo "site: built $out ($n chapters)"

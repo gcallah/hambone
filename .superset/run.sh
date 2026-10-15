@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Superset Run command: live HTML preview of the book on a per-workspace port.
+# Superset Run command: live preview of the public site (bin/site) on a
+# per-workspace port.
 set -euo pipefail
 source "$(dirname "$0")/lib.sh"
 cd "$WORKSPACE_DIR"
@@ -14,11 +15,11 @@ fi
 
 build_site
 
-# Rebuild whenever a chapter changes.
+# Rebuild whenever a chapter or the site's assets change.
 (
   stamp="$SITE_DIR/index.html"
   while sleep 2; do
-    if [ -n "$(find chaps -name '*.md' -newer "$stamp" 2>/dev/null)" ]; then
+    if [ -n "$(find chaps site bin/site bin/site-images -type f -newer "$stamp" 2>/dev/null)" ]; then
       build_site && echo "preview: rebuilt"
     fi
   done

@@ -1,0 +1,46 @@
+# Build the site with bin/site and publish it on GitHub Pages, on every
+# push to main that touches the chapters or the site.
+name: Pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["chaps/**", "site/**", "bin/site", "bin/site-images",
+            ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc
+        run: |
+          curl -sSL -o pandoc.deb https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-1-amd64.deb
+          sudo dpkg -i pandoc.deb
+      - name: Test
+        run: python3 -m unittest discover bin/tests
+      - name: Build
+        run: bin/site -o _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
