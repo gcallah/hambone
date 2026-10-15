@@ -3,3 +3,5 @@
 *.docx
 *.pdf
 book.md
+.superset/.local/
+.superset/config.local.json
