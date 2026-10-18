@@ -21,15 +21,16 @@ Joyce told him "Go on."
 And you know how Miss Eveline done got shot when she confronted the burglar."
 
 Joyce nodded. "An encounter she ain't gonna forget. Lucky she still alive: if
-the sisters who live next door wasn't home and heard the shot, she wouldna made
+the sisters who live next door weren't home and hadna heard the shot, she wouldna made
 it."
 
 "So I was in no mood to take a chance that the same thing gonna happen to me or
 my Gertie here. I grabbed the gun, the one I knew Gertie kept in that there
 side table, and crept 'cross the foyer to the dining room. The lights was out,
 and the moon was comin' in the window, so all I could see was a dark
-silhouette. And I figured I better shoot before he shoot me. And that's about
-all there is to it."
+silhouette. And I figured I better shoot him before he shoot me.
+It was only when I put the light on that I realized it was Winthrop.
+And that's about all there is to it."
 
 "Claude, that all seems straightforward enough. I know Winthrop was your boy,
 and you wouldn't have no reason to kill him. But what the hell was he doin'
@@ -41,7 +42,7 @@ climbing in the window here at night?"
 But I imagine in this instance it just gonna be a formality. But I'd for sure
 call it a painful case."
 
-Claude said, "I know you'll take care of this, Jim."
+Claude said, "I know you'll take proper care of this, Jim."
 
 The two of them shook hands at the door. Claude added, "Don't forget to stop by
 the farm and pick up some greens: we got collards and mustard and turnip."
@@ -85,7 +86,7 @@ Thaddeus and Alastair stared at him in disbelief.
 
 After a moment of silence, Thaddeus asked, "Why'd he do that?"
 
-Claude looked grim. "This can't leave this room, but I'm thinkin' he was
+Claude looked grim. "This can't leave this here room, but I'm thinkin' he was
 gunnin' for me."
 
 Alastair shook his head like he was trying to shoo away a horse fly. "OK, but
@@ -107,7 +108,7 @@ Thaddeus and Alastair nodded to indicate their appreciation of what Claude was
 saying.
 
 "Y'all know, I love the boy like he were my own son, but comes a time when a
-body gotta cut off a cancer to save the rest of the body."
+physician gotta cut off a cancerous limb to save the rest of the body."
 
 Thadeus asked, "So what you want us to do?"
 
@@ -131,7 +132,7 @@ times. Now, is you boys part of this team, or ain't you?"
 Both of his interlocutors mumbled that of course they were part of the team.
 
 "So here's what you gonna do. You gonna pick up Hampton from his apartment
-first thing in the morning. He already expectin' you to be drivin' him up to
+first thing in the mornin'. He already expectin' you to be drivin' him up to
 Clemson. But along the way, you'll be passin' Sumter Forest. One a you gonna
 tell him that you got a school biology project or some such nonsense, and you
 gotta do somethin' for that project. And it's just gonna be a quick
@@ -163,8 +164,8 @@ the curb below Hampton's apartment, which was on the second floor of the brick
 building housing the Neeley Appliance Company. Thaddeus, who was driving, put
 his hand on the horn as if he were about to honk.
 
-Alastair said, "Whachoo doin'? It's seven Sunday mornin'; you can't be honkin'
-your horn. Jes lemme call him."
+Alastair said, "Whachoo doin'? It seven Sunday mornin': you can't be honkin'
+yo' horn. Jes lemme call him."
 
 Hampton sounded sleepy when he answered, and said he would be down in a few
 minutes. When he arrived at the car, he was bearing a backpack stuffed to the
@@ -183,7 +184,7 @@ uncle Claude, doin' for me. Why, if a brother didn't know any better, I might
 start to think y'all cared about me."
 
 Hampton laughed heartily, to indicate he was just joking around. Thaddeus and
-Alastair also laughed, but less heartily.
+Alastair also laughed, but with less heart.
 
 As Thaddeus drove the two blocks north on Carolina Highway, Alastair explained
 that he had to get some lake samples for his biology class, so they'd be making
@@ -257,8 +258,8 @@ Hampton laughed. "You two is like vacuum cleaners, right?"
 
 "Whatever garbage come outta Claude's mouth, you two just suck it up, right?"
 
-Alastair stared back at him with a look of distaste. "I have no idea what you
-talkin' about."
+Alastair stared back at him with a look of distaste. "I ain't got
+no idea what you talkin' about."
 
 "Boys, I just kiddin' with y'all. I know my words too wicked for yo' innocent
 ears."
@@ -282,8 +283,8 @@ my brothers," as he rummaged through his backpack.
 Alastair asked, "Why you be sayin' goodbye now?"
 
 "Cause I sendin' you two on a trip to visit Winthrop." With that he lifted his
-pistol out of his backpack, and shot both of his friends in the head, sending
-their brains splattering over the windshield.
+pistol out of his backpack, and quickly shot both of his friends in the head,
+sending their brains splattering over the windshield.
 
 He slumped back for a moment in his seat, wiping away a couple of tears. He
 then got out of the car, bringing his backpack with him, and placed it on the
@@ -341,7 +342,7 @@ this for some dozen seconds before speaking.
 "So why I'm hearing it was you?"
 
 "We didn't want no family scandal. The police was likely to conclude that,
-given how yo' daddy was objectin' to Hampton bein' with your sister, he done
+given how yo' daddy was objectin' to Hampton bein' with yo' sister, he done
 killed him on purpose."
 
 "And so you just gonna let him get away with it?"
@@ -364,18 +365,19 @@ well, and took Claude's hand and shook it, saying "I do appreciate you settin'
 things right."
 
 Claude said, "I always try to do right by my people. I think you better go see
-to your sister, 'cause she probably need you right about now."
+to yo' sister, 'cause she probably need you right 'bout now."
 
 Ambrose nodded, released Claude's hand, turned, and left the office.
 
 
 ## 5.
 
-Once Hampton had walked out of the forest, he began hitchhiking, towards
+Once Hampton had walked out of the forest, he began hitchhiking towards
 Columbia. His final ride was from a fellow delivering a fiddle to Bill's
-Pickin' Parlor in West Columbia, and since that was only a few blocks from his
-destination, he walked from there across the Gervais Street bridge into
-Columbia itself.
+Pickin' Parlor in West Columbia. Since that was only a few blocks from
+the Congaree River, which separated West Columbia from Columbia.
+destination, he walked from Bill's across the Gervais Street bridge
+and into Columbia itself.
 
 After he crossed the bridge, he took out his cell phone and called Hiram. After
 a couple of rings, Hiram picked up, and said, "Hampton, what up?"
@@ -388,9 +390,9 @@ a couple of rings, Hiram picked up, and said, "Hampton, what up?"
 
 "You in Columbia?"
 
-"Yeah, I jes got here."
+"Yeah, I jes get here."
 
-"I'm in Five Points, pretty close to where you at. You walk away from the river
+"I'm in Five Points, not too far from where you at. Walk away from the river
 up Gervais until you get to Harden. I'll meet you at the corner there."
 
 Hampton did as he was instructed, and found Hiram waiting for him as planned.
@@ -401,7 +403,7 @@ They hugged in greeting, then Hiram asked him, "What's goin' on?"
 "You done what?"
 
 "The first one was kinda an accident. I thought I was killin' Claude, which
-woulda been fine, but instead, it was Winthrop."
+woulda been fine, but instead, I killed Winthrop."
 
 "So how the hell you mistake a skinny ole black man for a fat white man?"
 
@@ -428,7 +430,7 @@ cause his heart ain't got no kindness."
 "He tells me he's gonna have Thad and Al bring me up to Clemson. To be on the
 safe side, before they pick me up in the mornin', I made sure to stash a pistol
 in my backpack. Well, when they come to get me, they's all shifty and what not.
-Can't look their brother in the eye. So it obvious to me Claude asked them to
+Can't look their brother in the eye. So it was obvious to me Claude asked them to
 get rid of me."
 
 "Didn't Claude or Thad or Al think you might figure out their plan?"
@@ -445,8 +447,8 @@ of folk would regard that as a little bit crazy."
 should somebody else put you on trial."
 
 They had reached the corner of Harden and College Street. Hiram pointed ahead,
-and said, "See that wall with the giant painting of Bob Marley having a starin'
-contest with a lion on it? My apartment is just past that."
+and said, "See that wall with the giant painting on it, the one with
+Bob Marley having a starin' contest with a lion? My apartment is just past that."
 
 They walked for a moment in silence, and then Hiram asked, "So what you gonna
 do?"
@@ -467,7 +469,7 @@ Hiram felt silent until they reached the door to his building. He unlocked it,
 and then turn to Hampton and said, "I gonna do what I can to help you, but I
 wonder if you really thought this through?"
 
-Hampton replied, "Yeah, I wonder the exact same thing."
+Hampton replied, "Yeah, I been wonderin' the exact same thing."
 
 ## 6.
 
@@ -478,8 +480,8 @@ of his loss.
 
 And the drinking was working, until Camellia entered the bar. He had never seen
 his sister out in public looking anything but her best: made up, her braided
-hair all in place, her clothes, not always expensive, but at least attractive
-and stylish.
+hair all in place, her clothes, if usually not expensive, at least were 
+attractive and stylish.
 
 But she now looked like the sibling he knew had been through a decade of
 dissipation. Her hair was a mess, her eyes glassy, and she wore an unevenly
@@ -488,7 +490,7 @@ she entered the bar she carried with her an herbal penumbra of skunk weed.
 
 There were only a dozen or so patrons in the bar, but every one of them stopped
 what they were doing and stared at her. Agnes came out from behind the bar and
-put her hands on Camellia's shoulders. "Honey, you don't look so good. Why you
+put her hands on Camellia's shoulders. "Boo, you don't look so good. Why you
 don't come sit down in the corner?"
 
 Camilla pushed her away and staggered up to the bar. "I think I need a
@@ -506,7 +508,7 @@ Camellia, realizing for the first time that Ambrose was in the bar, said
 singing while performing a half-hearted dance.
 
 "Papa was a rollin' stone   
-He got shot not far from home   
+He got shot not so far from home   
 And when he died   
 All I needed was a bone" 
 
@@ -545,7 +547,8 @@ Now Camellia began rapping:
 
 "Every step I take   
 Every move I make   
-Every single day, every time I pray
+Every single day,  
+every time I pray  
 I'll be missing you   
 Thinkin' of the day   
 When you went away   
