@@ -157,7 +157,7 @@ and Murder." They drag Camellia back from the edge of the roof, and Hampton hear
 her cry for help as she disappears. He rushes through the door of the bar,
 aiming to get up on the roof to save her.
 
-But instead of the bar, Hampton find himself inside a circus tent.  Claude is
+But instead of the bar, Hampton finds himself inside a circus tent.  Claude is
 in the center ring, dressed as a lion tamer and holding a whip and a chair. But
 the animal he is trying to tame is not a lion but a small rodent. When
 Hampton looks closer, he sees the creature has Gertie's face. But rather than
@@ -178,51 +178,51 @@ his Regex spinning on a letterbox, will be piped
 through poppycock. In the ninth inning. A Macquistador,  
 but afraid to speak? Run away in shame, Alastair!  
 
-Hampton gently drifted down through the spider-web branches of
-snow-laden fir trees that glittered as though diamond strewn.
-Far off in the distance, he saw a fleeting, furtive figure:
-a wild cat on the prowl? As he began to trudge
-through the snow, he found Hiram by his side, whispering in his ear "You're
+Hampton gently drifts down through the spider-web branches of
+snow-laden fir trees that glitter as though diamond strewn.
+Far off in the distance, he sees a fleeting, furtive figure:
+a wild cat on the prowl? As he begins to trudge
+through the snow, he finds Hiram by his side, whispering in his ear "You're
 being a dick for the second time."
 
-Hampton felt like an ass. What was he doing in this snowy forest anyway? He had
-to make like a hockey player and get the puck out of here!  He turned to Hiram
-to tell him as much, but his friend was vanishing, at last leaving only his
+Hampton feels like an ass. What is he doing in this snowy forest anyway? He has
+to make like a hockey player and get the puck out of here!  He turns to Hiram
+to tell him as much, but his friend is vanishing, at last leaving only his
 smile behind.
 
-There slowly emerged through the lacy filigree on the branches of the firs some
+There slowly emerge through the lacy filigree on the branches of the firs some
 sad, old men. 
 
-"We run this town," they told him in unison.
+"We run this town," they tell him in unison.
 
 "What town are you talking about? We're out in the middle of the woods." 
 
 "Is that what you think? Take a look around you."
 
 Hampton does so and sees that what a moment ago had been fir trees are now the
-pillars holding up the roof of a courtroom. The jury box held an assortment of
+pillars holding up the roof of a courtroom. The jury box holds an assortment of
 lively creatures: a frog, a dormouse, a rat, a ferret, a hedgehog, a chicken, a
 mole, a duck, a squirrel, and a storkling.
 
-A white rabbit called him to stand up before the judge. Hampton was surprised to
-find that Claude was presiding. He was wearing a white wig like he was a judge
-in England or something, and he called Hampton to approach the bench more
+A white rabbit calls him to stand up before the judge. Hampton is surprised to
+find that Claude is presiding. He is wearing a white wig like he was a judge
+in England or something, and he calls Hampton to approach the bench more
 closely.
 
 "Closer, boy, closer. I need to see your face. I need to see the fear in your
 eyes. I need to see the terror in your soul. I need to see the guilt in your
-heart." Claude leaned forward and whispered to him, "My lack of mercy ain't strained by
+heart." Claude leans forward and whispers to him, "My lack of mercy ain't strained by
 the thought of you gettin' the chair. Imma rain violence down on you two ways:
 one, right on yo' ass, and two, on anyone who take yo' side. Now you git on
 back to yo' seat."
 
-Upon returning to the defense table, Hampton found that Hiram apparently was his
-attorney. Hiram leaned over in his turn and said confidentially to
+Upon returning to the defense table, Hampton finds that Hiram apparently is his
+attorney. Hiram leans over in his turn and says confidentially to
 Hampton, "This trial is a whole lotta fuss about nothin'."
 
 "You sure 'bout that?"
 
-Hiram nodded and continued:
+Hiram nods and continues:
 
 "Look, you ain't no hero. You look like a lion but you roar like a lamb. You
 wearin' that badge of bitterness like you think it a badge of honor. You a
@@ -240,17 +240,17 @@ Hampton realizes that it is his father.
 
 "I need you to see something, my son."
 
-He takes off the cap he was wearing. Hampton sees that it was covering a pair of
+He takes off the cap he is wearing. Hampton sees that it was covering a pair of
 horns. His father lowers his head and charges at Hampton, horns first.
 
 Just as he is about to be gored, Hampton spins away, right back into the
 courtroom, where the jury is delivering its verdict. Instead of the foreman
 reading out the entire result, each juror stands and declares their own verdict.
 To Hampton's surprise, Hiram is no longer next to him as his attorney, but
-instead is standing in the jury box.  When the judge asked for Hiram's verdict,
+instead is standing in the jury box.  When the judge asks for Hiram's verdict,
 he replies, "Guilty!"
 
-Hampton looked at his friend with disbelief. "You too?"
+Hampton looks at his friend with disbelief. "You too?"
 
 Claude bangs his gavel to bring order but then it is Maxwell's silver hammer,
 and it comes down upon Hampton's head. Hampton passes out for a spell.
@@ -296,9 +296,9 @@ And the seeds that were silent are burst into concernancy.
 Concerned that Hampton finds himself in the back seat of a '56 Chevy, speeding
 north along I26. Alastair and Thaddeus are in the front, discussing the weather.
 
-Alastair said, "Man, it is one hot, cold, sultry day!"
+Alastair says, "Man, it is one hot, cold, sultry day!"
 
-Thaddeus added, "And clear and stormy!"
+Thaddeus adds, "And clear and stormy!"
 
 They take the turn off for Arden, just a few miles south of Asheville. They pull
 up along the forested shores of Lake Julian, and stop the car. Simultaneously
@@ -349,7 +349,7 @@ wheel have vanished. Instead, there is a table before him, and chairs to his
 sides. The chairs are occupied by Claude and Gertie,  who are chatting,
 seemingly not aware that he is there.
 
-"What's that on your dress?" Claude asked. 
+"What's that on your dress?" Claude asks. 
 
 "A spot of blood from when I cut my finger the other day. It just won't come
 out."
@@ -360,8 +360,8 @@ of beer. Hampton walks over to the bar and asks them what they are up to.
 Agnes answers, "It's our winter's ale. A special recipe I learned up in
 Prosperity, where I grew up." 
 
-Hampton asked for a glass of the ale and then goes and sits at a table. He
-is surprised to see that Hiram was already sitting there without Hampton
+Hampton asks for a glass of the ale and then goes and sits at a table. He
+is surprised to see that Hiram is already sitting there without Hampton
 having noticed him.
 
 Hiram is looking at him and shaking his head woefully.  "Hampton, you a real
