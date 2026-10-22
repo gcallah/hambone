@@ -245,16 +245,17 @@ horns. His father lowers his head and charges at Hampton, horns first.
 
 Just as he is about to be gored, Hampton spins away, right back into the
 courtroom, where the jury is delivering its verdict. Instead of the foreman
-reading out the entire result, each juror stands and declares their own verdict.
-To Hampton's surprise, Hiram is no longer next to him as his attorney, but
+reading out the entire result, each juror stands and declares their own judgment.
+To Hampton's surprise, Hiram is no longer next to him acting as his attorney, but
 instead is standing in the jury box.  When the judge asks for Hiram's verdict,
 he replies, "Guilty!"
 
 Hampton looks at his friend with disbelief. "You too?"
 
 Claude bangs his gavel to bring order but then it is Maxwell's silver hammer,
-and it comes down upon Hampton's head. Hampton passes out for a spell.
-When he comes to, he is in an ancient jail cell. A Shriner Clown stands just
+and it comes down upon Hampton's head. Everything goes black.
+When the lights come back on, Hampton finds himself
+in an ancient jail cell. A Shriner Clown stands just
 beyond the bars, looking in at him.
 
 Hampton: This cell is *very* dark. 
@@ -262,9 +263,9 @@ Hampton: This cell is *very* dark.
 Clown: Whachoo sayin'? We in a church, and the Lord's light be pour-in' through
 the stained glass windows.
 
-Hampton: I am not mad. This cell is damned dark.
+Hampton: Look, I ain't crazy. This cell is damned dark.
 
-Clown: If you think it be dark, maybe the dark is from your eyes? 
+Clown: If you think it's dark, maybe the dark is from your eyes? 
 
 Hampton: Man, you jes playin' me for ignorant. Ain't nobody never been abused
 like me. 
@@ -289,11 +290,9 @@ people.
 
 Hampton reaches out to shake Norbert's hand, but Norbert slowly fades away. 
 
-A wagon follows behind, loaded with clay.
+Some silent seeds that were lying on the floor of the cell burst into concernancy.
 
-And the seeds that were silent are burst into concernancy.
-
-Concerned that Hampton finds himself in the back seat of a '56 Chevy, speeding
+And Hampton is concerned that finds himself in the back seat of a '56 Chevy, speeding
 north along I26. Alastair and Thaddeus are in the front, discussing the weather.
 
 Alastair says, "Man, it is one hot, cold, sultry day!"
@@ -312,17 +311,20 @@ Thaddeus replies, "Yeah, and it deep too!"
 As they chuckle over their joke, two giant alligators lunge forward out of the
 mist-covered lake, grab the two men, and drag them beneath the coal black
 waters. Hampton assures himself that he could have done nothing to save them.
-But now their bodies will be left in the lake to rot and rot.
+But now their bodies will be left in the lake to be devoured by gators and
+fish and turtles.
 
 Hampton climbs into the front seat of the car that the trio had arrived in, and
-turns the key in the ignition. The radio comes on as the car starts:
+turns the key in the ignition. The radio comes on as the car starts, and someone is
+singing:
 
 The more my brother looks like me  
 The less I understand  
 This silent war  
 That's bloodied both our hands
 
-As Hampton drives away from the lake, he passes, cavorting in the grassy verge: 
+As Hampton drives away from the lake, along the grassy verge there cavorts,
+in sequence: 
 
 - a spellbound Irish rat fleeing a bard, 
 - a management meeting of horses, 
@@ -361,8 +363,8 @@ Agnes answers, "It's our winter's ale. A special recipe I learned up in
 Prosperity, where I grew up." 
 
 Hampton asks for a glass of the ale and then goes and sits at a table. He
-is surprised to see that Hiram is already sitting there without Hampton
-having noticed him.
+is surprised to see that Hiram is already sitting there. How, Hampton wondered,
+could he not have noticed him?
 
 Hiram is looking at him and shaking his head woefully.  "Hampton, you a real
 dorkus." He pauses, and looks directly into Hampton's eyes.  Sotto voce he
@@ -377,34 +379,28 @@ But when they step outside the bar, they are in Sumter Forest. Hiram tells
 Hampton, "Let me show you this beautiful lake." But Hampton does not want to
 see it; the notion of going there feels just about like running a red light.
 
-As he wishes that Hiram would leave him alone, a black bear  charges out of
+Just as Hampton is wishing that Hiram would leave him alone, a black bear charges out of
 the forest, straight at Hiram. Exit Hiram, pursued by a bear. 
 
-The storm has reached the forest: all the wind-whipped birds are winging
-home now. Hampton is spun around and around by a gust of wind, and when the
+The storm has reached the forest, and all the wind-whipped birds are winging
+home now. Hampton is spun around and around by the gale, and when the
 spinning stops, he finds himself in a lecture hall at USC, listening to
-Professor Callaban discoursing on "The Impact of the Discovery of the New
+Professor Calliban discoursing on "The Impact of the Discovery of the New
 World on European Culture."
 
 The lecture is interrupted by a piebald dancer, twerking behind the
 professor, singing:
 
 "I'm 'Enery the Eighth, I am,  
-'Enery the Eighth I am, I am!  
-I got married to the widow next door,  
-She's been married seven times before  
-And every one was an 'Enery  
-She wouldn't have a Willie nor a Sam  
-I'm her eighth old man named 'Enery  
-'Enery the Eighth, I am!"
+'Enery the Eighth I am, I am!"
 
-And then Hampton sees that Hiram is in the lecture hall seat next to him.
-Hiram asks him, "Ain't we just two noble kin?"
+Suddenly, Hiram is in the seat next to him.
+Hiram leans over and asks, "Ain't we just two noble kin?"
 
 He begins to chuckle and chuckle. But his laughter grows increasingly
 unsettling, and his mouth opens wider and wider, as if he is about to
 swallow Hampton. The huge mouth becomes a tunnel, and Hampton feels himself
-free-falling down an immense darkness. 
+free-falling down an intense darkness. 
 
 *************
 
