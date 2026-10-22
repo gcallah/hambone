@@ -35,8 +35,9 @@ But I think I need to go for a walk right now."
 "OK, I got philosophy class in a little while. Why you don't take the spare
 key, so you can let yourself in if you get back before I do?"
 
-Hampton did as Hiram recommended. He drifted into the head shop on the corner,
-the business with the Bob Marley mural on its outside wall. He wandered the
+Hampton did as Hiram recommended. He walked downstairs, outside, and
+drifted into the head shop on the corner,
+the business with the Bob Marley mural on its wall. He wandered the
 store looking vacantly at the African drums, tie-dye T-shirts, hookahs, and
 bongs. A young white lady with dreadlocks and multiple piercings, wearing a
 bandana and a "From the river to the sea" T-shirt sat behind
@@ -156,7 +157,7 @@ and Murder." They drag Camellia back from the edge of the roof, and Hampton hear
 her cry for help as she disappears. He rushes through the door of the bar,
 aiming to get up on the roof to save her.
 
-Instead of the bar, Hampton find himself inside a circus tent.  Claude is
+But instead of the bar, Hampton find himself inside a circus tent.  Claude is
 in the center ring, dressed as a lion tamer and holding a whip and a chair. But
 the animal he is trying to tame is not a lion but a small rodent. When
 Hampton looks closer, he sees the creature has Gertie's face. But rather than
@@ -168,7 +169,7 @@ gradually fan out, and violin rivers of gold dust trail behind them. They are
 the translucent, iridescent wings of a moth, and the moth lifts up in flight,
 pulling Hampton up with it. Up through a hole where the rain rushes in through
 the center of the calliope circus tent. Into splintered sunlight they rise.
-Angelic choir in the distance sings:
+A voice within the fiery sun sings:
 
 O man, you sure done it now  
 Alastair Macquistador! You gonna be scraped outta  
@@ -177,11 +178,10 @@ his Regex spinning on a letterbox, will be piped
 through poppycock. In the ninth inning. A Macquistador,  
 but afraid to speak? Run away in shame, Alastair!  
 
-Hampton gradually found himself gently drifting down through myriad branches of
-snow-laden fir trees. Shimmering diamond flakes laid transient spider web
-paintings as though X-rays of the skeletons of the trees 
-
-Far off in the distance, he saw a wild cat on the prowl. As he began to trudge
+Hampton gently drifted down through the spider-web branches of
+snow-laden fir trees that glittered as though diamond strewn.
+Far off in the distance, he saw a fleeting, furtive figure:
+a wild cat on the prowl? As he began to trudge
 through the snow, he found Hiram by his side, whispering in his ear "You're
 being a dick for the second time."
 
@@ -199,13 +199,13 @@ sad, old men.
 
 "Is that what you think? Take a look around you."
 
-Hampton did so and saw that what a moment ago had been fir trees were now the
+Hampton does so and sees that what a moment ago had been fir trees are now the
 pillars holding up the roof of a courtroom. The jury box held an assortment of
 lively creatures: a frog, a dormouse, a rat, a ferret, a hedgehog, a chicken, a
 mole, a duck, a squirrel, and a storkling.
 
 A white rabbit called him to stand up before the judge. Hampton was surprised to
-find that the judge was Claude. He was wearing a white wig like he was a judge
+find that Claude was presiding. He was wearing a white wig like he was a judge
 in England or something, and he called Hampton to approach the bench more
 closely.
 

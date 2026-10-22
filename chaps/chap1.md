@@ -87,8 +87,9 @@ The man looked up at the four occupants of the roof, but said nothing, then
 turned away and continued slowly north on the street, towards the Amtrak
 station at the end of the road.
 
-(The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of
+The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of
 "conveniences," features:  
+
 - Unstaffed station
 - ATM not available
 - No elevator
@@ -97,7 +98,8 @@ station at the end of the road.
 - No restrooms
 - Unaccompanied child travel not allowed
 - No vending machines
-- No WiFi )
+- No WiFi
+
 
 The man might have been heading to the train platform, but if so, he was
 several hours early. However, if not to the station, where else was he going on
