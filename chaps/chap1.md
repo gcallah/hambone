@@ -88,7 +88,7 @@ turned away and continued slowly north on the street, towards the Amtrak
 station at the end of the road.
 
 The station hosts one train per day, at 2:57 AM, and, per Amtrak's list of
-"conveniences," features:  
+"conveniences," features:
 
 - Unstaffed station
 - ATM not available
