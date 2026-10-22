@@ -209,13 +209,15 @@ find that Claude was presiding. He was wearing a white wig like he was a judge
 in England or something, and he called Hampton to approach the bench more
 closely.
 
-Claude leaned forward and whispered to him, "My lack of mercy ain't strained by
+"Closer, boy, closer. I need to see your face. I need to see the fear in your
+eyes. I need to see the terror in your soul. I need to see the guilt in your
+heart." Claude leaned forward and whispered to him, "My lack of mercy ain't strained by
 the thought of you gettin' the chair. Imma rain violence down on you two ways:
 one, right on yo' ass, and two, on anyone who take yo' side. Now you git on
-back to your seat."
+back to yo' seat."
 
-Upon returning to the defense table, Hampton found that Hiram was apparently his
-defense attorney. Hiram leaned over in his turn and said confidentially to
+Upon returning to the defense table, Hampton found that Hiram apparently was his
+attorney. Hiram leaned over in his turn and said confidentially to
 Hampton, "This trial is a whole lotta fuss about nothin'."
 
 "You sure 'bout that?"
