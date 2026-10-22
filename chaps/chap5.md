@@ -179,7 +179,7 @@ but afraid to speak? Run away in shame, Alastair!
 
 Hampton gradually finds himself gently drifting down through myriad branches of
 snow-laden fir trees. Shimmering diamond flakes lay transient spider web
-paintings as though X-rays of the skeletons of the trees 
+paintings as though X-rays of the skeletons of the trees.
 
 Far off in the distance, he sees a wild cat on the prowl. As he begins to trudge
 through the snow, he finds Hiram by his side, whispering in his ear "You're
