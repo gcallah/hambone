@@ -407,11 +407,7 @@ free-falling down an intense darkness.
 Hampton jolted awake, and realized that he was on Hiram's couch. Hiram was
 sitting in an armchair a few feet away, staring at him.
 
-"Brother, it's yo' big day. Time to wakey-wakey!"
-
-
-
-
+"Brother, it's yo' big day. Time to rise and shine!"
 
 
 ## 3.
@@ -442,7 +438,7 @@ With that, Hampton pulled out a pistol, and pointed it at Claude's head. "My
 best old Uncle Claude, why you don't tell everyone here what you done?"
 
 Claude seemed about to speak, but then he grabbed a hold of Gertie, pulled out
-a pistol himself, and pointed it at her head. "Hampton, unless you want to see
+a pistol himself, and pointed it at her head. "Hampton, unless you wanna see
 your mama die before your eyes, you best put that gun away."
 
 While the drama unfolding at the front of the bar had captured everyone's
@@ -479,7 +475,8 @@ Soon, the only people left were a couple of serious drinkers seated in a
 corner, Agnes and Donna, who were cleaning up, and Hiram, who sat at the bar
 sipping a scotch. The door opened, and a tall, slim black man, elegantly
 dressed in gray trousers, a gray button-down shirt, and a black leather jacket,
-and wearing dark, mirrored glasses, stepped into the bar. He took off the
+wearing dark, mirrored glasses, and sporting neat, faux dreadlocks,
+stepped into the bar. He took off the
 glasses and blinked his eyes a couple of times, adjusting to the darkness
 within the building. When he could see again, he spotted Hiram at the bar, and
 said, "Hiram, what up?"
